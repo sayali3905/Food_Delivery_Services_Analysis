@@ -1,0 +1,3152 @@
+Restaurant Name,Item Name,Price
+Panda Express,Peach Lychee Flavored Refresher,$13.00+
+Panda Express,Pomegranate Pineapple Flavored Lemonade,$14.90+
+Panda Express,Watermelon Mango Flavored Refresher,$4.15+
+Panda Express,Barq's Root Beer,$4.15+
+Panda Express,Fanta Orange,$4.15+
+Panda Express,Minute Maid Lemonade,$3.00+
+Panda Express,Sprite,$3.00+
+Panda Express,Coca Cola Cherry,$3.00+
+Panda Express,Fanta Strawberry,$3.00+
+Panda Express,Fuze Raspberry Iced Tea,$3.00+
+Panda Express,Passion Mango Black Tea,$3.00+
+Panda Express,Dasani,$3.00+
+Panda Express,Powerade Berry Blast,$3.00+
+Panda Express,Minute Maid Apple Juice,$3.00+
+Panda Express,Coke Mexico,$3.50+
+Panda Express,Sprite,$3.00+
+Panda Express,Smartwater,$3.90+
+Oscar's Very Mexican Food,Pollo Asado Burrito,$12.00 
+Oscar's Very Mexican Food,Oscar's Combo Plate,$15.00 
+Oscar's Very Mexican Food,Chile Verde Combo Plate,$11.00 
+Oscar's Very Mexican Food,Adobada Combo Plate,$17.00 
+Oscar's Very Mexican Food,Carne Asada Combo Plate,$18.00 
+Oscar's Very Mexican Food,Carnitas Combo Plate,$18.00 
+Oscar's Very Mexican Food,Fajita Combo Plate,$18.50 
+Oscar's Very Mexican Food,Pollo Asado Combo Plate,$18.00 
+Oscar's Very Mexican Food,Carne Asada Fries,$18.00 
+Oscar's Very Mexican Food,Taco Salad,$18.00 
+Oscar's Very Mexican Food,Quesadilla,$15.50 
+Oscar's Very Mexican Food,Quesadilla Supreme,$10.50 
+Oscar's Very Mexican Food,Chips Supreme,$6.50 
+Oscar's Very Mexican Food,Chips with Cheese,$11.00 
+Oscar's Very Mexican Food,Plain Chips,$15.00 
+Oscar's Very Mexican Food,Carnitas Taco,$5.00 
+Oscar's Very Mexican Food,Fajita Taco,$1.50 
+Oscar's Very Mexican Food,Adobada Taco,$5.50 
+Oscar's Very Mexican Food,Beef Taco,$5.50 
+Oscar's Very Mexican Food,Carne Asada Taco,$5.50 
+Oscar's Very Mexican Food,Chicken Taco,$5.00 
+Oscar's Very Mexican Food,Chorizo Taco,$5.50 
+Oscar's Very Mexican Food,Fish Taco,$5.00 
+Oscar's Very Mexican Food,Pollo Asado Taco,$5.25 
+Oscar's Very Mexican Food,Vegetarian Taco,$5.25 
+Oscar's Very Mexican Food,Carne Asada Torta,$5.50 
+Oscar's Very Mexican Food,Chicken Torta,$4.00 
+Oscar's Very Mexican Food,Adobada Torta,$11.75 
+Oscar's Very Mexican Food,Carnitas Torta,$10.50 
+Oscar's Very Mexican Food,Chorizo & Eggs Torta,$11.50 
+Oscar's Very Mexican Food,Ham & Cheese Torta,$11.50 
+Oscar's Very Mexican Food,Machaca Torta,$10.15 
+Oscar's Very Mexican Food,Carne Asada Chimichanga,$10.50 
+Oscar's Very Mexican Food,Chicken Chimichanga,$11.50 
+Falafel Corner,Side Of Gyro/Chicken/Falafels*,$3.99 
+Falafel Corner,Baklava*,$1.99 
+Falafel Corner,Drinks*,$1.69 
+Los Inmortales Taqueria,Coctel de Camaron,$22.55 
+Los Inmortales Taqueria,Coctel de Camaron y Pulpo,$23.55 
+Los Inmortales Taqueria,Caldo de res,$18.25 
+Los Inmortales Taqueria,Pozole,$17.95 
+Los Inmortales Taqueria,Tostada Ceviche,$8.85 
+Los Inmortales Taqueria,Tostada de Camaron and Pulpo,$8.85 
+Los Inmortales Taqueria,Tostada de Camaron,$8.85 
+Los Inmortales Taqueria,Mojarra a la Diabla,$24.45 
+Los Inmortales Taqueria,Mojarra a la Mexicana,$24.45 
+Los Inmortales Taqueria,Mojarra Frita,$24.45 
+Los Inmortales Taqueria,Mojarra al Mojo de Ajo,$24.45 
+Los Inmortales Taqueria,Una Enchilada,$13.65 
+Los Inmortales Taqueria,Dos Enchiladas,$17.50 
+Los Inmortales Taqueria,Tres Enchiladas,$18.99 
+Los Inmortales Taqueria,Super Enchilada,$18.99 
+Los Inmortales Taqueria,Enchilada de Camaron,$20.75 
+Little Caesars Pizza,4 Cheese Crazy Puffs®,$12.89 
+Little Caesars Pizza,Pepperoni Crazy Puffs®,$18.51 
+Little Caesars Pizza,2-Liter Beverage,$5.49 
+Little Caesars Pizza,20 oz Beverage,$5.49 
+Tim's Kitchen Davis,Unagi Don,$13.95 
+Tim's Kitchen Davis,Braised Spicy Pig Feet over Rice,$13.80 
+Tim's Kitchen Davis,Baked Pork Chop with Tomato Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Baked Chicken Steak with Cream Sauce over Rice,$13.80 
+Tim's Kitchen Davis,Braised Spicy Beef Shank over Rice,$13.80 
+Tim's Kitchen Davis,Green Bean with Chicken over Rice,$13.80 
+Tim's Kitchen Davis,Chicken Steak with Black Pepper over Rice,$13.80 
+Tim's Kitchen Davis,Baked Chicken Steak with Cream Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Broccoli Chicken with Rice,$13.80 
+Tim's Kitchen Davis,Baked Pork Chop with Tomato Sauce over Rice,$13.80 
+Tim's Kitchen Davis,Chicken Steak with Black Pepper over Spaghetti,$13.80 
+Tim's Kitchen Davis,Chicken Steak in Portuguese Sauce with Spaghetti,$13.95 
+Tim's Kitchen Davis,Prawns in Portuguese Sauce with Rice,$13.95 
+Tim's Kitchen Davis,Pork Chop with Black Pepper Sauce over Rice,$13.80 
+Tim's Kitchen Davis,Baked Prawns with Cream Sauce over Rice,$13.80 
+Tim's Kitchen Davis,Baked Prawns with Tomato Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Baked Prawns with Cream Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Prawns in Portuguese Sauce with Spaghetti,$13.95 
+Tim's Kitchen Davis,Baked Pork Chop with Cream Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Baked Pork Chop Steak with Cream Sauce over Rice,$13.80 
+Tim's Kitchen Davis,Pork Chop with Black Pepper Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Green Bean with Prawns over Spaghetti,$13.80 
+Tim's Kitchen Davis,Green Bean with Chicken over Spaghetti,$13.80 
+Tim's Kitchen Davis,Green Bean with Prawns over Rice,$13.80 
+Tim's Kitchen Davis,Baked Prawns with Tomato Sauce Over Rice,$13.80 
+McDonald's,Strawberry Shake,$5.29+
+McDonald's,Vanilla Shake,$5.29+
+McDonald's,OREO® Shamrock McFlurry®,$2.79+
+McDonald's,M&M® McFlurry®,$2.99+
+McDonald's,OREO® McFlurry®,$2.99+
+McDonald's,2 Cookies,$2.39 
+McDonald's,3 Pack Of Cookies,$3.19 
+McDonald's,13 Cookie Tote,$11.49 
+McDonald's,Apple Pie,$2.29+
+McDonald's,Strawberry & Crème Pie,$2.29+
+McDonald's,Chicken Pack,$47.69 
+McDonald's,20 pc. Chicken McNuggets® & 2 Medium Fries,$17.19 
+McDonald's,40 pc. Chicken McNuggets®,$15.89 
+McDonald's,40 pc. Chicken McNuggets® & 2 Large Fries,$27.59 
+McDonald's,Burger Pack,$46.99 
+McDonald's,Favorites for 4,$53.79 
+McDonald's,Combo Pack,$56.39 
+McDonald's,Classic Quarter Pounder® with Cheese Pack,$36.29 
+McDonald's,Classic Cheeseburger Pack,$28.29 
+McDonald's,Classic Big Mac® Pack,$36.29 
+McDonald's,2 Medium French Fries,$10.89 
+McDonald's,2 Large Fries,$12.19 
+McDonald's,13 Cookie Tote,$11.49 
+Carl's Jr.,Redhook® Beer-Battered Fish Sandwich,$5.79 
+Carl's Jr.,Fried Zucchini Star,$8.50 
+Carl's Jr.,Hand-Breaded Chicken Sandwich,$10.18 
+Carl's Jr.,Hand-Breaded Bacon Swiss Chicken Sandwich,$11.73 
+Carl's Jr.,3 Piece - Hand-Breaded Chicken Tenders™,$8.89 
+Carl's Jr.,5 Piece - Hand-Breaded Chicken Tenders™,$11.60 
+Carl's Jr.,10 Piece - Hand-Breaded Chicken Tenders™,$18.05 
+Carl's Jr.,15 Piece - Hand-Breaded Chicken Tenders™,$24.50 
+Carl's Jr.,20 Piece - Hand-Breaded Chicken Tenders™,$31.59 
+Carl's Jr.,6 Piece - Chicken Stars™,$6.44 
+Carl's Jr.,9 Piece- Chicken Stars™,$9.02 
+Carl's Jr.,Charbroiled Chicken Club™ Sandwich,$11.98 
+Carl's Jr.,Charbroiled Santa Fe Chicken™ Sandwich,$11.34 
+Carl's Jr.,Charbroiled BBQ Chicken™ Sandwich,$10.69 
+Carl's Jr.,Spicy Chicken Sandwich,$5.41 
+El Patio Fresh Mexican Grill,El Patio Fries,$17.50 
+El Patio Fresh Mexican Grill,Surf & Turf Fries,$21.65 
+El Patio Fresh Mexican Grill,Super Nachos,$17.50 
+El Patio Fresh Mexican Grill,Super Quesadilla,$21.25 
+El Patio Fresh Mexican Grill,Mex Quesadilla,$21.65 
+El Patio Fresh Mexican Grill,Mulita,$7.99 
+El Patio Fresh Mexican Grill,Cheese Quesadilla,$11.65 
+El Patio Fresh Mexican Grill,Fajita Quesadilla,$21.65 
+El Patio Fresh Mexican Grill,Veggie Fajita Quesadilla,$17.08 
+El Patio Fresh Mexican Grill,Quesabirria Torta,$23.32 
+El Patio Fresh Mexican Grill,Super Torta,$23.32 
+El Patio Fresh Mexican Grill,Mex Torta,$19.17 
+Jack in the Box,3PC French Toast Sticks Platter w/ Bacon Combo,$13.49 
+Jack in the Box,3PC French Toast Sticks Platter w/ Sausage Combo,$13.49 
+Jack in the Box,Grande Sausage Burrito Combo,$13.61 
+Jack in the Box,Supreme Croissant Combo,$12.49 
+Jack in the Box,Sausage Croissant Combo,$12.36 
+Jack in the Box,Supreme Sourdough Breakfast Sandwich Combo,$11.74 
+Jack in the Box,Meat Lovers Burrito Combo,$13.61 
+Jack in the Box,Loaded Breakfast Sandwich Combo,$13.74 
+Jack in the Box,Extreme Sausage® Sandwich Combo,$12.49 
+Jack in the Box,Ultimate Breakfast Sandwich Combo,$13.49 
+Jack in the Box,Sausage Breakfast Jack® Combo,$9.74 
+Jack in the Box,Breakfast Jack® Combo,$9.24 
+Jack in the Box,Build Your Own Munchie Meal,$15.00+
+Raising Cane's Chicken Fingers,The Box Combo,$12.99+
+Fire Wings Natomas,REG - PLAIN FRIES,$16.09+
+Fire Wings Natomas,LRG - PLAIN FRIES,$70.39+
+Fire Wings Natomas,REG - SEASON FRIES,$3.69 
+Fire Wings Natomas,LRG - SEASONED FRIES,$4.89 
+Fire Wings Natomas,REG - GARLIC FRIES,$4.29 
+Fire Wings Natomas,LRG - GARLIC FRIES,$5.49 
+Fire Wings Natomas,REG - FIRE FRIES,$5.89 
+Fire Wings Natomas,LRG - FIRE FRIES,$7.09 
+Fire Wings Natomas,REG - CHILI CHEESE FRIES,$5.89 
+Fire Wings Natomas,REG - TATER TOTS,$7.09 
+Fire Wings Natomas,LRG - TATER TOTS,$6.49 
+Fire Wings Natomas,REG - CHILI CHEESE TOTS,$5.09 
+Fire Wings Natomas,LRG - CHILI CHEESE TOTS,$6.29 
+Fire Wings Natomas,LRG - CHILI CHEESE FRIES,$7.29 
+524 Mexican Food,524 Chile Relleno Burger,$15.99 
+524 Mexican Food,Cheeseburger,$13.99 
+524 Mexican Food,Torta,$14.99 
+524 Mexican Food,Quessbirria (3) A la Carte,$13.99 
+524 Mexican Food,Enchilada A la Carte,$4.99 
+524 Mexican Food,Tamale A la Carte,$5.99 
+524 Mexican Food,Chile Relleno A la Carte,$6.99 
+524 Mexican Food,Tostada A la Carte,$5.99 
+524 Mexican Food,Burrito A la Carte,$6.49 
+524 Mexican Food,Quesadilla A la Carte,$5.49 
+524 Mexican Food,Sope A la Carte,$5.99 
+524 Mexican Food,Rice A la Carte,$4.99 
+524 Mexican Food,Beans A la Carte,$4.99 
+Skip's Fish & Chicken ( Truxel Rd),Pick 2 Combo Basket,$25.99+
+Skip's Fish & Chicken ( Truxel Rd),Whole Wing,$4.55 
+Skip's Fish & Chicken ( Truxel Rd),3 Piece Jumbo Shrimp,$8.13 
+Skip's Fish & Chicken ( Truxel Rd),1 Piece Catfish,$3.90 
+Skip's Fish & Chicken ( Truxel Rd),4 Piece Fish Nuggets,$3.90 
+Skip's Fish & Chicken ( Truxel Rd),4 Piece Chicken Bites,$5.20 
+Skip's Fish & Chicken ( Truxel Rd),1 Piece Cod,$4.55 
+Skip's Fish & Chicken ( Truxel Rd),1 Piece Chicken Tender,$4.55 
+Skip's Fish & Chicken ( Truxel Rd),1 Piece Red Snapper,$4.55 
+Skip's Fish & Chicken ( Truxel Rd),3 Piece Oysters,$9.10 
+Skip's Fish & Chicken ( Truxel Rd),1 Piece Tilapia,$4.55 
+Skip's Fish & Chicken ( Truxel Rd),Peach Cobbler,$7.79 
+Skip's Fish & Chicken ( Truxel Rd),Fasto Banana Pudding,$5.84 
+Skip's Fish & Chicken ( Truxel Rd),Pecan Pie,$7.14 
+Skip's Fish & Chicken ( Truxel Rd),Sweet Potato Pie,$7.14 
+Skip's Fish & Chicken ( Truxel Rd),Slice Birthday Cake,$7.14 
+Skip's Fish & Chicken ( Truxel Rd),Slice Strawberry Cake,$7.14 
+Skip's Fish & Chicken ( Truxel Rd),Slice Chocolate Cake,$7.14 
+Skip's Fish & Chicken ( Truxel Rd),Slice Oreo Cake,$7.14 
+Chili's,Triple Dipper®,$20.89+
+Chili's,Guiltless Sirloin* - 6 oz.,$20.29 
+Chili's,Ultimate Smokehouse Combo,$30.39+
+Chili's,Smokehouse Combo,$27.19+
+Chili's,Ultimate Cajun Pasta,$24.69 
+Chili's,Cajun Pasta,$20.79+
+Chili's,Ancho Salmon,$26.09+
+Chili's,Chipotle Fresh Mex Bowl,$19.89+
+Chili's,Margarita Grilled Chicken,$20.69+
+Popeyes,Flounder Fish Sandwich,$8.39 
+Popeyes,Flounder Fish Sandwich Combo,$11.99 
+Popeyes,Flounder Fish Sandwich Large Combo,$14.39 
+Popeyes,Surf N Turf,$6.59 
+Popeyes,Shrimp Tackle Box,$8.39+
+Popeyes,¼ Pound Popcorn Shrimp*,$11.79 
+Popeyes,¼ Pound Popcorn Shrimp Combo*,$14.79+
+Popeyes,Wing Sauces,$0.90 
+Popeyes,Dipping Sauces,$0.25 
+Popeyes,Homestyle Mac & Cheese,$5.19+
+Popeyes,Cajun Fries,$5.19+
+Popeyes,Mashed Potatoes with Cajun Gravy,$5.19+
+Popeyes,Red Beans & Rice,$5.19+
+Popeyes,Coleslaw,$5.19+
+Popeyes,Biscuit,$1.59+
+Taco Bell,Discovery Luxe Box,$12.18+
+Taco Bell,Classic Luxe Box,$7.30+
+Taco Bell,Supreme® Luxe Box,$9.74+
+Taco Bell,Cantina Chicken Crispy Taco Meal,$12.18+
+Taco Bell,Cantina Chicken Burrito Meal,$14.62+
+Taco Bell,Cantina Chicken Quesadilla Meal,$14.62+
+Taco Bell,Steak Grilled Cheese Burrito Combo,$12.91+
+Taco Bell,Mexican Pizza Combo,$15.84+
+Taco Bell,Chicken Quesadilla Combo,$14.62+
+Taco Bell,Nachos BellGrande® Combo,$15.72+
+Taco Bell,2 Chicken Chalupas Supreme Combo,$17.55+
+Taco Bell,Crunchwrap Supreme® Combo,$14.62+
+Taco Bell,3 Crunchy Tacos Combo,$10.96+
+Taco Bell,3 Crunchy Tacos Supreme® Combo,$14.62+
+Taco Bell,3 Doritos® Locos Tacos Combo,$14.50+
+Taco Bell,3 Doritos® Locos Tacos Supreme Combo,$16.70+
+Taco Bell,3 Soft Tacos Combo,$10.96+
+Taco Bell,3 Soft Tacos Supreme® Combo,$14.62+
+Taco Bell,Burrito Supreme® Combo,$14.87+
+Jersey Mike's,#10 Tuna Fish,$13.01+
+Panera Bread,NEW Rustic Baked Potato Soup,$11.39+
+Panera Bread,Tuna Salad Sandwich,$14.29+
+Panera Bread,Cranberry Walnut Chicken Salad Sandwich,$13.69+
+Panera Bread,Chipotle Chicken Avo Melt,$16.59+
+Panera Bread,Chicken Roma Asiago Bagel Stack,$9.89+
+Panera Bread,Mediterranean Veggie & Creamy Tomato Soup,$11.19 
+Panera Bread,Spicy Steak Asiago Bagel Stack,$9.89+
+Panera Bread,Turkey & Cheddar Sandwich & Cream of Chicken & Wild Rice Soup,$11.19 
+Panera Bread,Premium Family Feast,$49.89 
+Panera Bread,Grilled Cheese & Creamy Tomato Soup,$11.19 
+Panera Bread,Zesty Tuscan Asiago Bagel Stack,$9.89+
+Panera Bread,Premium Family Feast with Cookies,$54.89 
+Panera Bread,Mediterranean Veggie,$11.79+
+Panera Bread,Ciabatta Cheesesteak,$17.89+
+Panera Bread,Spicy Fiesta Chicken,$16.59+
+Panera Bread,Toasted Frontega Chicken®,$16.59+
+Panera Bread,Bacon Turkey Bravo®,$16.59+
+Panera Bread,Chicken Bacon Rancher,$16.59+
+Panera Bread,Toasted Garden Caprese,$14.29+
+Applebee's,NEW Hot Honey Glazed Chicken & Bacon Skillet,$18.39 
+Applebee's,Bourbon Street Chicken & Shrimp,$23.99 
+Applebee's,Chicken Tenders Platter,$18.39 
+Applebee's,Chicken Tenders Plate,$21.59 
+Applebee's,Fiesta Lime Chicken®,$16.79 
+Applebee's,Grilled Chicken Breast,$15.59 
+Applebee's,NEW Bourbon Street Chicken & Andouille Sausage Penne,$19.19 
+Applebee's,NEW Blackened Shrimp & Andouille Sausage Penne,$17.99 
+Applebee's,Classic Broccoli Chicken Alfredo,$14.39 
+Applebee's,Classic Blackened Shrimp Alfredo,$16.79 
+Applebee's,Four-Cheese Mac & Cheese with Honey Pepper Chicken Tenders,$19.99 
+Applebee's,Three-Cheese Chicken Penne,$21.19 
+Applebee's,Breadsticks with Alfredo Sauce,$20.39 
+Applebee's,Blackened Cajun Salmon,$19.59 
+Applebee's,Double Crunch Shrimp,$8.79 
+Applebee's,Hand-Battered Fish & Chips,$23.59 
+Marco's Pizza,CinnaSquares,$11.49+
+Marco's Pizza,Double Chocolate Brownie,$11.49+
+Marco's Pizza,Chocolate CinnaSquares,$9.53+
+Marco's Pizza,Blue Cheese Cup,$0.79+
+Marco's Pizza,Caesar Dressing,$0.79+
+Marco's Pizza,Greek Vinaigrette Dressing,$0.79+
+Marco's Pizza,Buffalo Dipping Cup,$0.79+
+Marco's Pizza,Vanilla Icing,$0.79+
+Marco's Pizza,Italian Dressing,$0.79+
+Marco's Pizza,Jalapeno Ranch Dipping Cup,$0.79+
+Marco's Pizza,Pizza Sauce Dipping Cup,$0.79+
+Marco's Pizza,Ranch Dipping Cup,$0.79+
+Marco's Pizza,Ranch Dressing,$0.79+
+Marco's Pizza,Tangy BBQ Dipping,$0.79+
+Marco's Pizza,Garlic Butter Dipping Cup,$0.79+
+Marco's Pizza,Side of,$0.58+
+Marco's Pizza,Jalapeno Side Cup,$0.79+
+Marco's Pizza,Banana Pepper Side Cup,$0.79+
+I Heart Mac & Cheese,Build Your Own Mac and Cheese,$16.85+
+I Heart Mac & Cheese,Chocolate Chip Cookie Cup,$5.35 
+I Heart Mac & Cheese,Chewy Marshmallow Bar,$4.10 
+I Heart Mac & Cheese,Churro Bites Small,$4.75 
+I Heart Mac & Cheese,Churro Bites Large,$7.49 
+I Heart Mac & Cheese,Kid’s Mac and Cheese,$9.95+
+I Heart Mac & Cheese,Kid’s Grilled Cheese,$9.95+
+I Heart Mac & Cheese,Bottled Water,$2.65 
+I Heart Mac & Cheese,Red Bull,$4.45 
+I Heart Mac & Cheese,Fountain Drink,$3.25 
+I Heart Mac & Cheese,Sugar Free Red Bull,$4.45 
+I Heart Mac & Cheese,Apple Juice,$3.15 
+I Heart Mac & Cheese,Red Bull Yellow Edition,$4.45 
+Tasty Kitchen,Hong Kong Style Ribs,$18.75 
+Tasty Kitchen,Curry Roast Duck Clay Pot,$19.50 
+Tasty Kitchen,Curry Chicken Clay Pot,$19.14 
+Tasty Kitchen,Curry Assorted Seafood Clay Pot,$21.54 
+Tasty Kitchen,Curry Pork Chop Clay Pot,$19.14 
+Tasty Kitchen,Curry Beef Stew Clay Pot,$21.54 
+Tasty Kitchen,Curry Prawn Clay Pot,$21.54 
+Tasty Kitchen,Curry Beef,$19.14 
+Tasty Kitchen,Oyster and Roast Pork in Clay Pot,$21.80 
+Tasty Kitchen,Braised Seafood with Tofu in Clay Pot,$20.35 
+Tasty Kitchen,Spicy Seafood with Tofu in Clay Pot,$20.35 
+Tasty Kitchen,Tender Beef Stew in Clean Broth,$26.50 
+Tasty Kitchen,Chicken and Eggplant with Salty Fish Flavor in Clay Pot,$19.14 
+Tasty Kitchen,Garlic Eggplant with Cod Fillet in Clay Pot,$20.35 
+Tasty Kitchen,House Special Clay Pot,$21.80 
+Tasty Kitchen,Braised Cod Fillet in Clay Pot,$20.34 
+Tasty Kitchen,House Special Chicken in Clay Pot,$20.35 
+Tasty Kitchen,Braised Beef Brisket and Casserole,$21.54 
+Tasty Kitchen,Beer Marinated Beef Short Rib with Japanese Pumpkin in Clay Pot,$22.75 
+Tasty Kitchen,Chicken and Tofu with Salted Fish Flavor,$19.14 
+Wayback Burgers,SWEET BACON BURGER,$13.59 
+Wayback Burgers,BACON CHEESE FRIES,$6.19+
+Wayback Burgers,TATER TOTS,$4.89+
+Wayback Burgers,CAJUN TATER TOTS,$4.89+
+Wayback Burgers,ONION RINGS,$5.99+
+Wayback Burgers,REGULAR CHEESE FRIES,$5.79 
+Wayback Burgers,LARGE CHEESE FRIES,$8.09 
+Wayback Burgers,FRESH BREWED ICED TEA,$4.09+
+Wayback Burgers,FOUNTAIN DRINKS,$4.09+
+Wayback Burgers,BOTTLED WATER,$4.09+
+Wayback Burgers,BROWNIE MILKSHAKE,$8.69 
+Wayback Burgers,CINNAMON TOAST CRUNCH MILKSHAKE,$8.69 
+Wayback Burgers,RED VELVET SHAKE,$8.69 
+Iron Horse Tavern,Turkey Sandwich,$20.35 
+Iron Horse Tavern,Beer Batter Fish & Chips,$26.70 
+Iron Horse Tavern,Hawaiian Style Ribeye Steak,$39.54 
+Iron Horse Tavern,Roasted Half Chicken,$33.00 
+Iron Horse Tavern,Beer Batter Fish & Chips,$26.70 
+Iron Horse Tavern,Beignets,$13.15 
+Iron Horse Tavern,Cinnamon Churro Sundae,$10.75 
+Iron Horse Tavern,Banana Cream Pie,$10.75 
+Iron Horse Tavern,Breakfast Board,$16.50 
+Iron Horse Tavern,Tavern Fried Chicken ‘n Pancakes,$26.70 
+Iron Horse Tavern,Pepsi,$4.65 
+Iron Horse Tavern,Diet Pepsi,$4.65 
+Iron Horse Tavern,Sierra Mist,$4.65 
+Iron Horse Tavern,Mug Root Beer,$4.65 
+Iron Horse Tavern,Red Bull,$5.70 
+Iron Horse Tavern,Dr Pepper,$4.65 
+Iron Horse Tavern,Ginger Ale,$4.65 
+Iron Horse Tavern,Iced Tea,$4.65 
+Iron Horse Tavern,Ginger Beer,$4.50 
+Iron Horse Tavern,Fiji Still,$4.95 
+Iron Horse Tavern,San Pellegrino Sparkling,$5.00 
+Pooja Indian Grill,Lamb Curry,$15.99 
+Pooja Indian Grill,Lamb Saag Wala,$15.99 
+Pooja Indian Grill,Lamb Vindaloo,$15.99 
+Pooja Indian Grill,Rogan Josh,$15.99 
+Pooja Indian Grill,Lamb Pasanda,$15.99 
+Pooja Indian Grill,Karahi Ghosht,$15.99 
+Pooja Indian Grill,Prawn Curry,$16.99 
+Pooja Indian Grill,Prawn Pepper Masala,$16.99 
+Pooja Indian Grill,Prawn Saag Wala,$16.99 
+Pooja Indian Grill,Madras Prawn Masala,$16.99 
+Pooja Indian Grill,Fish Masala,$16.99 
+Pooja Indian Grill,Prawn Korma,$16.99 
+Pooja Indian Grill,Saag Paneer,$13.99 
+Pooja Indian Grill,Chana Masala (Chole),$13.99 
+Pooja Indian Grill,Mixed Vegetables,$13.99 
+Pooja Indian Grill,Matter Paneer,$13.99 
+Pooja Indian Grill,Aloo Ghobi,$13.99 
+Pooja Indian Grill,Benghan Bharta,$13.99 
+Pooja Indian Grill,Navratan Shahi Korma,$13.99 
+Pooja Indian Grill,Daal Makhani,$13.99 
+Pooja Indian Grill,Yellow Daal,$13.99 
+Pooja Indian Grill,Paneer Masala,$13.99 
+Pooja Indian Grill,Malai Kofta,$13.99 
+Pooja Indian Grill,Bhindi,$13.99 
+Pooja Indian Grill,Shahi Paneer,$13.99 
+Pooja Indian Grill,Paneer Tikka Masala,$13.99 
+Pooja Indian Grill,Paneer Tikka,$13.99 
+Lazi Cow,Black Milk Tea,$6.75 
+Lazi Cow,Jasmin Green Milk Tea,$6.75 
+Lazi Cow,Thai Milk Tea,$6.75 
+Lazi Cow,Taro Milk Tea,$6.75 
+Lazi Cow,Brown Sugar Milk Tea,$6.75 
+Lazi Cow,Matcha Milk Tea,$6.75 
+Lazi Cow,Mica Akira Milk Tea,$6.95 
+Lazi Cow,Lazi Cow Style BMT Milk Tea,$6.95 
+Lazi Cow,HK Thai Milk Tea,$6.95 
+Lazi Cow,Matcha Love,$7.25 
+Lazi Cow,Moodoo Matcha,$7.25 
+Lazi Cow,Lazi Cow Style GMT Matcha,$7.25 
+Hunan Style,Sauteed Smoked Pork with Dried Radishes 萝卜干炒腊肉,$20.95 
+Hunan Style,Meat & Vegetable Mixed Hot Spicy Dry Pot 一品麻辣香锅,$36.95 
+Hunan Style,Boiled Meat & Vegetable Hot Pot 江湖锅麻辣烫,$24.95 
+Hunan Style,Laotan Boiled Fish with Pickled Cabbage and Chilli 老坛酸菜鱼,$24.95 
+Hunan Style,Boiled Fish with Chilli 特色沸腾鱼,$24.95 
+Hunan Style,Omelette with Spare Ribs 排骨焖煎蛋,$18.95 
+Hunan Style,Braised Pig Feet with Reserved Recipe in Clay Pot 湘西香辣美容蹄,$18.95 
+Hunan Style,Boiled Fish with Rattan Pepper 湘西藤椒鱼,$24.95 
+Hunan Style,Coutry Style Stewed Chicken with Mexican Pepper,$20.39 
+Hunan Style,Sauteed Pork Enoki Mushroom Fungus & Egg,$18.95 
+Hunan Style,Griddle Cooked Stir-Fried Spicy Shrimp & Pork Ribs 干锅排骨虾,$22.95 
+Hunan Style,Griddle Cooked Organic Chicken with Peppers 干锅土鸡,$18.95 
+Hunan Style,Griddle Cooked Smoked Pork with Organic Cauliflower 干锅腊肉有机花菜,$18.95 
+Hunan Style,Griddle Cooked Fragrant Cabbages & Pork 干锅手撕包菜,$18.12 
+Hunan Style,Griddle Cooked Pig Intestine with Peppers 干锅肥肠,$22.95 
+Hunan Style,Griddle Cooked Braised Pig Feet 干锅五香猪手,$18.95 
+Rick's Dessert Diner,Our Award Winning Tiramisu,$10.50 
+Rick's Dessert Diner,Buddy Holly,$18.95 
+Rick's Dessert Diner,Creme Brullee - Bien Sur! (And Gluten Free!),$12.00 
+Rick's Dessert Diner,Rick's Truffle Torte Slice,$11.95 
+Rick's Dessert Diner,Midnight Torte Slice,$11.95 
+Rick's Dessert Diner,Individual 5inch Apple Pie,$11.95 
+Rick's Dessert Diner,Individual 5inch Cherry Pie,$11.95 
+Rick's Dessert Diner,Individual 5inch Pecan Pie,$11.95 
+Rick's Dessert Diner,Individual 5inch Peach Pie,$11.95 
+Rick's Dessert Diner,Individual Oreo Cheesecake,$11.95 
+Rick's Dessert Diner,Individual York Style Cheesecake,$11.95 
+Rick's Dessert Diner,Key Lime Pie Slice!,$10.00 
+Rick's Dessert Diner,Assortment (Subject to Availability) of 5 Delightful Holiday Cookies - the Prettiest Hand Made Cookies Ever!,$38.00 
+Rick's Dessert Diner,THE. BEST. Snickerdoodle Cookie!,$4.50 
+Rick's Dessert Diner,Chocolate Chip Cookie,$4.50 
+Rick's Dessert Diner,Salted Chocolate Chip Cookie,$4.50 
+Rick's Dessert Diner,Peanut Butter Cookie,$4.50 
+Rick's Dessert Diner,Oatmeal Raisin Cookie,$4.50 
+Rick's Dessert Diner,Caramel Napoleon,$11.00 
+Rick's Dessert Diner,Chocolate Eclair - Le Yum!,$10.00 
+Rick's Dessert Diner,"Mille-Feuille Napoleon (Literally Translated: 1000 Sheets of Puff Pastry) - Classic, Timeless and So Delicious!",$11.00 
+Rick's Dessert Diner,Fonz,$18.95 
+Rick's Dessert Diner,Buddy Holly,$18.95 
+Rick's Dessert Diner,Liz Taylor,$18.95 
+Rick's Dessert Diner,Elvis,$18.95 
+Rick's Dessert Diner,Monroe,$18.95 
+Rick's Dessert Diner,Rick's Classic,$18.95 
+Rick's Dessert Diner,Bogart,$18.95 
+Rick's Dessert Diner,Hepburn,$18.95 
+Rick's Dessert Diner,James Dean,$18.95 
+Rick's Dessert Diner,Brando,$18.95 
+Cajun Feast,Fried Rice,$18.00 
+Cajun Feast,Pan Fried Egg & Minced Beef Over Rice,$19.50 
+Cajun Feast,Mapo Tofu Plated Rice (Spicy),$18.00 
+Cajun Feast,Toasted Cheese & Garlic Fried Rice,$16.50 
+Cajun Feast,Chinese Sausage Golden Double Egg Fried Rice,$22.50 
+Cajun Feast,Pulled Ginger & Scallion Chicken with Rice,$18.00 
+Cajun Feast,XO Sauce Fried Rice,$22.50 
+Cajun Feast,Supreme Soy Sauce Stir Fried Noodle,$17.30 
+Cajun Feast,Chow Mein,$18.00 
+Cajun Feast,Singaporean Stir Fried Rice Noodle,$19.50 
+Manna Restaurant,202. Doenjang – Jjigae,$22.79 
+Manna Restaurant,203. Chadol Doenjang,$23.99 
+Manna Restaurant,204. Kimchi - Jjigae,$22.79 
+Manna Restaurant,205. Tofu-Jjigae,$22.79 
+Manna Restaurant,206. Budae - Jjigae,$27.59+
+Manna Restaurant,207. Yukgaejang,$25.19 
+Manna Restaurant,208. Galbitang,$32.39 
+Manna Restaurant,210. Samgyetang,$35.99 
+Manna Restaurant,R-701. Chicken Teriyaki,$25.19 
+Manna Restaurant,R-702. Spicy Chicken,$25.19 
+Manna Restaurant,R-703. Spicy Polk – Bulgogi,$26.39 
+Manna Restaurant,R-704. Jeyuk - Kimchi – Bokkeum,$28.79 
+Manna Restaurant,R-705. Ojingeo– Bokkeum,$32.39 
+Manna Restaurant,R-706. Ohsam – Bulgogi,$34.79 
+Manna Restaurant,R-707. Bulgogi,$31.19 
+Manna Restaurant,R-708. Galbi,$38.99 
+Manna Restaurant,R-709. Grilled Mackerel,$27.59 
+Hook & Ladder,Chocolate Budino,$11.70 
+Thai Farm House,Fresh Roll,$10.95 
+Thai Farm House,Drunken Noodles,$16.95+
+Thai Farm House,Prik Khing,$16.95+
+Thai Farm House,Prik Khing,$16.95+
+Thai Farm House,Combination Prik Khing,$18.95+
+Thai Farm House,Pad Pak,$16.95+
+Thai Farm House,Combination Pad Pak,$18.95+
+Thai Farm House,Pa Ram,$16.95+
+Thai Farm House,Combination Pa Ram,$18.95+
+Thai Farm House,Sweet and Sour,$16.95+
+Thai Farm House,Combination Sweet and Sour,$18.95+
+Thai Farm House,Thai Fried Rice,$16.95+
+Thai Farm House,Combination Thai Fried Rice,$18.95+
+Thai Farm House,Spicy Basil Fried Rice,$16.95+
+Thai Farm House,Combination Spicy Basil Fried Rice,$18.95+
+Thai Farm House,Pineapple Fried Rice,$16.95+
+Thai Farm House,Combination Pineapple Fried Rice,$18.95+
+Thai Farm House,Kanha Moogrob,$17.95 
+Thai Farm House,Grapow Moogrob,$17.95 
+Davis Sushi Restaurant,Ika Sashimi,$16.95 
+Davis Sushi Restaurant,Smoked Salmon,$16.95 
+Davis Sushi Restaurant,Seared Albacore Sashimi,$16.95 
+Davis Sushi Restaurant,Hokkigai,$16.50 
+Davis Sushi Restaurant,Saba Sashimi,$16.50 
+Davis Sushi Restaurant,Tako Sashimi,$16.95 
+Davis Sushi Restaurant,Hamachi Sashimi,$16.95 
+Davis Sushi Restaurant,California Roll,$11.50 
+Davis Sushi Restaurant,Kani-tago Maki (10pcs),$13.95 
+Davis Sushi Restaurant,Shrimp Tempura Roll,$13.50 
+Davis Sushi Restaurant,Sake Maki,$13.50 
+Davis Sushi Restaurant,Philadelphia Roll,$14.50 
+Davis Sushi Restaurant,Spicy Salmon roll,$14.50 
+Davis Sushi Restaurant,Alaskan Roll,$14.50 
+Davis Sushi Restaurant,Tekka Maki,$13.95 
+Davis Sushi Restaurant,Hawaiian Roll,$14.50 
+Davis Sushi Restaurant,Spicy Tuna Roll,$14.50 
+Davis Sushi Restaurant,Unakyu Roll,$14.95 
+Davis Sushi Restaurant,Rock and Roll,$14.95 
+Davis Sushi Restaurant,S.O.S roll,$14.95 
+Davis Sushi Restaurant,Futo-ebi roll (10ps),$15.95 
+Davis Sushi Restaurant,Negihama Maki (10pcs),$15.95 
+WeDaShii,They See Me Roll-N- Roll,$14.00 
+WeDaShii,Better than Mike Tyson Roll,$14.50 
+WeDaShii,Your Favorite Sushi Chef's Favorite Sushi Roll,$15.00 
+WeDaShii,Mariah Carey Is a Diva Roll,$15.00 
+WeDaShii,Sorry I'm Allergic Roll,$12.50 
+WeDaShii,1 Man Can Change the World Roll,$16.00 
+WeDaShii,CK.R.E.A.M Roll,$14.50 
+WeDaShii,Mimi's Special Roll,$15.00 
+WeDaShii,You're Welcome Roll,$12.50 
+WeDaShii,Snoop lion,$14.50 
+WeDaShii,Kicx Unlimited Roll,$18.50 
+WeDaShii,Rocco Flacco Flame roll,$16.00 
+WeDaShii,fresh 2 def,$16.00 
+WeDaShii,The Good Life Roll,$15.50 
+Pho King 4 ,"08. Pho noodle: Sliced steak, Brisket",$14.30 
+Pho King 4 ,54. House Curry - Chicken,$15.40 
+Pho King 4 ,MN1. Banh Mi Mini Combo,$6.05 
+Pho King 4 ,MN2. Banh Mi Mini Grilled Pork,$6.05 
+Pho King 4 ,MN3. Banh Mi Mini Grilled Chicken,$6.05 
+Pho King 4 ,MN4. Banh Mi Mini Tofu,$5.50 
+Pho King 4 ,BM2. Pork Roll Banh Mi,$8.80 
+Pho King 4 ,BM4. Grilled Chicken Banh Mi,$8.80 
+Pho King 4 ,BM5. Fried Egg Banh Mi,$8.80 
+Pho King 4 ,BM6. Tofu Banh Mi,$8.25 
+Pho King 4 ,BM7. Special Vegan Banh Mi,$8.80 
+Pho King 4 ,K2. Beef Pho with Sliced Steak,$7.70 
+Pho King 4 ,K3. Beef Pho with Meatballs,$7.70 
+Pho King 4 ,K4. Chicken Pho,$7.70 
+Jack's Urban Eats,Santa Fe Chicken,$19.33 
+Jack's Urban Eats,Kids Chicken Strips,$11.33 
+Jack's Urban Eats,Kids Grilled Cheese,$11.33 
+Jack's Urban Eats,Kids Chicken Plate,$11.33 
+Jack's Urban Eats,Kids Steak Plate,$11.33 
+Jack's Urban Eats,Kids Turkey Plate,$11.33 
+Jack's Urban Eats,Mac & Cheese,$7.73 
+Jack's Urban Eats,Mashed Potatoes,$7.73 
+Jack's Urban Eats,Baked Cheese Bread,$2.67 
+Jack's Urban Eats,Sliced Pugliese,$1.33 
+Jack's Urban Eats,Veg- Roasted Asparagus,$5.75 
+Jack's Urban Eats,Turkey Corn Chowder,$8.67 
+Jack's Urban Eats,Winter Vegetables,$7.73 
+Tasty Palace Pin Xiang Ge,"Pork with Egg, Cucumber and Black Fungus木须肉",$19.99 
+Tasty Palace Pin Xiang Ge,Sweet and Sour Ribs糖醋排骨,$20.99 
+Tasty Palace Pin Xiang Ge,Braised Pig‘s Trotter红烧猪脚,$21.99 
+Tasty Palace Pin Xiang Ge,Stir-fried Pork with Bamboo笋尖炒肉,$19.99 
+Tasty Palace Pin Xiang Ge,Stir-fried Pork with Green Pepper青椒炒肉,$19.99 
+Tasty Palace Pin Xiang Ge,Shredded Pork with Sweet Bean Sauce京酱肉丝,$19.99 
+Tasty Palace Pin Xiang Ge,Spicy Pig's Trotter香辣猪脚,$21.99 
+Tasty Palace Pin Xiang Ge,Sweet and Sour Chicken甜酸鸡,$18.99 
+Tasty Palace Pin Xiang Ge,Boneless Spicy Chicken无骨辣子鸡,$18.99 
+Tasty Palace Pin Xiang Ge,Spicy Chicken with Noodles大盘鸡,$23.99 
+Tasty Palace Pin Xiang Ge,Chicken with Broccoli 芥兰鸡,$18.99 
+Tasty Palace Pin Xiang Ge,Kung Pao Chicken 宫保鸡丁,$18.99 
+Tasty Palace Pin Xiang Ge,Spicy Mongolian Chicken蒙古鸡,$18.99 
+Tasty Palace Pin Xiang Ge,Braised Beef Brisket with Tomato,$21.99 
+Tasty Palace Pin Xiang Ge,Spicy Mongolian Beef,$20.99 
+Tasty Palace Pin Xiang Ge,Stir-fried Beef with Chili,$20.99 
+Tasty Palace Pin Xiang Ge,Beef with Broccoli,$19.99 
+Tasty Palace Pin Xiang Ge,Szechuan Boiled Beef,$22.99 
+Tasty Palace Pin Xiang Ge,Beef with Chili Pepper,$20.99 
+Tasty Palace Pin Xiang Ge,Stir-fried Beef with Onion,$20.99 
+Tasty Palace Pin Xiang Ge,Cumin Flavored Beef,$20.99 
+Teriyaki Madness,Utensils & Napkins,$14.99+
+Panda Express,Peach Lychee Flavored Refresher,$13.00+
+Panda Express,Pomegranate Pineapple Flavored Lemonade,$14.90+
+Panda Express,Watermelon Mango Flavored Refresher,$4.15+
+Panda Express,Barq's Root Beer,$4.15+
+Panda Express,Fanta Orange,$4.15+
+Panda Express,Minute Maid Lemonade,$3.00+
+Panda Express,Sprite,$3.00+
+Panda Express,Coca Cola Cherry,$3.00+
+Panda Express,Fanta Strawberry,$3.00+
+Panda Express,Fuze Raspberry Iced Tea,$3.00+
+Panda Express,Passion Mango Black Tea,$3.00+
+Panda Express,Dasani,$3.00+
+Panda Express,Powerade Berry Blast,$3.00+
+Panda Express,Minute Maid Apple Juice,$3.00+
+Panda Express,Coke Mexico,$3.50+
+Panda Express,Sprite,$3.00+
+Panda Express,Smartwater,$3.90+
+Dah Bao,Wintermelon Jasmine Milk Tea,$6.00 
+Dah Bao,Pineapple Jasmine Milk Tea,$6.00 
+Dah Bao,Passion Fruit Jasmine Milk Tea,$6.00 
+Dah Bao,Jasmine Milk Tea,$5.50 
+Dah Bao,Peach Jasmine Milk Tea,$6.00 
+Dah Bao,Peach Yakult Tea,$6.00 
+Dah Bao,Lychee Yakult Tea,$6.00 
+Dah Bao,Mango Yakult Tea,$6.00 
+Dah Bao,Strawberry Yakult Tea,$6.00 
+Dah Bao,Taro Strawberry Milk Tea,$6.00 
+Dah Bao,Brown Sugar Milk,$6.00 
+Dah Bao,Taro Milk Tea,$6.00 
+Dah Bao,Wintermelon Milk,$6.00 
+Dah Bao,Reeses Ice Cream Shake,$8.00 
+Dah Bao,Taro Ice Cream Shake,$8.00 
+Dah Bao,Oreo Matcha Ice Cream Shake,$8.50 
+Dah Bao,Happy Delight,$7.15 
+Dah Bao,Oreo Ice Cream Shake,$8.00 
+Dah Bao,Thai Freeze,$8.00 
+Dah Bao,Mango Matcha Smoothie,$8.00 
+Dah Bao,Strawberry Matcha Smoothie,$8.00 
+Dah Bao,Blueberry Matcha Smoothie,$8.00 
+Halal Bros,Dole Strawberry Lemonade,$2.99 
+Halal Bros,Chicken Fries,$14.90 
+Halal Bros,Lamb/Beef Fries,$14.90 
+Halal Bros,Mix Fries,$14.90 
+Halal Bros,Falafel Fries,$12.06 
+Halal Bros,Cheeseburger,$10.29 
+Halal Bros,Crispy chicken sandwich,$9.29 
+Halal Bros,Double cheese burger,$11.22 
+Halal Bros,Chapli burger,$10.29 
+Nami Sushi,Raw Tuna Avocado Roll,$8.25 
+Nami Sushi,Raw Tuna Cucumber Roll,$8.25 
+Nami Sushi,Raw Alaska Roll,$8.25 
+Nami Sushi,Raw Philadelphia Roll,$8.75 
+Nami Sushi,Raw Spicy Salmon Roll,$8.99 
+Nami Sushi,Raw Spicy Tuna Roll,$8.99 
+Nami Sushi,Kamikaze Roll,$9.25 
+Nami Sushi,Raw Yellowtail Jalapeno Roll,$8.25 
+Nami Sushi,Spicy Crabmeat Roll,$8.99 
+Nami Sushi,California Roll,$9.25 
+Nami Sushi,Crab Cream Cheese,$9.25 
+Nami Sushi,Salmon Skin Roll,$8.75 
+Nami Sushi,Eel Avocado Roll,$9.25 
+Nami Sushi,Eel Cucumber Roll,$9.25 
+Nami Sushi,Shrimp Avocado Roll,$8.75 
+Nami Sushi,Shrimp Cucumber Roll,$8.75 
+Nami Sushi,Chicken Tempura Roll,$9.55 
+Nami Sushi,Shrimp Tempura Roll,$9.55 
+Nami Sushi,Salmon Tempura Roll,$9.55 
+Sourdough & Co.,Chips,$1.89 
+Sourdough & Co.,Apple Sauce,$1.29 
+Falafel Corner,Side Of Gyro/Chicken/Falafels*,$3.99 
+Falafel Corner,Baklava*,$1.99 
+Falafel Corner,Drinks*,$1.69 
+Wayback Burgers,SWEET BACON BURGER,$13.59 
+Wayback Burgers,BACON CHEESE FRIES,$6.19+
+Wayback Burgers,TATER TOTS,$4.89+
+Wayback Burgers,CAJUN TATER TOTS,$4.89+
+Wayback Burgers,ONION RINGS,$5.99+
+Wayback Burgers,REGULAR CHEESE FRIES,$5.79 
+Wayback Burgers,LARGE CHEESE FRIES,$8.09 
+Wayback Burgers,FRESH BREWED ICED TEA,$4.09+
+Wayback Burgers,FOUNTAIN DRINKS,$4.09+
+Wayback Burgers,BOTTLED WATER,$4.09+
+Wayback Burgers,BROWNIE MILKSHAKE,$8.69 
+Wayback Burgers,CINNAMON TOAST CRUNCH MILKSHAKE,$8.69 
+Wayback Burgers,RED VELVET SHAKE,$8.69 
+Pho King 4 ,"08. Pho noodle: Sliced steak, Brisket",$14.30 
+Pho King 4 ,54. House Curry - Chicken,$15.40 
+Pho King 4 ,MN1. Banh Mi Mini Combo,$6.05 
+Pho King 4 ,MN2. Banh Mi Mini Grilled Pork,$6.05 
+Pho King 4 ,MN3. Banh Mi Mini Grilled Chicken,$6.05 
+Pho King 4 ,MN4. Banh Mi Mini Tofu,$5.50 
+Pho King 4 ,BM2. Pork Roll Banh Mi,$8.80 
+Pho King 4 ,BM4. Grilled Chicken Banh Mi,$8.80 
+Pho King 4 ,BM5. Fried Egg Banh Mi,$8.80 
+Pho King 4 ,BM6. Tofu Banh Mi,$8.25 
+Pho King 4 ,BM7. Special Vegan Banh Mi,$8.80 
+Pho King 4 ,K2. Beef Pho with Sliced Steak,$7.70 
+Pho King 4 ,K3. Beef Pho with Meatballs,$7.70 
+Pho King 4 ,K4. Chicken Pho,$7.70 
+Jack's Urban Eats,Santa Fe Chicken,$19.33 
+Jack's Urban Eats,Kids Chicken Strips,$11.33 
+Jack's Urban Eats,Kids Grilled Cheese,$11.33 
+Jack's Urban Eats,Kids Chicken Plate,$11.33 
+Jack's Urban Eats,Kids Steak Plate,$11.33 
+Jack's Urban Eats,Kids Turkey Plate,$11.33 
+Jack's Urban Eats,Mac & Cheese,$7.73 
+Jack's Urban Eats,Mashed Potatoes,$7.73 
+Jack's Urban Eats,Baked Cheese Bread,$2.67 
+Jack's Urban Eats,Sliced Pugliese,$1.33 
+Jack's Urban Eats,Veg- Roasted Asparagus,$5.75 
+Jack's Urban Eats,Turkey Corn Chowder,$8.67 
+Jack's Urban Eats,Winter Vegetables,$7.73 
+Halal Bros,Dole Strawberry Lemonade,$2.99 
+Halal Bros,Chicken Fries,$14.90 
+Halal Bros,Lamb/Beef Fries,$14.90 
+Halal Bros,Mix Fries,$14.90 
+Halal Bros,Falafel Fries,$12.06 
+Halal Bros,Cheeseburger,$10.29 
+Halal Bros,Crispy chicken sandwich,$9.29 
+Halal Bros,Double cheese burger,$11.22 
+Halal Bros,Chapli burger,$10.29 
+Tasty Kitchen,Hong Kong Style Ribs,$18.75 
+Tasty Kitchen,Curry Roast Duck Clay Pot,$19.50 
+Tasty Kitchen,Curry Chicken Clay Pot,$19.14 
+Tasty Kitchen,Curry Assorted Seafood Clay Pot,$21.54 
+Tasty Kitchen,Curry Pork Chop Clay Pot,$19.14 
+Tasty Kitchen,Curry Beef Stew Clay Pot,$21.54 
+Tasty Kitchen,Curry Prawn Clay Pot,$21.54 
+Tasty Kitchen,Curry Beef,$19.14 
+Tasty Kitchen,Oyster and Roast Pork in Clay Pot,$21.80 
+Tasty Kitchen,Braised Seafood with Tofu in Clay Pot,$20.35 
+Tasty Kitchen,Spicy Seafood with Tofu in Clay Pot,$20.35 
+Tasty Kitchen,Tender Beef Stew in Clean Broth,$26.50 
+Tasty Kitchen,Chicken and Eggplant with Salty Fish Flavor in Clay Pot,$19.14 
+Tasty Kitchen,Garlic Eggplant with Cod Fillet in Clay Pot,$20.35 
+Tasty Kitchen,House Special Clay Pot,$21.80 
+Tasty Kitchen,Braised Cod Fillet in Clay Pot,$20.34 
+Tasty Kitchen,House Special Chicken in Clay Pot,$20.35 
+Tasty Kitchen,Braised Beef Brisket and Casserole,$21.54 
+Tasty Kitchen,Beer Marinated Beef Short Rib with Japanese Pumpkin in Clay Pot,$22.75 
+Tasty Kitchen,Chicken and Tofu with Salted Fish Flavor,$19.14 
+Tasty Palace Pin Xiang Ge,"Pork with Egg, Cucumber and Black Fungus木须肉",$19.99 
+Tasty Palace Pin Xiang Ge,Sweet and Sour Ribs糖醋排骨,$20.99 
+Tasty Palace Pin Xiang Ge,Braised Pig‘s Trotter红烧猪脚,$21.99 
+Tasty Palace Pin Xiang Ge,Stir-fried Pork with Bamboo笋尖炒肉,$19.99 
+Tasty Palace Pin Xiang Ge,Stir-fried Pork with Green Pepper青椒炒肉,$19.99 
+Tasty Palace Pin Xiang Ge,Shredded Pork with Sweet Bean Sauce京酱肉丝,$19.99 
+Tasty Palace Pin Xiang Ge,Spicy Pig's Trotter香辣猪脚,$21.99 
+Tasty Palace Pin Xiang Ge,Sweet and Sour Chicken甜酸鸡,$18.99 
+Tasty Palace Pin Xiang Ge,Boneless Spicy Chicken无骨辣子鸡,$18.99 
+Tasty Palace Pin Xiang Ge,Spicy Chicken with Noodles大盘鸡,$23.99 
+Tasty Palace Pin Xiang Ge,Chicken with Broccoli 芥兰鸡,$18.99 
+Tasty Palace Pin Xiang Ge,Kung Pao Chicken 宫保鸡丁,$18.99 
+Tasty Palace Pin Xiang Ge,Spicy Mongolian Chicken蒙古鸡,$18.99 
+Tasty Palace Pin Xiang Ge,Braised Beef Brisket with Tomato,$21.99 
+Tasty Palace Pin Xiang Ge,Spicy Mongolian Beef,$20.99 
+Tasty Palace Pin Xiang Ge,Stir-fried Beef with Chili,$20.99 
+Tasty Palace Pin Xiang Ge,Beef with Broccoli,$19.99 
+Tasty Palace Pin Xiang Ge,Szechuan Boiled Beef,$22.99 
+Tasty Palace Pin Xiang Ge,Beef with Chili Pepper,$20.99 
+Tasty Palace Pin Xiang Ge,Stir-fried Beef with Onion,$20.99 
+Tasty Palace Pin Xiang Ge,Cumin Flavored Beef,$20.99 
+Teriyaki Madness,Utensils & Napkins,$14.99+
+Panda Express,Peach Lychee Flavored Refresher,$13.00+
+Panda Express,Pomegranate Pineapple Flavored Lemonade,$14.90+
+Panda Express,Watermelon Mango Flavored Refresher,$4.15+
+Panda Express,Barq's Root Beer,$4.15+
+Panda Express,Fanta Orange,$4.15+
+Panda Express,Minute Maid Lemonade,$3.00+
+Panda Express,Sprite,$3.00+
+Panda Express,Coca Cola Cherry,$3.00+
+Panda Express,Fanta Strawberry,$3.00+
+Panda Express,Fuze Raspberry Iced Tea,$3.00+
+Panda Express,Passion Mango Black Tea,$3.00+
+Panda Express,Dasani,$3.00+
+Panda Express,Powerade Berry Blast,$3.00+
+Panda Express,Minute Maid Apple Juice,$3.00+
+Panda Express,Coke Mexico,$3.50+
+Panda Express,Sprite,$3.00+
+Panda Express,Smartwater,$3.90+
+Dah Bao,Wintermelon Jasmine Milk Tea,$6.00 
+Dah Bao,Pineapple Jasmine Milk Tea,$6.00 
+Dah Bao,Passion Fruit Jasmine Milk Tea,$6.00 
+Dah Bao,Jasmine Milk Tea,$5.50 
+Dah Bao,Peach Jasmine Milk Tea,$6.00 
+Dah Bao,Peach Yakult Tea,$6.00 
+Dah Bao,Lychee Yakult Tea,$6.00 
+Dah Bao,Mango Yakult Tea,$6.00 
+Dah Bao,Strawberry Yakult Tea,$6.00 
+Dah Bao,Taro Strawberry Milk Tea,$6.00 
+Dah Bao,Brown Sugar Milk,$6.00 
+Dah Bao,Taro Milk Tea,$6.00 
+Dah Bao,Wintermelon Milk,$6.00 
+Dah Bao,Reeses Ice Cream Shake,$8.00 
+Dah Bao,Taro Ice Cream Shake,$8.00 
+Dah Bao,Oreo Matcha Ice Cream Shake,$8.50 
+Dah Bao,Happy Delight,$7.15 
+Dah Bao,Oreo Ice Cream Shake,$8.00 
+Dah Bao,Thai Freeze,$8.00 
+Dah Bao,Mango Matcha Smoothie,$8.00 
+Dah Bao,Strawberry Matcha Smoothie,$8.00 
+Dah Bao,Blueberry Matcha Smoothie,$8.00 
+Taqueria El Burrito 2,Regular Torta,$13.45 
+Taqueria El Burrito 2,Super Burrito,$16.15 
+Taqueria El Burrito 2,Super Taco,$8.05+
+Taqueria El Burrito 2,Shrimp Soft Taco,$6.00 
+Taqueria El Burrito 2,Fish Soft Taco,$6.00 
+Taqueria El Burrito 2,Hard Shell Taco,$7.55+
+Taqueria El Burrito 2,Vegetarian Taco,$6.70 
+Taqueria El Burrito 2,Carne Asada Fries,$17.50+
+Taqueria El Burrito 2,Veggie Fries,$15.00 
+Taqueria El Burrito 2,Super Quesadilla,$13.45 
+Taqueria El Burrito 2,Regular Quesadilla,$8.05 
+Taqueria El Burrito 2,Giant Quesadilla,$16.15 
+Taqueria El Burrito 2,Giant Shrimp Quesadilla,$17.50 
+Taqueria El Burrito 2,Super Torta,$14.30 
+Taqueria El Burrito 2,Regular Torta,$13.45 
+Taqueria El Burrito 2,Torta Ahogada,$14.30 
+Taqueria El Burrito 2,Torta de Jamon,$14.30 
+Nami Sushi,Raw Tuna Avocado Roll,$8.25 
+Nami Sushi,Raw Tuna Cucumber Roll,$8.25 
+Nami Sushi,Raw Alaska Roll,$8.25 
+Nami Sushi,Raw Philadelphia Roll,$8.75 
+Nami Sushi,Raw Spicy Salmon Roll,$8.99 
+Nami Sushi,Raw Spicy Tuna Roll,$8.99 
+Nami Sushi,Kamikaze Roll,$9.25 
+Nami Sushi,Raw Yellowtail Jalapeno Roll,$8.25 
+Nami Sushi,Spicy Crabmeat Roll,$8.99 
+Nami Sushi,California Roll,$9.25 
+Nami Sushi,Crab Cream Cheese,$9.25 
+Nami Sushi,Salmon Skin Roll,$8.75 
+Nami Sushi,Eel Avocado Roll,$9.25 
+Nami Sushi,Eel Cucumber Roll,$9.25 
+Nami Sushi,Shrimp Avocado Roll,$8.75 
+Nami Sushi,Shrimp Cucumber Roll,$8.75 
+Nami Sushi,Chicken Tempura Roll,$9.55 
+Nami Sushi,Shrimp Tempura Roll,$9.55 
+Nami Sushi,Salmon Tempura Roll,$9.55 
+Manna Restaurant,202. Doenjang – Jjigae,$22.79 
+Manna Restaurant,203. Chadol Doenjang,$23.99 
+Manna Restaurant,204. Kimchi - Jjigae,$22.79 
+Manna Restaurant,205. Tofu-Jjigae,$22.79 
+Manna Restaurant,206. Budae - Jjigae,$27.59+
+Manna Restaurant,207. Yukgaejang,$25.19 
+Manna Restaurant,208. Galbitang,$32.39 
+Manna Restaurant,210. Samgyetang,$35.99 
+Manna Restaurant,R-701. Chicken Teriyaki,$25.19 
+Manna Restaurant,R-702. Spicy Chicken,$25.19 
+Manna Restaurant,R-703. Spicy Polk – Bulgogi,$26.39 
+Manna Restaurant,R-704. Jeyuk - Kimchi – Bokkeum,$28.79 
+Manna Restaurant,R-705. Ojingeo– Bokkeum,$32.39 
+Manna Restaurant,R-706. Ohsam – Bulgogi,$34.79 
+Manna Restaurant,R-707. Bulgogi,$31.19 
+Manna Restaurant,R-708. Galbi,$38.99 
+Manna Restaurant,R-709. Grilled Mackerel,$27.59 
+Sourdough & Co.,Chips,$1.89 
+Sourdough & Co.,Apple Sauce,$1.29 
+Raising Cane's Chicken Fingers,The Box Combo,$12.99+
+Pho Yummy,Chicken Pho,$18.00+
+Pho Yummy,Guilan Noodles,$22.00 
+Pho Yummy,Pork Chop over Rice,$22.00 
+Pho Yummy,Sliced Pork over Rice,$20.00 
+Pho Yummy,Chicken over Rice,$20.00 
+Pho Yummy,Filet Mignon over Rice,$22.00 
+Thai Farm House,Fresh Roll,$10.95 
+Thai Farm House,Drunken Noodles,$16.95+
+Thai Farm House,Prik Khing,$16.95+
+Thai Farm House,Prik Khing,$16.95+
+Thai Farm House,Combination Prik Khing,$18.95+
+Thai Farm House,Pad Pak,$16.95+
+Thai Farm House,Combination Pad Pak,$18.95+
+Thai Farm House,Pa Ram,$16.95+
+Thai Farm House,Combination Pa Ram,$18.95+
+Thai Farm House,Sweet and Sour,$16.95+
+Thai Farm House,Combination Sweet and Sour,$18.95+
+Thai Farm House,Thai Fried Rice,$16.95+
+Thai Farm House,Combination Thai Fried Rice,$18.95+
+Thai Farm House,Spicy Basil Fried Rice,$16.95+
+Thai Farm House,Combination Spicy Basil Fried Rice,$18.95+
+Thai Farm House,Pineapple Fried Rice,$16.95+
+Thai Farm House,Combination Pineapple Fried Rice,$18.95+
+Thai Farm House,Kanha Moogrob,$17.95 
+Thai Farm House,Grapow Moogrob,$17.95 
+The Coconut On T,32. Se Ew,$18.14+
+The Coconut On T,24. Green Curry,$18.14+
+The Coconut On T,9. Tom Kha,$11.64+
+Round Table Pizza,"14"" Large Montague's All Meat Marvel Pizza",$33.99+
+Round Table Pizza,"16"" Extra Large Montague's All Meat Marvel Pizza",$39.99+
+Round Table Pizza,"7.5"" Personal Montague's All Meat Marvel Pizza",$10.99+
+Round Table Pizza,"12"" Medium Montague's All Meat MarvelPizza",$26.99+
+Round Table Pizza,Small Montague's All Meat MarvelPizza,$17.99+
+Round Table Pizza,Cauliflower Montague's All Meat MarvelPizza,$18.99+
+Round Table Pizza,"14"" Large Chicken and Garlic Gourmet Pizza",$33.99+
+Round Table Pizza,"16"" Extra Large Chicken and Garlic Gourmet Pizza",$39.99+
+Round Table Pizza,"7.5"" Personal Chicken and Garlic Gourmet Pizza",$10.99+
+Round Table Pizza,"12"" Medium Chicken and Garlic Gourmet Pizza",$26.99+
+Round Table Pizza,Small Chicken and Garlic Gourmet Pizza,$17.99+
+Round Table Pizza,Cauliflower Chicken and Garlic Gourmet Pizza,$18.99+
+Round Table Pizza,"14"" Large BBQ Chicken Pizza",$33.99+
+Round Table Pizza,"16"" Extra Large BBQ Chicken Pizza",$39.99+
+Round Table Pizza,"7.5"" Personal BBQ Chicken Pizza",$10.99+
+Round Table Pizza,"12"" Medium BBQ Chicken Pizza",$26.99+
+Round Table Pizza,Small BBQ Chicken Pizza,$17.99+
+Round Table Pizza,Cauliflower BBQ Chicken Pizza,$18.99+
+Yeti Restaurant,Veggie Tikka Masala with Rice,$15.99 
+Yeti Restaurant,Chicken Tikka Masala with Rice,$17.99 
+Yeti Restaurant,Chicken Tikka Masala with Rice,$17.99 
+Yeti Restaurant,Chicken Curry with Rice,$16.99 
+Yeti Restaurant,Basil Chicken Curry with Rice,$16.99 
+Yeti Restaurant,Chicken Vindalo with Rice,$16.99 
+Yeti Restaurant,Chicken Korma with Rice,$17.99 
+Yeti Restaurant,Chicken Makhani with Rice,$17.99 
+Yeti Restaurant,Chicken Mushroom with Rice,$16.99 
+Yeti Restaurant,Chicken Saag with Rice,$16.99 
+Yeti Restaurant,Chicken Chilli with Rice,$17.99 
+Yeti Restaurant,Rogan Josh with Rice,$18.99 
+Yeti Restaurant,Saag Gosht with Rice,$18.99 
+Yeti Restaurant,Lamb Vindalo with Rice,$18.99 
+Yeti Restaurant,Lamb Tikka Masala with Rice,$18.99 
+Yeti Restaurant,Lamb Korma with Rice,$18.99 
+Yeti Restaurant,Lamb Mushroom with Rice,$18.99 
+Yeti Restaurant,Chef's Special Lamb Curry,$18.99 
+Yeti Restaurant,Special Combo Tikka Masala with Rice,$19.99 
+Yeti Restaurant,Goat Meat curry (Bone In),$20.99 
+Kathmandu Kitchen,Vegan Thali,$16.95 
+Kathmandu Kitchen,Chicken Makhani,$17.95+
+Kathmandu Kitchen,Chicken Jalfraize,$17.95+
+Kathmandu Kitchen,Chicken Vindaloo,$17.95+
+Kathmandu Kitchen,Chicken Chili,$17.95+
+Kathmandu Kitchen,Chicken Chau Chau,$17.95+
+Kathmandu Kitchen,Basil Chicken,$17.95+
+Kathmandu Kitchen,Kitchen Masala,$17.95+
+Kathmandu Kitchen,Kitchen Special,$24.95+
+Kathmandu Kitchen,Lamb Tikka Masala,$18.95+
+Kathmandu Kitchen,Lamb Korma,$18.95+
+Kathmandu Kitchen,Lamb Saagwala,$18.95+
+Kathmandu Kitchen,Lamb Mushroom,$18.95+
+Kathmandu Kitchen,Lal Maas,$18.95+
+Kathmandu Kitchen,Lamb Vindaloo,$18.95+
+Kathmandu Kitchen,Traditional Lamb Curry,$18.95+
+Kathmandu Kitchen,Lamb Coconut,$18.95+
+Kathmandu Kitchen,Lamb Jalfraize,$18.95+
+Habit Burger & Grill,Variety Meal,$67.52 
+Habit Burger & Grill,Family Char Meal,$58.77 
+Habit Burger & Grill,Chars & Bites Bundle,$61.27 
+Habit Burger & Grill,Side Caesar Salad,$5.99 
+Habit Burger & Grill,Side Salad,$5.86 
+Habit Burger & Grill,10 pcs Crispy Chicken Bites,$10.74 
+Habit Burger & Grill,5 pcs Crispy Chicken Bites,$7.49 
+Habit Burger & Grill,French Fries,$4.99 
+Habit Burger & Grill,Onion Rings,$5.99+
+Habit Burger & Grill,Tempura Green Beans,$5.99+
+Habit Burger & Grill,Sweet Potato Fries,$5.99+
+Habit Burger & Grill,Onion Rings & Fries,$6.24+
+Habit Burger & Grill,Tempura Green Beans & Fries,$6.24+
+Habit Burger & Grill,Sweet Potato Fries & Fries,$6.24+
+Thai Canteen,Pad Thai,$16.00+
+Thai Canteen,Pad Prik King,$18.00+
+Thai Canteen,Thai Iced Tea,$5.25 
+Thai Canteen,Kang Phed Bpet Yang,$19.00+
+Thai Canteen,Paupia,$12.00 
+Thai Canteen,Gai Satay,$12.00 
+Thai Canteen,Kiew Za,$12.00 
+Thai Canteen,Plamuk Tod,$14.00 
+Thai Canteen,Tao Hoo Tod,$12.00 
+Thai Canteen,Peurk Tod,$14.00 
+Thai Canteen,Kao Pod Tod,$12.00 
+Thai Canteen,Peak Gai Tod,$14.00 
+Thai Canteen,Tod Man Pla,$14.00 
+Thai Canteen,Goong Ka Bok,$14.00 
+Dos Coyotes Border Cafe,Tacos Al Carbon Plate,$16.25+
+Dos Coyotes Border Cafe,The Original Coyote Taco Plate,$16.25+
+Dos Coyotes Border Cafe,Mahi Mahi Fish Taco Plate,$17.50 
+Dos Coyotes Border Cafe,Shrimp Taco Plate,$17.50 
+Dos Coyotes Border Cafe,California Fish Taco Plate,$18.12 
+Dos Coyotes Border Cafe,Loaded Potato Taco Plate,$15.00 
+Dos Coyotes Border Cafe,Bobby's Crispy Taco Plate,$15.93 
+Dos Coyotes Border Cafe,Traditional Tex Mex Fajitas,$18.15+
+Dos Coyotes Border Cafe,Grilled Vegetable Fajitas,$18.15 
+Dos Coyotes Border Cafe,Ranchero Enchilada Plate,$16.25+
+Dos Coyotes Border Cafe,Green Chile Enchilada Plate,$16.25+
+Dos Coyotes Border Cafe,Taco & Enchilada Plate,$16.25+
+Dos Coyotes Border Cafe,Ranchero Burrito Plate,$15.62+
+Dos Coyotes Border Cafe,Sedona Taquito Plate,$15.31 
+Tasty Gourmet,Sweet & Sour Chicken甜酸鸡,$15.95 
+Tasty Gourmet,Mixed Vegetables素什锦,$16.95 
+Tasty Gourmet,Curry Prawns咖喱虾,$19.95 
+Tasty Gourmet,Fish in Curry Sauce咖喱班球,$19.95 
+Tasty Gourmet,Broccoli Prawns西兰虾,$19.95 
+Tasty Gourmet,Vegetable Prawns时菜虾,$19.95 
+Tasty Gourmet,Squid with Black Bean Sauce豉汁鱿鱼,$18.95 
+Tasty Gourmet,Salt & Pepper Fish Fillet,$20.95 
+Tasty Gourmet,Braised Tofu with Vegetables红烧豆腐,$16.95 
+Tasty Gourmet,Eggplant Garlic Sauce鱼香茄子,$16.95 
+Tasty Gourmet,Sesame Tofu芝麻豆腐,$16.95 
+Tasty Gourmet,Eggplant Garlic Sauce with Tofu鱼香茄子豆腐,$18.95 
+Tasty Gourmet,Dry Sautéed String Beans干煸四季豆,$16.95 
+Tasty Gourmet,Mixed Vegetables素什锦,$16.95 
+Tasty Gourmet,Bok Choy with Garlic蒜香白菜,$16.95 
+Tasty Gourmet,Kung Pao Tofu宫保豆腐,$16.95 
+Tasty Gourmet,Bok Choy with Black Mushroom冬菇白菜,$17.95 
+Tasty Gourmet,Broccoli with Oyster Sauce蚝油西兰花,$15.95 
+Tasty Gourmet,Tofu with Black Mushroom冬菇豆腐,$17.95 
+Popeyes,Flounder Fish Sandwich,$8.39 
+Popeyes,Flounder Fish Sandwich Combo,$11.99 
+Popeyes,Flounder Fish Sandwich Large Combo,$14.39 
+Popeyes,Surf N Turf,$6.59 
+Popeyes,Shrimp Tackle Box,$8.39+
+Popeyes,¼ Pound Popcorn Shrimp*,$11.79 
+Popeyes,¼ Pound Popcorn Shrimp Combo*,$14.79+
+Popeyes,Wing Sauces,$0.90 
+Popeyes,Dipping Sauces,$0.25 
+Popeyes,Homestyle Mac & Cheese,$5.19+
+Popeyes,Cajun Fries,$5.19+
+Popeyes,Mashed Potatoes with Cajun Gravy,$5.19+
+Popeyes,Red Beans & Rice,$5.19+
+Popeyes,Coleslaw,$5.19+
+Popeyes,Biscuit,$1.59+
+El Patio Fresh Mexican Grill,El Patio Fries,$17.50 
+El Patio Fresh Mexican Grill,Surf & Turf Fries,$21.65 
+El Patio Fresh Mexican Grill,Super Nachos,$17.50 
+El Patio Fresh Mexican Grill,Super Quesadilla,$21.25 
+El Patio Fresh Mexican Grill,Mex Quesadilla,$21.65 
+El Patio Fresh Mexican Grill,Mulita,$7.99 
+El Patio Fresh Mexican Grill,Cheese Quesadilla,$11.65 
+El Patio Fresh Mexican Grill,Fajita Quesadilla,$21.65 
+El Patio Fresh Mexican Grill,Veggie Fajita Quesadilla,$17.08 
+El Patio Fresh Mexican Grill,Quesabirria Torta,$23.32 
+El Patio Fresh Mexican Grill,Super Torta,$23.32 
+El Patio Fresh Mexican Grill,Mex Torta,$19.17 
+Capitol gyros,Chicken Gyro,$10.99 
+Good Friends Restaurant,D25. Kung Pao Prawn Combo Dinner,$17.95 
+Good Friends Restaurant,D26. Szechuan Prawn Combo Dinner,$17.95 
+Good Friends Restaurant,D27 Eggplant Tofu,$17.95 
+Good Friends Restaurant,D28. Teriyaki Chicken,$17.95 
+Good Friends Restaurant,D29 Teriyaki Beef,$17.95 
+Good Friends Restaurant,D30 Black Pepper Shrimp,$17.95 
+Good Friends Restaurant,D31 Coconut Shrimp,$17.95 
+Good Friends Restaurant,D32 Salt & Pepper Fish,$17.95 
+Good Friends Restaurant,D33 Salt & Pepper Pork Spare Ribs,$17.95 
+Good Friends Restaurant,Salt and Pepper Chicken,$17.95 
+Good Friends Restaurant,Broccoli Chicken,$17.95 
+Good Friends Restaurant,Egg Flower Soup,$13.99+
+Good Friends Restaurant,Hot & Sour Soup,$13.99+
+Good Friends Restaurant,Minced Chicken Corn Soup,$13.99+
+Good Friends Restaurant,Chicken Noodle Soup,$13.99+
+Good Friends Restaurant,Wonton Soup,$13.99+
+Good Friends Restaurant,House Soup,$15.99+
+Good Friends Restaurant,Wor Wonton Soup,$15.99+
+Good Friends Restaurant,Sizzling Rice Soup,$15.99+
+Bangkok @12 Thai Restaurant,Drunken Noodle,$16.95+
+Bangkok @12 Thai Restaurant,Pot Sticker,$9.95 
+Bangkok @12 Thai Restaurant,Bangkok Salad,$15.95 
+Bangkok @12 Thai Restaurant,Spicy Beef Salad,$16.95 
+Bangkok @12 Thai Restaurant,Som Tum Salad,$13.95 
+Bangkok @12 Thai Restaurant,Yum Yai Salad,$15.95 
+Bangkok @12 Thai Restaurant,Calamari Salad,$16.95 
+Bangkok @12 Thai Restaurant,Shrimp Salad,$16.95 
+Bangkok @12 Thai Restaurant,Larb Beef Salad,$15.95 
+Bangkok @12 Thai Restaurant,Larb Chicken Salad,$15.95 
+Bangkok @12 Thai Restaurant,Larb Duck Salad,$15.95 
+Bangkok @12 Thai Restaurant,Yum Woon Sen Salad,$16.95 
+Bangkok @12 Thai Restaurant,Yum Nuer Nam Tok,$16.95 
+Bangkok @12 Thai Restaurant,Vegetarian Yum Woon Sen,$15.95 
+Bangkok @12 Thai Restaurant,Green Salad,$14.95 
+Bangkok @12 Thai Restaurant,Larb Tofu Salad,$13.95 
+Bangkok @12 Thai Restaurant,Yum Pak Salad,$14.95 
+Bangkok @12 Thai Restaurant,Tom Kha Soup,$10.95+
+Bangkok @12 Thai Restaurant,Tom Yum Soup,$10.95+
+Bangkok @12 Thai Restaurant,Po Tak Soup,$12.95+
+Bangkok @12 Thai Restaurant,Wonton Soup,$10.95+
+Bangkok @12 Thai Restaurant,Boat Noodle Soup,$16.95 
+Bangkok @12 Thai Restaurant,Tom Yum Noodle Soup,$16.95 
+Bangkok @12 Thai Restaurant,Coconut Noodle Soup,$16.95 
+Bangkok @12 Thai Restaurant,Thai Sukiyaki Soup,$16.95 
+Bangkok @12 Thai Restaurant,Lemongrass,$16.95+
+Bangkok @12 Thai Restaurant,Sweet and Sour,$16.95+
+Bangkok @12 Thai Restaurant,Pad Kraprao,$16.95+
+Bangkok @12 Thai Restaurant,Himmaparn,$16.95+
+Bangkok @12 Thai Restaurant,Pad Prig Khing,$16.95+
+Bangkok @12 Thai Restaurant,Pad Broccoli,$16.95+
+Bangkok @12 Thai Restaurant,Spicy Eggplant,$16.95+
+Bangkok @12 Thai Restaurant,Garlic Lover,$16.95+
+Bangkok @12 Thai Restaurant,Spicy Bamboo,$16.95+
+Bangkok @12 Thai Restaurant,Fresh Ginger,$16.95+
+Davis Sushi Restaurant,Ika Sashimi,$16.95 
+Davis Sushi Restaurant,Smoked Salmon,$16.95 
+Davis Sushi Restaurant,Seared Albacore Sashimi,$16.95 
+Davis Sushi Restaurant,Hokkigai,$16.50 
+Davis Sushi Restaurant,Saba Sashimi,$16.50 
+Davis Sushi Restaurant,Tako Sashimi,$16.95 
+Davis Sushi Restaurant,Hamachi Sashimi,$16.95 
+Davis Sushi Restaurant,California Roll,$11.50 
+Davis Sushi Restaurant,Kani-tago Maki (10pcs),$13.95 
+Davis Sushi Restaurant,Shrimp Tempura Roll,$13.50 
+Davis Sushi Restaurant,Sake Maki,$13.50 
+Davis Sushi Restaurant,Philadelphia Roll,$14.50 
+Davis Sushi Restaurant,Spicy Salmon roll,$14.50 
+Davis Sushi Restaurant,Alaskan Roll,$14.50 
+Davis Sushi Restaurant,Tekka Maki,$13.95 
+Davis Sushi Restaurant,Hawaiian Roll,$14.50 
+Davis Sushi Restaurant,Spicy Tuna Roll,$14.50 
+Davis Sushi Restaurant,Unakyu Roll,$14.95 
+Davis Sushi Restaurant,Rock and Roll,$14.95 
+Davis Sushi Restaurant,S.O.S roll,$14.95 
+Davis Sushi Restaurant,Futo-ebi roll (10ps),$15.95 
+Davis Sushi Restaurant,Negihama Maki (10pcs),$15.95 
+Iron Horse Tavern,Turkey Sandwich,$20.35 
+Iron Horse Tavern,Beer Batter Fish & Chips,$26.70 
+Iron Horse Tavern,Hawaiian Style Ribeye Steak,$39.54 
+Iron Horse Tavern,Roasted Half Chicken,$33.00 
+Iron Horse Tavern,Beer Batter Fish & Chips,$26.70 
+Iron Horse Tavern,Beignets,$13.15 
+Iron Horse Tavern,Cinnamon Churro Sundae,$10.75 
+Iron Horse Tavern,Banana Cream Pie,$10.75 
+Iron Horse Tavern,Breakfast Board,$16.50 
+Iron Horse Tavern,Tavern Fried Chicken ‘n Pancakes,$26.70 
+Iron Horse Tavern,Pepsi,$4.65 
+Iron Horse Tavern,Diet Pepsi,$4.65 
+Iron Horse Tavern,Sierra Mist,$4.65 
+Iron Horse Tavern,Mug Root Beer,$4.65 
+Iron Horse Tavern,Red Bull,$5.70 
+Iron Horse Tavern,Dr Pepper,$4.65 
+Iron Horse Tavern,Ginger Ale,$4.65 
+Iron Horse Tavern,Iced Tea,$4.65 
+Iron Horse Tavern,Ginger Beer,$4.50 
+Iron Horse Tavern,Fiji Still,$4.95 
+Iron Horse Tavern,San Pellegrino Sparkling,$5.00 
+Ono Hawaiian BBQ ONO-#221,Grilled Chicken Breast Ono Keiki Meal,$14.99+
+Ono Hawaiian BBQ ONO-#221,Hawaiian BBQ Chicken Ono Keiki Meal,$15.99 
+Ono Hawaiian BBQ ONO-#221,Island White Fish Ono Keiki Meal,$8.99 
+Ono Hawaiian BBQ ONO-#221,Spam Musubi (2 pcs),$8.99 
+Ono Hawaiian BBQ ONO-#221,Hawaiian BBQ Beef Musubi (2 pcs),$8.99 
+Ono Hawaiian BBQ ONO-#221,Hawaiian BBQ Chicken Musubi (2 pcs),$8.49 
+Ono Hawaiian BBQ ONO-#221,Crispy Shrimp (6 pcs),$8.49 
+Ono Hawaiian BBQ ONO-#221,Steamed Rice,$8.49 
+Ono Hawaiian BBQ ONO-#221,Crab Rangoon (3 pcs),$10.49 
+Ono Hawaiian BBQ ONO-#221,Crab Rangoon (6 pcs),$3.99 
+Hunan Style,Sauteed Smoked Pork with Dried Radishes 萝卜干炒腊肉,$20.95 
+Hunan Style,Meat & Vegetable Mixed Hot Spicy Dry Pot 一品麻辣香锅,$36.95 
+Hunan Style,Boiled Meat & Vegetable Hot Pot 江湖锅麻辣烫,$24.95 
+Hunan Style,Laotan Boiled Fish with Pickled Cabbage and Chilli 老坛酸菜鱼,$24.95 
+Hunan Style,Boiled Fish with Chilli 特色沸腾鱼,$24.95 
+Hunan Style,Omelette with Spare Ribs 排骨焖煎蛋,$18.95 
+Hunan Style,Braised Pig Feet with Reserved Recipe in Clay Pot 湘西香辣美容蹄,$18.95 
+Hunan Style,Boiled Fish with Rattan Pepper 湘西藤椒鱼,$24.95 
+Hunan Style,Coutry Style Stewed Chicken with Mexican Pepper,$20.39 
+Hunan Style,Sauteed Pork Enoki Mushroom Fungus & Egg,$18.95 
+Hunan Style,Griddle Cooked Stir-Fried Spicy Shrimp & Pork Ribs 干锅排骨虾,$22.95 
+Hunan Style,Griddle Cooked Organic Chicken with Peppers 干锅土鸡,$18.95 
+Hunan Style,Griddle Cooked Smoked Pork with Organic Cauliflower 干锅腊肉有机花菜,$18.95 
+Hunan Style,Griddle Cooked Fragrant Cabbages & Pork 干锅手撕包菜,$18.12 
+Hunan Style,Griddle Cooked Pig Intestine with Peppers 干锅肥肠,$22.95 
+Hunan Style,Griddle Cooked Braised Pig Feet 干锅五香猪手,$18.95 
+Black Bear Diner,The Mini Volcano,$14.29+
+Black Bear Diner,"Fresh Baked Bear Claw, Classic",$9.89 
+Black Bear Diner,Biscuits & Gravy,$8.39 
+Black Bear Diner,Thick-Cut Smoked Bacon,$7.19 
+Black Bear Diner,Sausage,$7.19 
+Black Bear Diner,Hickory Smoked Ham Steak,$7.19 
+Black Bear Diner,Side of 2 Eggs,$2.89+
+Black Bear Diner,Side of Gravy,$1.59 
+Black Bear Diner,Side of Loaded Potato,$5.38+
+Black Bear Diner,Strip-Cut Hash Browns,$6.59 
+Black Bear Diner,Country Red Potatoes,$6.59 
+Black Bear Diner,Grits,$2.69 
+Black Bear Diner,Fruit Bowl,$8.09 
+Black Bear Diner,Hot Oatmeal,$9.79 
+Black Bear Diner,Toast,$4.09 
+Black Bear Diner,English Muffin,$4.09 
+Orchid Thai Restaurant & Bar,Rice,$3.00 
+Orchid Thai Restaurant & Bar,PAD THAI (DINNER),$17.95 
+Orchid Thai Restaurant & Bar,EGGPLANT COCO STIR-FRY,$17.95 
+Orchid Thai Restaurant & Bar,Pineapple Fried Rice,$17.95 
+Orchid Thai Restaurant & Bar,Basil Fried Rice,$17.95 
+Orchid Thai Restaurant & Bar,Crab Fried Rice,$19.95 
+Orchid Thai Restaurant & Bar,Rice,$3.00 
+Orchid Thai Restaurant & Bar,Brown Rice,$4.00 
+Orchid Thai Restaurant & Bar,Steam Noodle,$3.00 
+Orchid Thai Restaurant & Bar,Steam Veg.,$3.50 
+Orchid Thai Restaurant & Bar,Mango Sticky Rice,$8.00 
+Orchid Thai Restaurant & Bar,Ice Cream,$8.00 
+Orchid Thai Restaurant & Bar,Fried Ice Cream,$10.00 
+Orchid Thai Restaurant & Bar,Fried Banana Ice Cream,$10.00 
+Orchid Thai Restaurant & Bar,Coke,$4.00 
+Orchid Thai Restaurant & Bar,Diet Coke,$4.00 
+Orchid Thai Restaurant & Bar,Sprite,$4.00 
+Orchid Thai Restaurant & Bar,Mr.Pibb,$4.00 
+Orchid Thai Restaurant & Bar,Rootbeer,$4.00 
+Orchid Thai Restaurant & Bar,Fanta,$4.00 
+Orchid Thai Restaurant & Bar,Iced Tea,$4.00 
+Orchid Thai Restaurant & Bar,Lemonade,$4.00 
+Orchid Thai Restaurant & Bar,Thai Iced Tea,$5.00 
+Orchid Thai Restaurant & Bar,Vietnamese Iced Coffee,$6.50 
+Orchid Thai Restaurant & Bar,Vegan Thai Iced Tea,$6.00 
+Orchid Thai Restaurant & Bar,Orange Juice (No Refill),$5.00 
+Orchid Thai Restaurant & Bar,Cranberry Juice (No Refill),$5.00 
+Orchid Thai Restaurant & Bar,Pineapple Juice (No Refill),$5.00 
+King's Halal Mediterranean Food,Mango Lassi,$3.99 
+King's Halal Mediterranean Food,Soda Can,$1.49 
+King's Halal Mediterranean Food,Bottle Water,$1.49 
+Taco Bell,Discovery Luxe Box,$12.18+
+Taco Bell,Classic Luxe Box,$7.30+
+Taco Bell,Supreme® Luxe Box,$9.74+
+Taco Bell,Cantina Chicken Crispy Taco Meal,$12.18+
+Taco Bell,Cantina Chicken Burrito Meal,$14.62+
+Taco Bell,Cantina Chicken Quesadilla Meal,$14.62+
+Taco Bell,Steak Grilled Cheese Burrito Combo,$12.91+
+Taco Bell,Mexican Pizza Combo,$15.84+
+Taco Bell,Chicken Quesadilla Combo,$14.62+
+Taco Bell,Nachos BellGrande® Combo,$15.72+
+Taco Bell,2 Chicken Chalupas Supreme Combo,$17.55+
+Taco Bell,Crunchwrap Supreme® Combo,$14.62+
+Taco Bell,3 Crunchy Tacos Combo,$10.96+
+Taco Bell,3 Crunchy Tacos Supreme® Combo,$14.62+
+Taco Bell,3 Doritos® Locos Tacos Combo,$14.50+
+Taco Bell,3 Doritos® Locos Tacos Supreme Combo,$16.70+
+Taco Bell,3 Soft Tacos Combo,$10.96+
+Taco Bell,3 Soft Tacos Supreme® Combo,$14.62+
+Taco Bell,Burrito Supreme® Combo,$14.87+
+Bruxie,LEMON CREAM & BERRIES,$12.00 
+Bruxie,TOSSED NUGGETS,$11.30 
+Bruxie,PB & J WAFFLE SANDWICH,$11.04 
+Bruxie,"""GRILLED CHEESE"" WAFFLE SANDWICH",$10.34 
+Bruxie,NUTELLA WAFFLE SANDWICH,$10.34 
+Bruxie,KID'S CHICKEN NUGGETS WITH FRIES,$11.66 
+Bruxie,KID'S BRUXIE WAFFLE,$11.66 
+Bruxie,KID'S MAC & CHEESE,$11.66 
+Jensai Sushi,Tempura Shrimp,$10.00 
+Jensai Sushi,Vegetable Harumaki,$15.95 
+Jensai Sushi,Vegetable Tempura,$6.00 
+Jensai Sushi,8 Piece Sashimi Starter,$8.95 
+Jensai Sushi,BBQ Albacore,$8.50 
+Jensai Sushi,Pepperfin,$8.95 
+Jensai Sushi,Rainbowfin,$13.50+
+Jensai Sushi,Sunomono,$14.99 
+Jensai Sushi,Wakame Salad,$15.99 
+Jensai Sushi,Side Salad,$16.99 
+Jensai Sushi,Jensai Poke,$5.75 
+Jensai Sushi,Sashimi Salad,$6.50 
+Jensai Sushi,Seared Ahi Tuna Salad,$4.00 
+Jensai Sushi,Edamame,$13.00 
+Jensai Sushi,Spicy Garlic Edamame,$16.75 
+Jensai Sushi,House Salad,$16.95 
+Jensai Sushi,Miso Soup,$6.00 
+Jensai Sushi,Steam Rice,$8.50 
+Jensai Sushi,Sushi Rice,$6.00 
+Jensai Sushi,2 Piece Ebi Nigiri,$3.50+
+Jensai Sushi,2 Piece Hamachi Nigiri,$3.25 
+Jensai Sushi,2 Piece Inari Nigiri,$3.75 
+Jensai Sushi,2 Piece Izumidai Nigiri,$6.00 
+Jensai Sushi,2 Piece Kanikama Nigiri,$7.00 
+Jensai Sushi,2 Piece Maguro Nigiri,$5.25 
+Jensai Sushi,2 Piece Masago Nigiri,$6.00 
+Jensai Sushi,2 Piece Sake Nigiri,$6.00 
+Jensai Sushi,2 Piece Shiro Maguro Nigiri,$6.50 
+Jensai Sushi,2 Piece Salmon Belly Nigiri,$6.25 
+Jensai Sushi,2 Piece Tamago Nigiri,$6.00 
+Jensai Sushi,2 Piece Tobiko Nigiri,$6.00 
+Jensai Sushi,2 Piece Tako Nigiri,$7.00 
+Jensai Sushi,2 Piece Unagi Nigiri,$4.50 
+Fire Wings ,20 WINGS,$29.49 
+Fire Wings ,REG - SEASON FRIES,$4.29 
+Fire Wings ,LRG - SEASONED FRIES,$5.49 
+Fire Wings ,REG - GARLIC FRIES,$5.89 
+Fire Wings ,LRG - GARLIC FRIES,$7.09 
+Fire Wings ,REG - FIRE FRIES,$5.89 
+Fire Wings ,LRG - FIRE FRIES,$7.09 
+Fire Wings ,REG - CHILI CHEESE FRIES,$6.49 
+Fire Wings ,REG - TATER TOTS,$5.09 
+Fire Wings ,LRG - TATER TOTS,$6.29 
+Fire Wings ,REG - CHILI CHEESE TOTS,$7.29 
+Fire Wings ,LRG - CHILI CHEESE TOTS,$8.49 
+Fire Wings ,LRG - CHILI CHEESE FRIES,$7.69 
+Fire Wings ,ORIGINAL CHICKEN SANDWICH,$12.59 
+Fire Wings ,BUFFALO CHICKEN SANDWICH,$12.59 
+Fire Wings ,NASHVILLE FIRE CHICKEN SANDWICH,$12.59 
+Fire Wings ,ORIGINAL SANDWICH COMBO,$17.49 
+Fire Wings ,BUFFALO SANDWICH COMBO,$17.49 
+Fire Wings ,NASHVILLE FIRE SANDWICH COMBO,$17.49 
+Koja Kitchen (Sac),Strawberry Matcha milk tea,$7.15 
+Koja Kitchen (Sac),Vietnamese Coffee,$7.08 
+Koja Kitchen (Sac),Ube Taro Milk with Boba,$7.15 
+Koja Kitchen (Sac),Thai Iced Tea with Boba,$7.15 
+Koja Kitchen (Sac),Bottled Water,$2.45 
+Jersey Mike's,#10 Tuna Fish,$13.01+
+Hao Bao Dumplings (K Street Store),Chicken Dumpling Soup,$17.00 
+Tandoori Fire,Saag Paneer,$17.99 
+Tandoori Fire,Vegetable,$17.99 
+Tandoori Fire,Eggplant Curry,$17.99 
+Tandoori Fire,Aloo Saag,$17.99 
+Tandoori Fire,Palak Paneer,$17.99 
+Tandoori Fire,Paneer Tikka Masala,$17.99 
+Tandoori Fire,Aloo Gobi,$17.99 
+Tandoori Fire,Chole Batura,$17.99 
+Tandoori Fire,Dal Makhni,$17.99 
+Tandoori Fire,Dal Tadka,$17.99 
+Tandoori Fire,Bhindi Masala,$17.99 
+Tandoori Fire,Aloo Mutter Paneer,$17.99 
+Tandoori Fire,Shahi Paneer,$17.99 
+Tandoori Fire,Malai Kofta,$17.99 
+Tandoori Fire,Veggie Korma,$17.99 
+Tandoori Fire,Aloo Baingan,$17.99 
+Tandoori Fire,Chilli Panner,$17.99 
+Panera Bread,NEW Rustic Baked Potato Soup,$11.39+
+Panera Bread,Tuna Salad Sandwich,$14.29+
+Panera Bread,Cranberry Walnut Chicken Salad Sandwich,$13.69+
+Panera Bread,Chipotle Chicken Avo Melt,$16.59+
+Panera Bread,Chicken Roma Asiago Bagel Stack,$9.89+
+Panera Bread,Mediterranean Veggie & Creamy Tomato Soup,$11.19 
+Panera Bread,Spicy Steak Asiago Bagel Stack,$9.89+
+Panera Bread,Turkey & Cheddar Sandwich & Cream of Chicken & Wild Rice Soup,$11.19 
+Panera Bread,Premium Family Feast,$49.89 
+Panera Bread,Grilled Cheese & Creamy Tomato Soup,$11.19 
+Panera Bread,Zesty Tuscan Asiago Bagel Stack,$9.89+
+Panera Bread,Premium Family Feast with Cookies,$54.89 
+Panera Bread,Mediterranean Veggie,$11.79+
+Panera Bread,Ciabatta Cheesesteak,$17.89+
+Panera Bread,Spicy Fiesta Chicken,$16.59+
+Panera Bread,Toasted Frontega Chicken®,$16.59+
+Panera Bread,Bacon Turkey Bravo®,$16.59+
+Panera Bread,Chicken Bacon Rancher,$16.59+
+Panera Bread,Toasted Garden Caprese,$14.29+
+Vegan Deadly Sins,Veggie Chowmein,$11.99 
+Vegan Deadly Sins,Vegan Chicken Chowmein,$16.99 
+Vegan Deadly Sins,Singapore Vermicelli,$14.99 
+Vegan Deadly Sins,Satay Beef Chow Mein,$16.99 
+Vegan Deadly Sins,Spicy Tan Tan Noodles,$15.99 
+Vegan Deadly Sins,Wonton Noodle Soup,$16.99 
+Vegan Deadly Sins,Curry Udon Soup,$15.99 
+Vegan Deadly Sins,Thai Style Spicy & Sour Soup w/ Rice Vermicelli,$15.99 
+Vegan Deadly Sins,Steamed White Rice,$15.99 
+Vegan Deadly Sins,Steamed Brown Rice,$15.99 
+Vegan Deadly Sins,Vegan Ham Fried Rice,$3.50 
+Vegan Deadly Sins,Golden Curry Fried Rice,$4.00 
+Vegan Deadly Sins,Green Vegetables Fried Rice,$15.99 
+Vegan Deadly Sins,Bangkok Fried Rice,$15.99 
+Los Inmortales Taqueria,Coctel de Camaron,$22.55 
+Los Inmortales Taqueria,Coctel de Camaron y Pulpo,$23.55 
+Los Inmortales Taqueria,Caldo de res,$18.25 
+Los Inmortales Taqueria,Pozole,$17.95 
+Los Inmortales Taqueria,Tostada Ceviche,$8.85 
+Los Inmortales Taqueria,Tostada de Camaron and Pulpo,$8.85 
+Los Inmortales Taqueria,Tostada de Camaron,$8.85 
+Los Inmortales Taqueria,Mojarra a la Diabla,$24.45 
+Los Inmortales Taqueria,Mojarra a la Mexicana,$24.45 
+Los Inmortales Taqueria,Mojarra Frita,$24.45 
+Los Inmortales Taqueria,Mojarra al Mojo de Ajo,$24.45 
+Los Inmortales Taqueria,Una Enchilada,$13.65 
+Los Inmortales Taqueria,Dos Enchiladas,$17.50 
+Los Inmortales Taqueria,Tres Enchiladas,$18.99 
+Los Inmortales Taqueria,Super Enchilada,$18.99 
+Los Inmortales Taqueria,Enchilada de Camaron,$20.75 
+Hook & Ladder,Hot Pig,$11.70 
+Hook & Ladder,Pauly,$16.00 
+Hook & Ladder,Toney Baloney,$26.91 
+Hook & Ladder,Earl Grey Panna Cotta,$26.91 
+Hook & Ladder,Chocolate Budino,$26.91 
+Hook & Ladder,Gooey Butter Cake,$9.36 
+Hook & Ladder,Coke,$11.70 
+Hook & Ladder,Diet Coke,$11.70 
+Hook & Ladder,7-Up,$4.10 
+Hook & Ladder,Ginger Beer,$4.10 
+Hook & Ladder,Ginger Ale,$4.10 
+Hook & Ladder,Mexican Coke,$4.68 
+Hook & Ladder,Shrub,$4.10 
+Hook & Ladder,Pellegrino,$5.85 
+Hook & Ladder,Lemonade,$5.27 
+Hook & Ladder,Arnold Palmer,$4.68 
+Hook & Ladder,Cranberry Juice,$4.68 
+Hook & Ladder,Orange Juice,$4.68 
+Hook & Ladder,Pineapple Juice,$4.68 
+Hook & Ladder,Grapefruit Juice,$4.68 
+Hook & Ladder,Coffee,$4.68 
+Hook & Ladder,Cold Brew,$4.68 
+Hook & Ladder,Iced Tea,$4.10 
+Hook & Ladder,Hot Tea,$5.85 
+Hook & Ladder,Tonic,$4.10 
+Hook & Ladder,House Tonic,$4.10 
+Hook & Ladder,Tomato Juice,$4.10 
+Little Caesars Pizza,4 Cheese Crazy Puffs®,$12.89 
+Little Caesars Pizza,Pepperoni Crazy Puffs®,$18.51 
+Little Caesars Pizza,2-Liter Beverage,$5.49 
+Little Caesars Pizza,20 oz Beverage,$5.49 
+Mountain Mike's Pizza,Frappuccino Mocha,$4.59+
+Mountain Mike's Pizza,Cinnamon Dessert Pizza,$11.99+
+Mountain Mike's Pizza,Mini Churrs,$10.99+
+Mountain Mike's Pizza,Pizza Cookie,$10.99+
+Mountain Mike's Pizza,Apple of My Pie,$13.99+
+Mountain Mike's Pizza,Sweetheart Cherry Pie Dessert Pizza,$16.99+
+Mountain Mike's Pizza,Side Ranch,$1.00+
+Mountain Mike's Pizza,Side BBQ Sauce,$1.00+
+Mountain Mike's Pizza,Side Blue Cheese,$1.00+
+Mountain Mike's Pizza,Side Marinara,$0.75+
+Mountain Mike's Pizza,Side Creme Anglaise,$0.99+
+Mountain Mike's Pizza,1000 Island,$1.00+
+Mountain Mike's Pizza,Italian,$1.00+
+Mountain Mike's Pizza,Side Jalapenos,$1.25+
+Mountain Mike's Pizza,Side Pizza Sauce,$1.00+
+Mountain Mike's Pizza,Side Buffalo Sauce,$1.00+
+Mountain Mike's Pizza,Side Sweet Thai Chili,$1.00+
+Mountain Mike's Pizza,Side Honey Garlic,$1.00+
+I Heart Mac & Cheese,Build Your Own Mac and Cheese,$16.85+
+I Heart Mac & Cheese,Churro Bites Small,$4.75 
+I Heart Mac & Cheese,Churro Bites Large,$7.49 
+I Heart Mac & Cheese,Kid’s Mac and Cheese,$9.95+
+I Heart Mac & Cheese,Kid’s Grilled Cheese,$9.95+
+I Heart Mac & Cheese,Bottled Water,$2.65 
+I Heart Mac & Cheese,Red Bull,$4.45 
+I Heart Mac & Cheese,Fountain Drink,$3.25 
+I Heart Mac & Cheese,Sugar Free Red Bull,$4.45 
+I Heart Mac & Cheese,Apple Juice,$3.15 
+I Heart Mac & Cheese,Red Bull Yellow Edition,$4.45 
+Ming Dynasty,Crispy Shrimp Rice Noodle Roll 金沙蝦腸粉,$2.99 
+Ming Dynasty,BBQ Pork Rice Noodle Roll 明爐叉燒腸粉,$16.75 
+Ming Dynasty,Bread Stick Rice Noodle Roll 港式炸兩腸粉,$11.25 
+Ming Dynasty,Bread Stick 港式炸油條,$11.25 
+Ming Dynasty,Shrimp Rice Noodle Roll 鮮蝦拉腸粉,$6.75 
+Ming Dynasty,Cilantro Rice Noodle Roll 芫茜腸粉,$6.75 
+Ming Dynasty,Beef Rice Noodle Roll 香茜牛肉腸粉,$5.25 
+Ming Dynasty,Lo Mein Rice Noodle Roll 羅漢齋腸粉,$7.45 
+Ming Dynasty,Green Tea Mochi Dumpling 綠茶炸湯丸,$6.75 
+Ming Dynasty,Steamed Taro Dumpling 香芋餃,$6.75 
+Ming Dynasty,Steamed Sponge Cake 古法馬拉糕,$7.45 
+Ming Dynasty,Deep Fried Sesame Ball 香麻煎堆仔,$5.25 
+Ming Dynasty,Shanghai Soup Dumpling 風味小籠包,$6.95 
+Ming Dynasty,Honey BBQ Pork (蜜汁叉燒) 厨点,$5.25 
+Ming Dynasty,Chinese Broccoli with Oyster Sauce (蠔油芥蘭) 厨点,$5.25 
+Ming Dynasty,Steamed White Rice 白饭,$7.45 
+Ming Dynasty,Salt & Pepper Squid (椒鹽脆鮮魷) 厨点,$9.95 
+Ming Dynasty,Empress Chicken (贵妃雞) 厨点,$9.95 
+Ming Dynasty,Peking Style Cucumber Salad 京拍黃瓜,$2.99 
+Ming Dynasty,A1. Pork Pot Stickers (香煎鍋貼),$9.95 
+Ming Dynasty,A6. Crispy Fried Pumpkin with Salted Egg Yolk (金沙南瓜),$9.95 
+Ming Dynasty,A7. Marinated Tofu (鹵水豆腐),$9.95 
+Ming Dynasty,A8. Salt and Pepper Chicken Wing (椒鹽雞翼),$11.25 
+Ming Dynasty,A9. Salt and Pepper Tofu (椒鹽豆腐粒),$14.75 
+Ming Dynasty,A10. Crispy Egg Roll (Veggie) (脆皮春卷),$9.95 
+Ming Dynasty,A11. House Special Lettuce Wrap with Chicken (招牌生菜包／鸡）,$11.25 
+Ming Dynasty,Jelly Fish Salad (涼拌海蜇絲),$11.25 
+Ming Dynasty,A2. Salt and Pepper Calamari (椒鹽鮮魷),$6.25 
+Ming Dynasty,A3. Deep Fried Oyster 酥炸生蠔,$21.25 
+Ming Dynasty,A5. Deep Fried Prawns (炸大蝦),$9.95 
+Ming Dynasty,Roast Duck over Rice 脆皮烧鸭饭,$17.55 
+Ming Dynasty,Honey BBQ Pork over Rice 蜜汁叉烧饭,$21.25 
+Bangkok Garden Thai Cuisine & Sushi Bar,Pad Thai Jumbo Prawns,$18.95 
+Bangkok Garden Thai Cuisine & Sushi Bar,Rice,$2.50 
+Bangkok Garden Thai Cuisine & Sushi Bar,Cucumber Salad,$2.00 
+Bangkok Garden Thai Cuisine & Sushi Bar,Peanut Sauce,$2.00 
+Bangkok Garden Thai Cuisine & Sushi Bar,Sticky Rice with Mango,$6.99 
+Bangkok Garden Thai Cuisine & Sushi Bar,Sticky Rice,$3.00 
+Bangkok Garden Thai Cuisine & Sushi Bar,1. Garlic Prawns,$19.95 
+Bangkok Garden Thai Cuisine & Sushi Bar,2. Squid Basil,$19.95 
+Bangkok Garden Thai Cuisine & Sushi Bar,3. Garlic Seafood,$23.95 
+Bangkok Garden Thai Cuisine & Sushi Bar,4. Basil Seafood,$23.95 
+Bangkok Garden Thai Cuisine & Sushi Bar,5. Seafood Eggplant,$23.95 
+Bangkok Garden Thai Cuisine & Sushi Bar,6. Ginger Fish,$22.95 
+Bangkok Garden Thai Cuisine & Sushi Bar,7. Crispy Basa Fish,$24.95 
+Bangkok Garden Thai Cuisine & Sushi Bar,8. Salmon Green Curry,$23.95 
+Bangkok Garden Thai Cuisine & Sushi Bar,9. Seafood Delight,$21.95 
+Bangkok Garden Thai Cuisine & Sushi Bar,Panang Avocado,$23.95 
+Bangkok Garden Thai Cuisine & Sushi Bar,Buri Tara Sea,$22.95 
+Oscar's Very Mexican Food,Potato Breakfast Burrito,$12.00 
+Oscar's Very Mexican Food,Vegetarian Burrito,$12.80 
+Oscar's Very Mexican Food,Oscar's Combo Plate,$20.90 
+Oscar's Very Mexican Food,Carne Asada Combo Plate,$22.50 
+Oscar's Very Mexican Food,Carnitas Combo Plate,$20.90 
+Oscar's Very Mexican Food,Adobada Combo Plate,$20.90 
+Oscar's Very Mexican Food,Pollo Asado Combo Plate,$20.90 
+Oscar's Very Mexican Food,Fajita Combo Plate,$20.90 
+Oscar's Very Mexican Food,Chile Verde Combo Plate,$20.00 
+Oscar's Very Mexican Food,Carne Asada Fries,$18.90 
+Oscar's Very Mexican Food,Quesadilla,$8.10 
+Oscar's Very Mexican Food,Quesadilla Supreme,$16.20 
+Oscar's Very Mexican Food,Taco Salad,$13.50 
+Oscar's Very Mexican Food,Chips Supreme,$18.90 
+Oscar's Very Mexican Food,Chips with Cheese,$5.00 
+Oscar's Very Mexican Food,Plain Chips,$1.50 
+Oscar's Very Mexican Food,Adobada Taco,$6.00 
+Oscar's Very Mexican Food,Beef Taco,$5.75 
+Oscar's Very Mexican Food,Carne Asada Taco,$6.25 
+Oscar's Very Mexican Food,Carnitas Taco,$6.00 
+Oscar's Very Mexican Food,Chicken Taco,$5.75 
+Oscar's Very Mexican Food,Chorizo Taco,$6.00 
+Oscar's Very Mexican Food,Fish Taco,$6.00 
+Oscar's Very Mexican Food,Vegetarian Taco,$5.40 
+Oscar's Very Mexican Food,Pollo Asado Taco,$6.00 
+Oscar's Very Mexican Food,Fajita Taco,$6.00 
+Oscar's Very Mexican Food,Adobada Torta,$14.00 
+Oscar's Very Mexican Food,Carne Asada Torta,$14.50 
+Oscar's Very Mexican Food,Carnitas Torta,$14.00 
+Oscar's Very Mexican Food,Chicken Torta,$14.00 
+Oscar's Very Mexican Food,Chorizo & Eggs Torta,$14.00 
+Oscar's Very Mexican Food,Ham & Cheese Torta,$14.00 
+Oscar's Very Mexican Food,Machaca Torta,$14.00 
+Oscar's Very Mexican Food,Carne Asada Chimichanga,$18.50 
+Oscar's Very Mexican Food,Chicken Chimichanga,$16.20 
+TOGO’S,"#39 BBQ Chipotle Chicken - 9"" Large",$16.74+
+TOGO’S,"#1 Chicken & Cheddar - 3"" Mini",$6.60+
+TOGO’S,"#1 Chicken & Cheddar - 6"" Regular",$11.94+
+TOGO’S,"#1 Chicken & Cheddar - 9"" Large",$16.20+
+TOGO’S,"#36 California Club - 6"" Regular",$13.14+
+TOGO’S,"#36 California Club - 9"" Large",$19.14+
+TOGO’S,"#31 Clubhouse Melt - 3"" Mini",$7.14+
+TOGO’S,"#31 Clubhouse Melt - 6"" Regular",$13.14+
+TOGO’S,"#31 Clubhouse Melt - 9"" Large",$17.70+
+TOGO’S,"#24 Turkey & Avocado - 3"" Mini",$7.14+
+TOGO’S,"#24 Turkey & Avocado - 6"" Regular",$12.60+
+TOGO’S,"#24 Turkey & Avocado - 9"" Large",$17.10+
+TOGO’S,"#26 Turkey, Ham & Cheddar - 6"" Regular",$11.70+
+TOGO’S,"#26 Turkey, Ham & Cheddar - 9"" Large",$17.10+
+TOGO’S,"#3 Turkey & Cheddar - 3"" Mini",$6.60+
+TOGO’S,"#3 Turkey & Cheddar - 6"" Regular",$11.70+
+TOGO’S,"#3 Turkey & Cheddar - 9"" Large",$15.90+
+TOGO’S,"#4 Turkey, Genoa Salami & Cheddar - 6"" Regular",$11.70+
+TOGO’S,"#4 Turkey, Genoa Salami & Cheddar - 9"" Large",$17.10+
+TOGO’S,"#5 Turkey & Cranberry - 3"" Mini",$6.60+
+TOGO’S,"#5 Turkey & Cranberry - 6"" Regular",$11.70+
+TOGO’S,"#5 Turkey & Cranberry - 9"" Large",$15.90+
+Punjabi Dhaba,Keema Naan,$5.99 
+Punjabi Dhaba,Tandoori Roti,$2.99 
+Punjabi Dhaba,Aloo Parantha,$5.50 
+Punjabi Dhaba,Gobi Parantha,$5.50 
+Punjabi Dhaba,Bread Basket,$8.95 
+Punjabi Dhaba,Rice Pulao,$8.99 
+Punjabi Dhaba,Vegetable Biryani,$14.50 
+Punjabi Dhaba,Chicken Biryani,$16.00 
+Punjabi Dhaba,Lamb Biryani,$18.00 
+Punjabi Dhaba,Prawn Biryani,$18.00 
+Punjabi Dhaba,Goat Biryani,$18.00 
+Punjabi Dhaba,Goa Fish Curry,$17.50 
+Punjabi Dhaba,Fish Methi,$17.50 
+Punjabi Dhaba,Prawn Jalfrezi,$17.50 
+Punjabi Dhaba,Prawn Saag,$17.50 
+Punjabi Dhaba,Prawn Tikka Masala,$17.50 
+Tim's Kitchen Davis,Unagi Don,$13.95 
+Tim's Kitchen Davis,Braised Spicy Pig Feet over Rice,$13.80 
+Tim's Kitchen Davis,Baked Pork Chop with Tomato Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Baked Chicken Steak with Cream Sauce over Rice,$13.80 
+Tim's Kitchen Davis,Braised Spicy Beef Shank over Rice,$13.80 
+Tim's Kitchen Davis,Green Bean with Chicken over Rice,$13.80 
+Tim's Kitchen Davis,Chicken Steak with Black Pepper over Rice,$13.80 
+Tim's Kitchen Davis,Baked Chicken Steak with Cream Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Broccoli Chicken with Rice,$13.80 
+Tim's Kitchen Davis,Baked Pork Chop with Tomato Sauce over Rice,$13.80 
+Tim's Kitchen Davis,Chicken Steak with Black Pepper over Spaghetti,$13.80 
+Tim's Kitchen Davis,Chicken Steak in Portuguese Sauce with Spaghetti,$13.95 
+Tim's Kitchen Davis,Prawns in Portuguese Sauce with Rice,$13.95 
+Tim's Kitchen Davis,Pork Chop with Black Pepper Sauce over Rice,$13.80 
+Tim's Kitchen Davis,Baked Prawns with Cream Sauce over Rice,$13.80 
+Tim's Kitchen Davis,Baked Prawns with Tomato Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Baked Prawns with Cream Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Prawns in Portuguese Sauce with Spaghetti,$13.95 
+Tim's Kitchen Davis,Baked Pork Chop with Cream Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Baked Pork Chop Steak with Cream Sauce over Rice,$13.80 
+Tim's Kitchen Davis,Pork Chop with Black Pepper Sauce over Spaghetti,$13.80 
+Tim's Kitchen Davis,Green Bean with Prawns over Spaghetti,$13.80 
+Tim's Kitchen Davis,Green Bean with Chicken over Spaghetti,$13.80 
+Tim's Kitchen Davis,Green Bean with Prawns over Rice,$13.80 
+Tim's Kitchen Davis,Baked Prawns with Tomato Sauce Over Rice,$13.80 
+Journey to the Dumpling 2,Shrimp Dumpling Noodle Soup,$19.49 
+Journey to the Dumpling 2,Tan Tan Mian (spicy),$16.04 
+Journey to the Dumpling 2,Kids Noodle Soup,$7.99+
+Journey to the Dumpling 2,Pork Chop Noodle Soup,$19.49 
+Journey to the Dumpling 2,Spare Ribs Noodle Soup,$18.98 
+Journey to the Dumpling 2,Vegan Dumpling Noodle Soup,$19.49 
+Journey to the Dumpling 2,Vegetarian Dumpling Noodle Soup,$19.49 
+Journey to the Dumpling 2,Wonton Noodle Soup,$17.83 
+Journey to the Dumpling 2,Duck Noodle Soup,$16.95 
+Journey to the Dumpling 2,Chow Fun,$18.98+
+Journey to the Dumpling 2,Chow Mein,$18.98+
+Journey to the Dumpling 2,Garlic Noodles,$16.68+
+Journey to the Dumpling 2,Singapore Noodles (spicy),$20.64 
+Journey to the Dumpling 2,Hong Kong Style Chow Mein,$18.98+
+Journey to the Dumpling 2,Vegan Singapore Noodles (spicy),$17.19 
+Journey to the Dumpling 2,Vegetarian Singapore Noodles (spicy),$18.34 
+Marco's Pizza,CinnaSquares,$11.49+
+Marco's Pizza,Double Chocolate Brownie,$11.49+
+Marco's Pizza,Chocolate CinnaSquares,$9.53+
+Marco's Pizza,Blue Cheese Cup,$0.79+
+Marco's Pizza,Caesar Dressing,$0.79+
+Marco's Pizza,Greek Vinaigrette Dressing,$0.79+
+Marco's Pizza,Buffalo Dipping Cup,$0.79+
+Marco's Pizza,Vanilla Icing,$0.79+
+Marco's Pizza,Italian Dressing,$0.79+
+Marco's Pizza,Jalapeno Ranch Dipping Cup,$0.79+
+Marco's Pizza,Pizza Sauce Dipping Cup,$0.79+
+Marco's Pizza,Ranch Dipping Cup,$0.79+
+Marco's Pizza,Ranch Dressing,$0.79+
+Marco's Pizza,Tangy BBQ Dipping,$0.79+
+Marco's Pizza,Garlic Butter Dipping Cup,$0.79+
+Marco's Pizza,Side of,$0.58+
+Marco's Pizza,Jalapeno Side Cup,$0.79+
+Marco's Pizza,Banana Pepper Side Cup,$0.79+
+Ike's Love & Sandwiches,298. JAYMEETLESS,$16.25+
+Ike's Love & Sandwiches,36. [YOUR FAVORITE PEANUTS CHARACTER],$17.85+
+Ike's Love & Sandwiches,311. LOVE TRIANGLE,$17.85+
+Ike's Love & Sandwiches,315. BONNIE-JILL,$16.25+
+Ike's Love & Sandwiches,892. PIRATES OR PILATES,$19.45+
+Ike's Love & Sandwiches,895. CLUELESS,$17.85+
+Ike's Love & Sandwiches,173. GLADIATOR *Contains Anchovies*,$17.85+
+Ike's Love & Sandwiches,414. LITACANRANA,$16.25+
+Ike's Love & Sandwiches,243. I CH-CH-CHOOSE YOU *Contains Anchovies*,$17.85+
+Ike's Love & Sandwiches,414. VEGAN LITACANRANA,$17.85+
+Ike's Love & Sandwiches,219. VEGAN FALL'ING FOR IKE'S,$17.75+
+Ike's Love & Sandwiches,291. VEGAN PEE WEE,$17.85+
+Ike's Love & Sandwiches,301. VEGAN HANDSOME OWL,$17.85+
+Ike's Love & Sandwiches,202. VEGAN GRAMPS,$17.85+
+Ike's Love & Sandwiches,892. VEGAN PIRATES OR PILATES,$17.85+
+Ike's Love & Sandwiches,299. VEGAN MEL-LO KITTY,$17.85+
+Ike's Love & Sandwiches,233. VEGAN BUD BUNDY,$17.85+
+Ike's Love & Sandwiches,172. VEGAN TOAD,$17.85+
+Ike's Love & Sandwiches,275. VEGAN KIRK RUETER,$17.85+
+Ike's Love & Sandwiches,204. VEGAN SABRINA SMILES,$16.25+
+Ike's Love & Sandwiches,315. VEGAN BONNIE-JILL,$17.85+
+Ike's Love & Sandwiches,210. VEGAN TERMINATORS,$17.85+
+Ike's Love & Sandwiches,361. VEGANSAURUS,$17.85+
+Ike's Love & Sandwiches,982. VEGAN PURPLE GOBLIN,$17.85+
+Ike's Love & Sandwiches,1122. VEGAN TAILOR'S BOOTY,$16.25+
+Carl's Jr.,Redhook® Beer-Battered Fish Sandwich,$5.79 
+Carl's Jr.,Fried Zucchini Star,$8.50 
+Carl's Jr.,Hand-Breaded Chicken Sandwich,$10.18 
+Carl's Jr.,Hand-Breaded Bacon Swiss Chicken Sandwich,$11.73 
+Carl's Jr.,3 Piece - Hand-Breaded Chicken Tenders™,$8.89 
+Carl's Jr.,5 Piece - Hand-Breaded Chicken Tenders™,$11.60 
+Carl's Jr.,10 Piece - Hand-Breaded Chicken Tenders™,$18.05 
+Carl's Jr.,15 Piece - Hand-Breaded Chicken Tenders™,$24.50 
+Carl's Jr.,20 Piece - Hand-Breaded Chicken Tenders™,$31.59 
+Carl's Jr.,6 Piece - Chicken Stars™,$6.44 
+Carl's Jr.,9 Piece- Chicken Stars™,$9.02 
+Carl's Jr.,Charbroiled Chicken Club™ Sandwich,$11.98 
+Carl's Jr.,Charbroiled Santa Fe Chicken™ Sandwich,$11.34 
+Carl's Jr.,Charbroiled BBQ Chicken™ Sandwich,$10.69 
+Carl's Jr.,Spicy Chicken Sandwich,$5.41 
+Shake Shack,Bag O' Bones,$5.69 
+Shake Shack,ShackBurger Box - 12 servings,$11.99+
+Shake Shack,Crinkle Cut Box - 12 Servings,$10.29 
+Shake Shack,Chicken Shack Box - 12 servings,$115.09 
+Shake Shack,Veggie Shack™ Box - 12 servings,$65.09 
+Shake Shack,Smoke Shack Box- 12 Servings,$130.99 
+Shake Shack,Cheeseburger Box - 12 servings,$140.39 
+Shake Shack,Hamburger Box - 12 servings,$139.09 
+Shake Shack,'Shroom Burger Box - 12 servings,$113.79 
+Boba Pho U,2. Creamy Thai Iced Tea,$7.95 
+Boba Pho U,3. Matcha Latte,$7.95 
+Boba Pho U,5. Fruity Dragon,$7.95 
+Boba Pho U,6. Cara-Melt in Your Mouth,$7.95 
+Boba Pho U,Viet Iced Mocha,$7.95 
+Boba Pho U,8. Taro Milk Shaker,$7.95 
+Boba Pho U,10. Make Your Own,$7.95 
+Blaze Pizza,Four Cheese (Large),$12.19+
+Blaze Pizza,Herbivore (Large),$17.68+
+Blaze Pizza,3 Top Pizza (Large),$28.61 
+Blaze Pizza,2 Top Pizza (Large),$28.61 
+Blaze Pizza,1 Top Pizza (Large),$25.00 
+Blaze Pizza,Simple Pie (Large),$22.56 
+Blaze Pizza,Green Goddess Chop Salad – Side,$21.34 
+Blaze Pizza,Green Goddess Chop Salad – Entrée,$17.68 
+Blaze Pizza,Side Salad,$8.53 
+Blaze Pizza,Entrée Salad,$13.41 
+Blaze Pizza,BYO Salad - Side,$8.53 
+Blaze Pizza,BYO Salad - Entree,$13.41 
+Blaze Pizza,Pesto Garlic Cheesy Bread,$9.75 
+Blaze Pizza,Cheesy Bread,$14.63 
+Mas Taco Bar,Kids Bean and Cheese Burrito,$6.50 
+Mas Taco Bar,Kids Chicken Strips,$6.50 
+Mas Taco Bar,Kids Chicken Quesadilla,$6.50 
+Mas Taco Bar,Kids Cheese Quesadilla,$6.50 
+Mas Taco Bar,Kids Steak Quesadilla,$6.50 
+Mas Taco Bar,Churros,$9.00 
+Mas Taco Bar,Churro Sundae,$11.50 
+Mas Taco Bar,Mango Sorbet,$9.00 
+Mas Taco Bar,Lemonade,$3.25 
+Mas Taco Bar,Dr Pepper,$3.25 
+Mas Taco Bar,Mug Root Beer,$3.25 
+Mas Taco Bar,Bottled Water,$4.50 
+Mas Taco Bar,Sierra Mist,$3.25 
+Mas Taco Bar,500 ml. San Pellegrino,$4.50 
+Mas Taco Bar,Diet Pepsi,$3.25 
+Mas Taco Bar,Iced Tea,$3.25 
+Mas Taco Bar,Pepsi,$3.25 
+Mas Taco Bar,Pineapple Jarritos,$3.25 
+Everest Curry,Assorted Bread Basket,$12.95 
+Everest Curry,Butter Chicken,$17.95 
+Everest Curry,Aloo Gobi,$13.95 
+Everest Curry,Sahi Paneer,$16.95 
+Everest Curry,Vegan Thali,$16.95 
+Everest Curry,Saag Chana Masala,$14.95 
+Everest Curry,Chana Masala,$14.95 
+Everest Curry,Saag and Tofu,$14.95 
+Everest Curry,Palak Paneer,$16.95 
+Everest Curry,Mutter Paneer,$16.95 
+Everest Curry,Paneer Tikka Masala,$16.95 
+Everest Curry,Malai Kofta,$14.95 
+Everest Curry,Mushroom Masala,$13.95 
+Everest Curry,Mixed Vegetables,$13.95 
+Everest Curry,Aloo Gobi,$13.95 
+Everest Curry,Aloo Mutter,$13.95 
+Everest Curry,Baigan Bhartha,$14.95 
+Everest Curry,Mixed Vegetables,$13.95 
+Everest Curry,Bhindi Masala,$14.95 
+Everest Curry,Vegetable Korma,$15.95 
+Everest Curry,Saag Aloo,$14.95 
+Everest Curry,Mughlai Saag,$14.95 
+Everest Curry,Vegetable Sampler,$16.95 
+Everest Curry,Chicken Tikka Masala,$17.95 
+Everest Curry,Chicken Tikka Masala Thali,$24.90 
+Everest Curry,Chicken Korma,$17.95 
+Everest Curry,Chicken Korma Thali,$24.90 
+Everest Curry,Chicken Curry,$16.95 
+Everest Curry,Chicken Curry Thali,$23.90 
+Everest Curry,Butter Chicken,$17.95 
+Everest Curry,Butter Chicken Thali,$24.90 
+Everest Curry,Chicken Coconut Curry,$17.95 
+Everest Curry,Chicken Coconut Curry Thali,$24.90 
+Everest Curry,Chicken Saag,$16.95 
+Everest Curry,Chicken Saag Thali,$23.90 
+Everest Curry,Chicken Vindaloo,$16.95 
+Everest Curry,Chicken Vindaloo Thali,$23.90 
+Everest Curry,Chicken Kadhai,$16.95 
+Everest Curry,Chicken Kadhai Thali,$23.90 
+Everest Curry,Kitchen Special,$22.95 
+Everest Curry,Kitchen Special Thali,$29.90 
+Vallejo's Restaurant,D. Carne Asada Grilled Sirloin Steak Plate,$26.99 
+Vallejo's Restaurant,D. Carne Asada Grilled Sirloin Steak a la Carta,$21.49 
+Vallejo's Restaurant,E. Carne Adobada Plate,$24.99 
+Vallejo's Restaurant,E. Carne Adobada a la Carta Plate,$18.49 
+Vallejo's Restaurant,F. Mole Con Pollo Plate,$24.99 
+Vallejo's Restaurant,F. Mole con Pollo a la Carta,$20.49 
+Vallejo's Restaurant,G. Chile Verde Plate,$23.99 
+Vallejo's Restaurant,G. Chile-Verde a la Carta,$19.99 
+Vallejo's Restaurant,H. Chile Colorado,$24.49 
+Vallejo's Restaurant,H. Chile Colorado a la Carta,$21.99 
+Vallejo's Restaurant,I. Steak Ranchero,$26.99 
+Vallejo's Restaurant,I. Chicken Ranchero Plate,$26.99 
+Vallejo's Restaurant,I. Steak Ranchero a la Carta,$21.99 
+Vallejo's Restaurant,I. Chicken Ranchero a la Carta,$21.99 
+Vallejo's Restaurant,I. Shrimp Ranchero Plate,$27.99 
+Vallejo's Restaurant,"I. Steak, Chicken and Shrimp a la Carta",$24.49 
+KFC,12 pc. Nuggets,$9.59 
+KFC,36 pc. Nuggets,$28.79 
+KFC,5 pc. Nuggets Kids Meal,$6.59 
+KFC,Classic Chicken Sandwich Combo,$11.39 
+KFC,Spicy Chicken Sandwich Combo,$11.39 
+KFC,Chicken Little Combo,$11.27 
+KFC,Classic Chicken Sandwich + Nuggets Big Box Meal,$14.39 
+KFC,Spicy Chicken Sandwich + Nuggets Big Box Meal,$14.39 
+KFC,Classic Chicken Sandwich,$5.99 
+KFC,Spicy Chicken Sandwich,$5.99 
+KFC,Chicken Little,$4.14 
+Manaao Thai Cuisine,Pad Eggplant,$19.95+
+Manaao Thai Cuisine,Thai Praram Entree,$19.95+
+Manaao Thai Cuisine,Manaao's Garden Entree,$19.95+
+Manaao Thai Cuisine,Red Curry Entree,$19.95+
+Manaao Thai Cuisine,Green Curry Entree,$19.95+
+Manaao Thai Cuisine,Yellow Curry Entree,$19.95+
+Manaao Thai Cuisine,Panang Curry Entree,$19.95+
+Manaao Thai Cuisine,Kaprow Moo Yang,$21.95 
+Manaao Thai Cuisine,Pla Pad Cha,$24.95 
+Manaao Thai Cuisine,Pad Tom Yum Talay,$29.95 
+Manaao Thai Cuisine,Larb Gai Samunprai,$19.95 
+Manaao Thai Cuisine,Yum Nua,$20.95 
+Manaao Thai Cuisine,BBQ Chicken,$21.95 
+Manaao Thai Cuisine,Moo Dad Deaw,$20.95 
+Manaao Thai Cuisine,Pla Nueng Manaao,$24.95 
+Manaao Thai Cuisine,Crying Tiger,$23.95 
+Manaao Thai Cuisine,Khua Kling,$22.95 
+California Burrito,Carne Asada Mini Taco,$3.40 
+California Burrito,Lengua Mini Taco,$3.40 
+California Burrito,Chicken Mini Taco,$3.40 
+California Burrito,Ground Beef Mini Taco,$3.40 
+California Burrito,Chicken Crispy Taco,$4.15 
+California Burrito,Shredded Beef Crispy Taco,$4.15 
+California Burrito,Ground Beef Crispy Taco,$4.15 
+California Burrito,Carne Asada Taco,$5.40 
+California Burrito,Carnitas Taco,$5.40 
+California Burrito,Adobada Taco,$5.40 
+California Burrito,Lengua Taco,$5.40 
+California Burrito,Chorizo Taco,$5.40 
+California Burrito,Grilled Chicken Fajita,$5.40 
+California Burrito,Fish Taco,$5.40 
+California Burrito,Shrimp Fajita,$5.40 
+Broderick Roadhouse,Desperado Sandwich,$22.00+
+Broderick Roadhouse,Duck Burger,$25.00+
+Broderick Roadhouse,Impossible Burger,$19.00+
+Broderick Roadhouse,Mushroom Swiss Impossible,$22.00+
+Broderick Roadhouse,Mushroom Cheese Steak,$21.50+
+Broderick Roadhouse,Ranch,$0.50+
+Broderick Roadhouse,Blue,$0.50+
+Broderick Roadhouse,BBQ,$0.50+
+Broderick Roadhouse,Wich,$0.50+
+Broderick Roadhouse,Steak,$0.50+
+Broderick Roadhouse,Garlic Mayo,$1.50 
+Broderick Roadhouse,Bahmi,$1.50 
+Broderick Roadhouse,1000,$1.50 
+Broderick Roadhouse,Balsamic,$1.50 
+Broderick Roadhouse,Ceasar,$1.50 
+Broderick Roadhouse,Bomb,$1.50 
+Broderick Roadhouse,Redwine Vin,$1.50 
+Broderick Roadhouse,Fig Jam,$1.50 
+Broderick Roadhouse,"Pickles, 2 oz.",$2.00 
+Broderick Roadhouse,"Pickles, 4 oz.",$2.00 
+Krispy Krunchy Chicken,Signature Chicken Family Meal,$28.99 
+Plant Power Fast Food - Sacramento,Buffalo 66 Sandwich,$9.36+
+Plant Power Fast Food - Sacramento,Buffalo 66 Wrap,$15.61+
+Plant Power Fast Food - Sacramento,Southwest Avocado Wrap,$14.94 
+Plant Power Fast Food - Sacramento,'Chicken' Caesar Salad,$14.94 
+Plant Power Fast Food - Sacramento,Superfood Salad,$14.36 
+Plant Power Fast Food - Sacramento,Kids Cheeseburger Meal,$15.61+
+Plant Power Fast Food - Sacramento,Kids 'Chicken' Nuggets Meal,$15.61 
+Plant Power Fast Food - Sacramento,Regular Fries,$13.11+
+Plant Power Fast Food - Sacramento,Side Caesar Salad,$13.11+
+Plant Power Fast Food - Sacramento,Sweet Potato Fries,$4.94 
+Plant Power Fast Food - Sacramento,Iconic Fries,$4.94 
+Plant Power Fast Food - Sacramento,'Carne Asada' Fries,$6.19 
+Plant Power Fast Food - Sacramento,Buffalo 'Wings',$9.36+
+Plant Power Fast Food - Sacramento,5pc 'Chicken' Tenders,$11.86+
+Plant Power Fast Food - Sacramento,3pc 'Chicken' Tenders,$14.36 
+Plant Power Fast Food - Sacramento,12pc 'Chicken' Nuggets,$13.11 
+Plant Power Fast Food - Sacramento,6pc 'Chicken' Nuggets,$9.94 
+Plant Power Fast Food - Sacramento,6pc Onion Rings,$15.61 
+Plant Power Fast Food - Sacramento,SIDE Ketchup,$9.36 
+Plant Power Fast Food - Sacramento,SIDE Ranch,$7.44 
+Plant Power Fast Food - Sacramento,SIDE Chipotle Sauce,$0.00 
+Plant Power Fast Food - Sacramento,SIDE BBQ Sauce,$0.81 
+Plant Power Fast Food - Sacramento,SIDE Secret Sauce,$0.81 
+Plant Power Fast Food - Sacramento,SIDE Honey Mustard,$0.81 
+Plant Power Fast Food - Sacramento,Mint Cookie Snow Day featuring Thin Mint® Girl Scout Cookies®,$0.81 
+Plant Power Fast Food - Sacramento,Fountain Drink,$0.81 
+Plant Power Fast Food - Sacramento,Milkshake,$10.94 
+Plant Power Fast Food - Sacramento,Betterfinger Snow Day,$3.44+
+Plant Power Fast Food - Sacramento,Chocolate Brownie Snow Day,$9.36+
+Plant Power Fast Food - Sacramento,Cookies & Cream Snow Day,$9.94 
+Shah's Halal Food,Fanta Bottle,$11.49 
+Shah's Halal Food,Sprite Bottle,$11.49 
+Shah's Halal Food,Snapple,$2.50 
+Shah's Halal Food,Soda Bottle,$2.50 
+Lazi Cow,Black Milk Tea,$6.75 
+Lazi Cow,Jasmin Green Milk Tea,$6.75 
+Lazi Cow,Thai Milk Tea,$6.75 
+Lazi Cow,Taro Milk Tea,$6.75 
+Lazi Cow,Brown Sugar Milk Tea,$6.75 
+Lazi Cow,Matcha Milk Tea,$6.75 
+Lazi Cow,Mica Akira Milk Tea,$6.95 
+Lazi Cow,Lazi Cow Style BMT Milk Tea,$6.95 
+Lazi Cow,HK Thai Milk Tea,$6.95 
+Lazi Cow,Matcha Love,$7.25 
+Lazi Cow,Moodoo Matcha,$7.25 
+Lazi Cow,Lazi Cow Style GMT Matcha,$7.25 
+Ace's Gyro Shack ,Mango lassi,$11.99+
+Ace's Gyro Shack ,Canned Drinks/bottled water,$11.99+
+Pho Viet 2,"R5. Pho Tai, Nam",$12.75+
+Pho Viet 2,"R6. Pho Tai, Gau",$12.75+
+Pho Viet 2,F5. Beef Fried Rice,$13.25 
+Pho Viet 2,F6. BBQ Pork Fried Rice,$12.25 
+Pho Viet 2,F7. Salted Fish and Chicken Fried Rice,$14.25 
+Pho Viet 2,F8. Garlic Butter Fried Rice,$14.25 
+Pho Viet 2,F9. Vegetarian Fried Rice,$12.00 
+Pho Viet 2,L1. House Special Chow Fun,$15.00 
+Pho Viet 2,L1. House Special Chow Mein,$15.00 
+Pho Viet 2,L2. Seafood Chow Fun,$15.00 
+Pho Viet 2,L2. Seafood Chow Mein,$15.00 
+Pho Viet 2,L3. Chicken Chow Fun,$14.00 
+Pho Viet 2,L3. Chicken Chow Mein,$14.00 
+Pho Viet 2,L4. Beef Chow Fun,$14.50 
+Pho Viet 2,L4. Beef Chow Mein,$14.50 
+Pho Viet 2,L5. BBQ Pork Chow Fun,$15.00 
+Pho Viet 2,L5. BBQ Pork Chow Mein,$15.00 
+Pho Viet 2,L6. Shrimp Chow Fun,$15.00 
+Pho Viet 2,L6. Shrimp Chow Mein,$15.00 
+Pho Viet 2,L7. Vegetarian Chow Fun,$14.00 
+Pho Viet 2,L7. Vegetarian Chow Mein,$14.00 
+Cajun Feast,Fried Rice,$18.00 
+Cajun Feast,Pan Fried Egg & Minced Beef Over Rice,$19.50 
+Cajun Feast,Mapo Tofu Plated Rice (Spicy),$18.00 
+Cajun Feast,Toasted Cheese & Garlic Fried Rice,$16.50 
+Cajun Feast,Chinese Sausage Golden Double Egg Fried Rice,$22.50 
+Cajun Feast,Pulled Ginger & Scallion Chicken with Rice,$18.00 
+Cajun Feast,XO Sauce Fried Rice,$22.50 
+Cajun Feast,Supreme Soy Sauce Stir Fried Noodle,$17.30 
+Cajun Feast,Chow Mein,$18.00 
+Cajun Feast,Singaporean Stir Fried Rice Noodle,$19.50 
+Bento Box Midtown,Honey Chicken Bowl,$14.00 
+Bento Box Midtown,Korean BBQ Chicken Bowl,$16.00 
+Bento Box Midtown,Salmon Teriyaki Bowl,$17.00 
+Bento Box Midtown,Sesame Chicken Bowl,$17.00 
+Bento Box Midtown,Spicy Popcorn Chicken Bowl,$19.00 
+Bento Box Midtown,Thai Chicken Bowl,$17.00 
+Bento Box Midtown,Tofu Teriyaki Bowl,$17.00 
+Bento Box Midtown,Beef Pan Fried Noodles,$17.00 
+Bento Box Midtown,Chicken Pan Fried Noodles,$13.00 
+Bento Box Midtown,Seafood Pan Fried Noodles,$20.00 
+Bento Box Midtown,Tofu Pan Fried Noodles,$20.00 
+Bento Box Midtown,Vegetable Pan Fried Noodles,$23.00 
+Bento Box Midtown,Ahi Poke Salad,$17.00 
+Bento Box Midtown,Beef Teriyaki Salad,$17.00 
+Bento Box Midtown,Chicken Teriyaki Salad,$19.00 
+Bento Box Midtown,Sesame Chicken Salad,$16.00 
+Bento Box Midtown,Tofu Teriyaki Salad,$15.00 
+Roberta's Cocina Mexican,Pozole,$17.99 
+Roberta's Cocina Mexican,Taco Salad,$16.99 
+Roberta's Cocina Mexican,Caldo de Res,$19.99 
+Roberta's Cocina Mexican,Caldo de Pollo,$18.99 
+Roberta's Cocina Mexican,Birria en Caldo,$22.99 
+Roberta's Cocina Mexican,Carne en su Jugo,$20.99 
+Roberta's Cocina Mexican,Caldo de Camaron,$22.99 
+Roberta's Cocina Mexican,Caldo de Pescado,$22.99 
+Roberta's Cocina Mexican,Camarones Cancun Combination Plate,$22.99 
+Roberta's Cocina Mexican,Camarones al Mojo de Ajo Combination Plate,$22.99 
+Roberta's Cocina Mexican,Camarones Empanizados Combination Plate,$22.99 
+Roberta's Cocina Mexican,Filete de Pescado Combination Plate,$22.99 
+Roberta's Cocina Mexican,Camaron con Carne Asada Combination Plate,$25.99 
+Roberta's Cocina Mexican,Camarones a la Diabla Combination Plate,$22.99 
+Roberta's Cocina Mexican,Mojarra Combination Plate,$22.99 
+Roberta's Cocina Mexican,Camarones Rancheros Combination Plate,$22.99 
+Roberta's Cocina Mexican,Camarones a la Plancha Combination Plate,$22.99 
+McDonald's,Strawberry Shake,$5.29+
+McDonald's,Vanilla Shake,$5.29+
+McDonald's,OREO® Shamrock McFlurry®,$2.79+
+McDonald's,M&M® McFlurry®,$2.99+
+McDonald's,OREO® McFlurry®,$2.99+
+McDonald's,2 Cookies,$2.39 
+McDonald's,3 Pack Of Cookies,$3.19 
+McDonald's,13 Cookie Tote,$11.49 
+McDonald's,Apple Pie,$2.29+
+McDonald's,Strawberry & Crème Pie,$2.29+
+McDonald's,Chicken Pack,$47.69 
+McDonald's,20 pc. Chicken McNuggets® & 2 Medium Fries,$17.19 
+McDonald's,40 pc. Chicken McNuggets®,$15.89 
+McDonald's,40 pc. Chicken McNuggets® & 2 Large Fries,$27.59 
+McDonald's,Burger Pack,$46.99 
+McDonald's,Favorites for 4,$53.79 
+McDonald's,Combo Pack,$56.39 
+McDonald's,Classic Quarter Pounder® with Cheese Pack,$36.29 
+McDonald's,Classic Cheeseburger Pack,$28.29 
+McDonald's,Classic Big Mac® Pack,$36.29 
+McDonald's,2 Medium French Fries,$10.89 
+McDonald's,2 Large Fries,$12.19 
+McDonald's,13 Cookie Tote,$11.49 
+Wendy's,6 PC. Crispy Chicken Nuggets,$4.19 
+Wendy's,4 PC. Crispy Chicken Nuggets,$3.49 
+Wendy's,Crispy Panko Fish Sandwich,$9.49 
+Wendy's,4PC. Saucy Nuggs,$4.09+
+Wendy's,6PC. Saucy Nuggs,$4.99+
+Wendy's,10PC. Saucy Nuggs,$7.79+
+Wendy's,20PC. Saucy Nuggs,$14.29+
+Wendy's,Saucy Nuggs Party Pack,$23.39+
+Wendy's,Taco Salad,$10.49 
+Wendy's,Parmesan Caesar Salad,$10.49 
+Wendy's,Cobb Salad,$10.49 
+Wendy's,Apple Pecan Salad,$10.49 
+Nick the Greek,Beef/Lamb Gyro Pita Combo,$19.75+
+Nick the Greek,Aquafina,$3.00 
+Nick the Greek,Iced Tea,$2.95 
+Nick the Greek,Hummus with Pita,$9.50 
+Nick the Greek,Pita Bread,$3.75 
+Nick the Greek,Scoop Hummus,$5.95 
+Nick the Greek,Side Gyro or Falafel,$6.95 
+Nick the Greek,Side Rice,$4.75 
+Nick the Greek,Side Sauce,$0.00+
+Nick the Greek,Side Skewer,$6.75 
+Sizzler,Chicken Noodle Soup,$25.89 
+Sizzler,Cheese Toast,$26.99 
+Sizzler,Baked Potato,$8.29 
+Sizzler,French Fries,$1.19 
+Sizzler,Rice Pilaf,$4.59 
+Sizzler,Mashed Potatoes Topped with Herb Butter,$3.89 
+Sizzler,Vegetable Medley,$3.89 
+Sizzler,"Seafood Salad, Serves 2",$3.89 
+Sizzler,"Seafood Salad, Serves 4",$3.89 
+Sizzler,"Traditional Potato Salad, Serves 2",$6.99 
+Sizzler,"Traditional Potato Salad, Serves 4",$13.99 
+Sizzler,"Mac & Cheese, Serves 2",$6.99 
+Sizzler,"Mac & Cheese, Serves 4",$11.59 
+Pooja Indian Grill,Lamb Curry,$15.99 
+Pooja Indian Grill,Lamb Saag Wala,$15.99 
+Pooja Indian Grill,Lamb Vindaloo,$15.99 
+Pooja Indian Grill,Rogan Josh,$15.99 
+Pooja Indian Grill,Lamb Pasanda,$15.99 
+Pooja Indian Grill,Karahi Ghosht,$15.99 
+Pooja Indian Grill,Prawn Curry,$16.99 
+Pooja Indian Grill,Prawn Pepper Masala,$16.99 
+Pooja Indian Grill,Prawn Saag Wala,$16.99 
+Pooja Indian Grill,Madras Prawn Masala,$16.99 
+Pooja Indian Grill,Fish Masala,$16.99 
+Pooja Indian Grill,Prawn Korma,$16.99 
+Pooja Indian Grill,Saag Paneer,$13.99 
+Pooja Indian Grill,Chana Masala (Chole),$13.99 
+Pooja Indian Grill,Mixed Vegetables,$13.99 
+Pooja Indian Grill,Matter Paneer,$13.99 
+Pooja Indian Grill,Aloo Ghobi,$13.99 
+Pooja Indian Grill,Benghan Bharta,$13.99 
+Pooja Indian Grill,Navratan Shahi Korma,$13.99 
+Pooja Indian Grill,Daal Makhani,$13.99 
+Pooja Indian Grill,Yellow Daal,$13.99 
+Pooja Indian Grill,Paneer Masala,$13.99 
+Pooja Indian Grill,Malai Kofta,$13.99 
+Pooja Indian Grill,Bhindi,$13.99 
+Pooja Indian Grill,Shahi Paneer,$13.99 
+Pooja Indian Grill,Paneer Tikka Masala,$13.99 
+Pooja Indian Grill,Paneer Tikka,$13.99 
+MOD Pizza (West Sacramento),Wrapped Fork & Knife Pack,$0.00 
+Chada Thai Cuisine,31. Spicy Basil,$14.95 
+Chada Thai Cuisine,35. Spicy Eggplant,$14.95 
+Chada Thai Cuisine,21. Soft  Shell Crab Salad,$14.95 
+Chada Thai Cuisine,23. Yum Woonsen Salad,$13.95 
+Chada Thai Cuisine,24. Yum Yai Salad,$13.95 
+Chada Thai Cuisine,26. Spicy Beef Salad,$13.95 
+Chada Thai Cuisine,27. Papaya Salad,$9.95 
+Chada Thai Cuisine,19. Thai Style Salad,$9.95 
+Chada Thai Cuisine,22. Squid Salad,$13.95 
+Chada Thai Cuisine,22. Shrimp Salad,$13.95 
+Chada Thai Cuisine,25. Larb Salad,$9.95 
+Chada Thai Cuisine,28. Pad Broccoli,$14.95 
+Chada Thai Cuisine,30. Sweet and Sour,$14.95 
+Chada Thai Cuisine,35. Spicy Eggplant,$14.95 
+Chada Thai Cuisine,29. Spicy Bamboo Shoots,$14.95 
+Chada Thai Cuisine,31. Spicy Basil,$14.95 
+Chada Thai Cuisine,32. Fresh Ginger,$14.95 
+Chada Thai Cuisine,33. Cashew Nut,$14.95 
+Chada Thai Cuisine,34. Kaprow Moo Grob,$14.95 
+Chada Thai Cuisine,37. Prik Khing,$14.95 
+Chada Thai Cuisine,38. Pra Ram,$14.95 
+Chada Thai Cuisine,39. Vegetable Deluxe,$14.95 
+Chada Thai Cuisine,40. Yellow Curry,$14.95+
+Chada Thai Cuisine,42. Pa Nang Curry,$14.95+
+Chada Thai Cuisine,43. Green Curry,$14.95+
+Chada Thai Cuisine,47. Avocado Curry,$16.95+
+Chada Thai Cuisine,Lamb Curry,$18.95 
+Chada Thai Cuisine,41. Massaman Curry,$14.95+
+Chada Thai Cuisine,43. Red Curry,$14.95+
+Chada Thai Cuisine,44. Roasted Ducks curry,$16.95+
+Chada Thai Cuisine,45. Pineapple Curry,$14.95+
+Chada Thai Cuisine,46. Mango Curry,$16.95+
+Chada Thai Cuisine,46. Pumpkin Curry,$16.95+
+Beach Hut Deli,Vegan Santa Cruz,$11.50+
+Beach Hut Deli,Vegan Beach Bikini,$10.00+
+Beach Hut Deli,Grommet Grilled Cheese,$5.50+
+Beach Hut Deli,P.B. & Jellyfish,$4.50+
+Beach Hut Deli,Dune Buggy Dog,$6.50+
+Beach Hut Deli,Shaka Nachos,$7.95 
+Beach Hut Deli,The Beach Bum,$6.50+
+Beach Hut Deli,BBQ Chicken Salad,$19.50 
+Beach Hut Deli,Chef's Salad,$19.50 
+Beach Hut Deli,The Mesa Salad,$19.50 
+Beach Hut Deli,Super Salad,$19.50 
+Beach Hut Deli,Tuna Salad,$19.50 
+Beach Hut Deli,The Cabo,$19.50 
+Cornerstone Cafe & Bar,Caesar Salad,$10.50 
+Cornerstone Cafe & Bar,Chef Salad,$14.00 
+Cornerstone Cafe & Bar,Tuna Salad,$12.50 
+Cornerstone Cafe & Bar,Taco Salad,$15.00 
+Cornerstone Cafe & Bar,Low Calories Plate,$13.00 
+Cornerstone Cafe & Bar,House Salad,$5.50 
+Cornerstone Cafe & Bar,House Salad with Cup of Soup,$8.50 
+Cornerstone Cafe & Bar,Club House Sandwich,$13.50+
+Cornerstone Cafe & Bar,California Sandwich,$13.50+
+Cornerstone Cafe & Bar,Turkey Supreme,$13.50+
+Cornerstone Cafe & Bar,Santa Fe Chicken Sandwich,$13.50+
+Cornerstone Cafe & Bar,French Dip,$13.50+
+Cornerstone Cafe & Bar,Tuna Melt,$12.00+
+Cornerstone Cafe & Bar,Chicken Melt,$12.00+
+Cornerstone Cafe & Bar,Patty Melt,$13.50+
+Cornerstone Cafe & Bar,BLT Sandwich,$12.00+
+Cornerstone Cafe & Bar,Crispy Chicken Naan Sandwich,$13.50+
+Cornerstone Cafe & Bar,Philly Beef Sandwich,$13.50+
+Cornerstone Cafe & Bar,Deli Sandwich,$11.00+
+Cornerstone Cafe & Bar,Grilled Vegetarian Sandwich,$12.00+
+Cornerstone Cafe & Bar,NY Steak Sandwich,$18.00+
+Cornerstone Cafe & Bar,Grilled Cheese Sandwich,$10.50+
+Cornerstone Cafe & Bar,Grilled Cheese Sandwich with Ham,$12.00+
+Cornerstone Cafe & Bar,Grilled Cheese with Bacon,$12.00+
+Cornerstone Cafe & Bar,Hot Dog,$9.50+
+Cornerstone Cafe & Bar,Hot Dog with Chili & Cheese,$11.50 
+Burger King,Double Whopper Meal,$18.06+
+Burger King,Original Chicken Sandwich,$8.05+
+Burger King,Royal Crispy Chicken,$8.05+
+Burger King,Fiery Royal Crispy Chicken,$9.56+
+Burger King,Bacon and Swiss Royal Crispy Chicken,$9.61+
+Burger King,Chicken Jr.,$3.76+
+Burger King,Royal Crispy Wrap,$4.54+
+Burger King,Fiery Royal Crispy Wrap,$4.54+
+Burger King,Honey Mustard Royal Crispy Wrap,$4.54+
+Burger King,Chicken Nuggets,$4.54 
+Burger King,Fiery Big Fish,$8.44+
+Burger King,Big Fish,$8.44+
+Satori Sushi,Calamari Steak,$11.95 
+Satori Sushi,Soda,$3.00 
+Satori Sushi,Iced Tea,$3.00 
+Satori Sushi,Apple Juice,$3.00 
+Satori Sushi,Japanese Soda,$3.00 
+Satori Sushi,Hamachi Truffle,$15.95 
+Satori Sushi,Salmon Blossom Special,$17.95 
+Satori Sushi,Pepperfin Tuna Special,$14.95 
+Satori Sushi,Salmon Carpacio Special,$14.95 
+The Meltdown,Straw,$0.00 
+The Meltdown,Stir Stick,$0.00 
+The Meltdown,Half & Half,$0.00 
+The Meltdown,Vanilla Creamer,$0.00 
+The Meltdown,Sugar,$0.00 
+The Meltdown,Yellow Packet Sweetener,$0.00 
+The Meltdown,Blue Packet Sweetener,$0.00 
+The Meltdown,Pink Packet Sweetener,$0.00 
+Pizza Guys,Cheezee Jalapeño Bread,$9.99+
+Pizza Guys,Cheezee Bacon Bread,$8.99+
+Pizza Guys,Cheezee Pesto Bread,$9.99+
+Pizza Guys,Muncheez,$7.99+
+Pizza Guys,Calzone,$11.99+
+Pizza Guys,Cheezee Garlic Rolls,$9.99+
+Pizza Guys,Cheezee Pepperoni Rolls,$9.99+
+Pizza Guys,Cheezee Pepperoni Bread,$9.99+
+Pizza Guys,Penne Pollo Rustico Pasta,$9.99+
+Pizza Guys,Creamy Pesto Chicken Pasta,$9.99+
+Pizza Guys,Penne Cheese Marinara Pasta,$9.99+
+Pizza Guys,Penne Sausage Marinara Pasta,$9.99+
+Pizza Guys,Garden Salad,$8.99+
+Pizza Guys,Antipasto Salad,$10.99+
+Pizza Guys,Spinach Tomato Salad,$10.99+
+Pizza Guys,Chicken Bacon Ranch Salad,$10.99+
+Pizza Guys,Crispy Chicken Salad,$10.99+
+Pizza Guys,Mediterranean Salad,$8.99+
+T & Z Chinese Restaurant,Mongolian Chicken,$17.95 
+T & Z Chinese Restaurant,Lemon Chicken,$18.95 
+T & Z Chinese Restaurant,Pineapple Chicken,$18.95 
+T & Z Chinese Restaurant,Sweet and Sour Pork,$17.95 
+T & Z Chinese Restaurant,Salt and Pepper Pork,$17.95 
+T & Z Chinese Restaurant,Sesame Pork,$17.95 
+T & Z Chinese Restaurant,Salt and Pepper Spareribs,$18.95 
+T & Z Chinese Restaurant,Sweet and Sour Spareribs,$18.95 
+T & Z Chinese Restaurant,Broccoli Beef,$18.95 
+T & Z Chinese Restaurant,Snow Peas Beef,$18.95 
+T & Z Chinese Restaurant,Vegetable Beef,$18.95 
+T & Z Chinese Restaurant,Black Bean Sauce Beef,$18.95 
+T & Z Chinese Restaurant,Kung Pao Beef,$18.95 
+T & Z Chinese Restaurant,Szechuan Beef,$18.95 
+T & Z Chinese Restaurant,Garlic Spicy Beef,$18.95 
+T & Z Chinese Restaurant,Mongolian Beef,$19.95 
+T & Z Chinese Restaurant,Pepper Beef,$20.95 
+T & Z Chinese Restaurant,Beef With Ginger and Scallion,$20.95 
+Del Taco,Epic Cali Bacon Burrito,$9.69+
+Del Taco,Epic Cali Bacon Burrito,$9.69+
+Del Taco,Epic Combo Beef & Bean Burrito,$8.79 
+Del Taco,Epic Loaded Queso Burrito,$8.99+
+Del Taco,Epic Fresh Guacamole Burrito,$9.69+
+Del Taco,Grilled Chicken Burrito,$5.99 
+Del Taco,Del Beef Burrito™,$5.99 
+Del Taco,Del Combo™ Beef & Bean Burrito,$5.99 
+Del Taco,8 Layer Veggie Burrito,$5.89 
+Del Taco,2 For Classic Burritos - Mix & Match,$8.79 
+Del Taco,Bean & Cheese Burrito with Red Sauce,$2.79 
+Del Taco,Bean & Cheese Burrito with Green Sauce,$2.79 
+Pete's 7,Wings 8 Piece,$16.50 
+Pete's 7,Salted Caramel Cheesecake,$11.50 
+Pete's 7,Big Carrot Cake,$11.50 
+Pete's 7,Molten Lava Cake,$11.50 
+Pete's 7,Pepsi,$2.50 
+Pete's 7,Diet Pepsi,$2.50 
+Pete's 7,Dr Pepper,$2.50 
+Pete's 7,Tuscan Steak Flatbread,$15.00 
+Pete's 7,Margherita Flatbread,$12.00 
+Pete's 7,Pete's Garden Flatbread,$12.00 
+Pete's 7,Meat Lovers Flatbread,$13.00 
+Pete's 7,Chicken Classic Flatbread,$12.00 
+Delish Pizza,French Fries,$16.95 
+Delish Pizza,Jalapeno Poppers,$16.95 
+Delish Pizza,Sampler Platter,$4.95 
+Delish Pizza,Mozzarella Sticks,$8.95 
+Delish Pizza,Cinnamon Bites,$11.95 
+Delish Pizza,Chocolate Chip Pizza Cookie,$8.95 
+Delish Pizza,Brownie Pizza Cookie,$8.95 
+Delish Pizza,Cheese Cake,$8.95 
+Delish Pizza,2-Liter,$8.95 
+Delish Pizza,Can Soda,$3.95 
+Delish Pizza,Water Bottle,$3.45 
+Petra Greek Midtown,Lamb Chops by the Pound,$23.50 
+Petra Greek Midtown,French Fries,$23.50 
+Petra Greek Midtown,Rice Pilaf,$48.00 
+Petra Greek Midtown,Side of Meat,$4.00 
+Petra Greek Midtown,Pita Bread,$4.00 
+Petra Greek Midtown,Extra Tzatziki Sauce,$6.50 
+Petra Greek Midtown,Extra Revithosalata/Hummus,$3.50 
+Petra Greek Midtown,Extra Tyrokafteri/Fiery Feta,$2.00 
+Petra Greek Midtown,Side of Feta,$2.00 
+Petra Greek Midtown,Side of Olives,$2.00 
+Petra Greek Midtown,Kids Plate,$5.00 
+Buffalo Pizza & Ice Cream,Whole Herd Pizza - Small 12'',$27.19 
+Buffalo Pizza & Ice Cream,Wild Garlic Pizza - Medium 14'',$34.49 
+Buffalo Pizza & Ice Cream,Wild Garlic Pizza - Large 16'',$40.55 
+Buffalo Pizza & Ice Cream,Pesto Pistol Pizza - Personal 10'',$18.85 
+Buffalo Pizza & Ice Cream,Pesto Pistol Pizza - Small 12'',$27.19 
+Buffalo Pizza & Ice Cream,Pesto Pistol Pizza - Gluten Free Small 12'',$27.19 
+Buffalo Pizza & Ice Cream,Pesto Pistol Pizza - Medium 14'',$34.49 
+Buffalo Pizza & Ice Cream,Pesto Pistol Pizza - Large 16'',$40.55 
+Buffalo Pizza & Ice Cream,Home on the Range Pizza - Personal 10'',$18.85 
+Buffalo Pizza & Ice Cream,Home on the Range Pizza - Small 12'',$27.19 
+Buffalo Pizza & Ice Cream,Home on the Range Pizza - Gluten Free Small 12'',$27.19 
+Buffalo Pizza & Ice Cream,Home on the Range Pizza - Medium 14'',$34.49 
+Buffalo Pizza & Ice Cream,Home on the Range Pizza - Large 16'',$40.55 
+Buffalo Pizza & Ice Cream,Hawaiian Cowboy Pizza - Personal 10'',$17.50 
+Buffalo Pizza & Ice Cream,Hawaiian Cowboy Pizza - Small 12'',$23.55 
+Buffalo Pizza & Ice Cream,Hawaiian Cowboy Pizza - Gluten Free Small 12'',$23.55 
+Buffalo Pizza & Ice Cream,Hawaiian Cowboy Pizza - Medium 14'',$30.89 
+Buffalo Pizza & Ice Cream,Hawaiian Cowboy Pizza - Large 16'',$36.95 
+Buffalo Pizza & Ice Cream,Pepperoni Pizza - Personal 10'',$17.50 
+Buffalo Pizza & Ice Cream,Pepperoni Pizza - Small 12'',$23.55 
+Buffalo Pizza & Ice Cream,Pepperoni Pizza - Gluten Free Small 12'',$23.55 
+Buffalo Pizza & Ice Cream,Pepperoni Pizza - Medium 14'',$30.89 
+Buffalo Pizza & Ice Cream,Pepperoni Pizza - Large 16'',$36.95 
+Buffalo Pizza & Ice Cream,Great Plains Pizza - Personal 10'',$16.95 
+Buffalo Pizza & Ice Cream,Great Plains Pizza - Small 12'',$22.40 
+Buffalo Pizza & Ice Cream,Great Plains Pizza - Gluten Free Small 12'',$22.40 
+Buffalo Pizza & Ice Cream,Great Plains Pizza - Medium 14'',$28.45 
+Buffalo Pizza & Ice Cream,Great Plains Pizza - Large 16'',$34.49 
+Buffalo Pizza & Ice Cream,Bacon & Eggs Pizza - Personal 10'',$18.19 
+Buffalo Pizza & Ice Cream,Bacon & Eggs Pizza - Small 12'',$24.25 
+Buffalo Pizza & Ice Cream,Bacon & Eggs Pizza - Gluten Free Small 12'',$24.25 
+Buffalo Pizza & Ice Cream,Bacon & Eggs Pizza - Medium 14'',$31.49 
+Buffalo Pizza & Ice Cream,Bacon & Eggs Pizza - Large 16'',$37.55 
+Buffalo Pizza & Ice Cream,Morning Stampede Pizza - Personal 10'',$19.39 
+Buffalo Pizza & Ice Cream,Morning Stampede Pizza - Small 12'',$27.79 
+Buffalo Pizza & Ice Cream,Morning Stampede Pizza - Gluten Free Small 12'',$27.79 
+Jack in the Box,3PC French Toast Sticks Platter w/ Bacon Combo,$13.49 
+Jack in the Box,3PC French Toast Sticks Platter w/ Sausage Combo,$13.49 
+Jack in the Box,Grande Sausage Burrito Combo,$13.61 
+Jack in the Box,Supreme Croissant Combo,$12.49 
+Jack in the Box,Sausage Croissant Combo,$12.36 
+Jack in the Box,Supreme Sourdough Breakfast Sandwich Combo,$11.74 
+Jack in the Box,Meat Lovers Burrito Combo,$13.61 
+Jack in the Box,Loaded Breakfast Sandwich Combo,$13.74 
+Jack in the Box,Extreme Sausage® Sandwich Combo,$12.49 
+Jack in the Box,Ultimate Breakfast Sandwich Combo,$13.49 
+Jack in the Box,Sausage Breakfast Jack® Combo,$9.74 
+Jack in the Box,Breakfast Jack® Combo,$9.24 
+Jack in the Box,Build Your Own Munchie Meal,$15.00+
+Woodstock's Pizza Davis,"12"" Grateful Veg Pizza ™",$29.95 
+Woodstock's Pizza Davis,"12"" Davis Classic",$29.95 
+Woodstock's Pizza Davis,"12"" The Club",$29.95 
+Woodstock's Pizza Davis,"Customize Your Own 8"" Pizza",$11.95 
+Woodstock's Pizza Davis,"8"" Pepperoni Pizza",$13.45 
+Woodstock's Pizza Davis,"8"" Hawaiian Pizza",$15.25 
+Woodstock's Pizza Davis,"8"" Cheese Pizza",$11.95 
+Woodstock's Pizza Davis,"8"" Pesto Primavera Pizza",$17.45 
+Woodstock's Pizza Davis,"8"" BBQ Bird Pizza ™",$17.45 
+Woodstock's Pizza Davis,"8"" Causeway",$17.45 
+Woodstock's Pizza Davis,"8"" Davis Classic",$17.45 
+Woodstock's Pizza Davis,"8"" Sriracha-Cha Pizza ™",$17.45 
+Woodstock's Pizza Davis,"8"" All Meat Pizza",$17.45 
+Woodstock's Pizza Davis,"8"" Garlic Bird Pizza ™",$17.45 
+Woodstock's Pizza Davis,"8"" Woody's Waui Pizza ™",$17.45 
+Woodstock's Pizza Davis,"8"" Grateful Veg Pizza ™",$17.45 
+Woodstock's Pizza Davis,"8"" Kickin' Carnitas Pizza ™",$17.45 
+Woodstock's Pizza Davis,"8"" The Club",$17.45 
+Pizza Twist,Plant-Based Pepperoni Pizzatwist*,$0.00+
+Pizza Twist,Plant-Based Cheese Pizzatwist*,$0.00+
+Pizza Twist,Supreme Pizzatwist,$0.00+
+Pizza Twist,Vegenation Pizzatwist,$0.00+
+Pizza Twist,Hawaiian Pizzatwist,$0.00+
+Pizza Twist,All Meat Pizzatwist,$0.00+
+Pizza Twist,Cheeseburger Pizzatwist,$0.00+
+Pizza Twist,Twistys Favorite Pizzatwist,$0.00+
+Pizza Twist,Creamy Garlic Chicken Pizzatwist,$0.00+
+Pizza Twist,Three Idiots Pizzatwist,$0.00+
+Pizza Twist,Chicken Bacon Ranch Pizzatwist,$0.00+
+Pizza Twist,Latino Pizzatwist,$0.00+
+Pizza Twist,Chicken Delight Pizzatwist,$0.00+
+Pizza Twist,BBQ Chicken Pizzatwist,$0.00+
+Pizza Twist,Buffalo Chicken Pizzatwist,$0.00+
+Pizza Twist,Italian Garlic Pizzatwist,$0.00+
+Pizza Twist,Mango Habanero Pizzatwist,$0.00+
+SUBWAY®,B.L.T.,$8.90+
+SUBWAY®,SunChips® Harvest Cheddar®,$2.90 
+SUBWAY®,Miss Vickie’s® Jalapeño,$2.90 
+SUBWAY®,Doritos® Nacho Cheese,$2.90 
+SUBWAY®,Lays® Baked Original,$2.90 
+SUBWAY®,Cheetos Crunchy Flamin’ Hot®,$2.90 
+SUBWAY®,Lay's® BBQ,$2.90 
+SUBWAY®,Miss Vickie's® Salt & Vinegar,$2.90 
+SUBWAY®,GoGo squeeZ® Apple Apple,$2.90 
+SUBWAY®,6 Pack Cookie Box,$5.90 
+SUBWAY®,#20 Elite Chicken & Bacon Ranch,$17.90 
+SUBWAY®,#16 All-Pro Sweet Onion Chicken Teriyaki®,$15.90 
+SUBWAY®,#1 The Philly,$16.90 
+SUBWAY®,#18 The Ultimate B.M.T.®,$14.90 
+SUBWAY®,#23 The Hotshot Italiano,$13.90 
+SUBWAY®,#15 Titan Turkey,$14.90 
+SUBWAY®,#99 Home Run Ham,$13.90 
+SUBWAY®,#10 All-American Club®,$16.90 
+SUBWAY®,#11 Subway Club®,$17.90 
+SUBWAY®,#30 The Beast,$18.90 
+SUBWAY®,Oven Roasted Turkey,$13.90 
+SUBWAY®,Rotisserie-Style Chicken,$15.90 
+SUBWAY®,Steak & Cheese,$15.90 
+SUBWAY®,Tuna,$13.90 
+SUBWAY®,Grilled Chicken,$14.90 
+SUBWAY®,Black Forest Ham,$12.90 
+SUBWAY®,Cold Cut Combo®,$11.90 
+SUBWAY®,Veggie Patty,$13.90 
+SUBWAY®,Roast Beef,$15.90 
+SUBWAY®,Oven Roasted Turkey & Ham,$13.90 
+SUBWAY®,B.L.T.,$13.90 
+SUBWAY®,Meatball Marinara,$12.90 
+Cenarios Pizza of Dixon,Tortellini Al Pesto,$12.99+
+Cenarios Pizza of Dixon,Sausage Rigatoni,$12.99+
+Cenarios Pizza of Dixon,Antipasto Salad,$8.99+
+Cenarios Pizza of Dixon,Garden Salads,$6.75+
+Cenarios Pizza of Dixon,Caesar Salad,$7.49+
+Cenarios Pizza of Dixon,Ranch,$0.60 
+Cenarios Pizza of Dixon,Marinara,$0.60 
+Cenarios Pizza of Dixon,Blue Cheese,$0.60 
+Cenarios Pizza of Dixon,Nashville Hot,$0.60 
+Cenarios Pizza of Dixon,Honey BBQ,$0.60 
+Cenarios Pizza of Dixon,1000 Island,$0.60 
+Cenarios Pizza of Dixon,Teriyaki,$0.60 
+Cenarios Pizza of Dixon,Bourbon BBQ,$0.60 
+Cenarios Pizza of Dixon,Sweet Red Chilli,$0.60 
+Cenarios Pizza of Dixon,Honey Hot,$0.60 
+Cenarios Pizza of Dixon,Mango Habanero,$0.60 
+Ju Hachi,Fireman Roll,$21.25 
+Ju Hachi,Capitol Roll,$21.25 
+Ju Hachi,Philadelphia Roll,$18.00 
+Ju Hachi,Ziggy Roll,$22.50 
+Ju Hachi,Caterpiller Roll,$20.00 
+Ju Hachi,Cindy Roll,$21.25 
+Ju Hachi,Ahi Ahi Roll,$21.25 
+Ju Hachi,Kohaku Roll,$21.25 
+Ju Hachi,Twin Shake Roll,$21.25 
+Ju Hachi,Corbett Roll,$21.25 
+Ju Hachi,Ahi Ahi Roll,$21.25 
+Ju Hachi,Sunrise Roll,$21.25 
+Ju Hachi,Spicy D Roll,$21.25 
+Ju Hachi,New Ju Hachi Roll,$36.25 
+Ju Hachi,Chubby Andy Roll,$21.25 
+Ju Hachi,Spicy Maria Roll,$21.00 
+Pizza Guys,Cheezee Jalapeño Bread,$9.99+
+Pizza Guys,Cheezee Bacon Bread,$9.99+
+Pizza Guys,Cheezee Pesto Bread,$9.99+
+Pizza Guys,Muncheez,$7.99+
+Pizza Guys,Calzone,$11.99+
+Pizza Guys,Cheezee Garlic Rolls,$9.99+
+Pizza Guys,Cheezee Pepperoni Rolls,$9.99+
+Pizza Guys,Cheezee Pepperoni Bread,$9.99+
+Pizza Guys,Penne Pollo Rustico Pasta,$9.99+
+Pizza Guys,Creamy Pesto Chicken Pasta,$9.99+
+Pizza Guys,Penne Cheese Marinara Pasta,$9.99+
+Pizza Guys,Penne Sausage Marinara Pasta,$9.99+
+Pizza Guys,Garden Salad,$8.99+
+Pizza Guys,Antipasto Salad,$10.99+
+Pizza Guys,Spinach Tomato Salad,$10.99+
+Pizza Guys,Chicken Bacon Ranch Salad,$10.99+
+Pizza Guys,Crispy Chicken Salad,$10.99+
+Pizza Guys,Mediterranean Salad,$8.99+
+Wienerschnitzel,Mango Tea,$6.79+
+Wienerschnitzel,Peach Tea,$6.79+
+Wienerschnitzel,Root Beer Float,$8.09 
+Wienerschnitzel,Froot Loops Shake,$8.79 
+Wienerschnitzel,OREO Cookie Chocolate Shake,$8.79 
+Wienerschnitzel,Reese's Peanut Butter Cups Shake,$8.79 
+Wienerschnitzel,Tastee Shake Vanilla,$7.49 
+Wienerschnitzel,Tastee Shake Chocolate,$7.49 
+Wienerschnitzel,Tastee Shake Strawberry,$7.49 
+Wienerschnitzel,Coca-Cola,$4.49+
+Wienerschnitzel,Coca-Cola Zero Sugar,$5.39+
+Wienerschnitzel,Diet Coke,$5.39+
+Wienerschnitzel,Sprite,$5.39+
+Wienerschnitzel,Dr Pepper,$5.39+
+Wienerschnitzel,Fanta Orange,$5.39+
+Wienerschnitzel,Barq's Root Beer,$5.39+
+Wienerschnitzel,Minute Maid Lemonade,$5.39+
+Wienerschnitzel,Fresh Brewed Iced Tea,$5.39+
+Wienerschnitzel,Bottled Water,$2.59 
+Ruchi Indian Cuisine,Gobi 65,$10.99 
+Ruchi Indian Cuisine,Egg Noodles,$11.99 
+Ruchi Indian Cuisine,Mixed Pakora,$10.99 
+Ruchi Indian Cuisine,Paneer 65,$9.99 
+Ruchi Indian Cuisine,Chilli Panner,$11.99 
+Ruchi Indian Cuisine,Mirchi Bajji,$8.99 
+Ruchi Indian Cuisine,Gobi 65,$10.99 
+Ruchi Indian Cuisine,Paneer Pakora,$9.99 
+Ruchi Indian Cuisine,Cut Mirchi,$9.99 
+Ruchi Indian Cuisine,Onion Pakora,$9.99 
+Ruchi Indian Cuisine,Panner Malai Kabab,$12.99 
+Ruchi Indian Cuisine,French Fries,$7.99 
+Ruchi Indian Cuisine,Samosa Chat,$8.99 
+Ruchi Indian Cuisine,Spinach Pakora,$9.99 
+Ruchi Indian Cuisine,Chat Papdi,$9.99 
+Ruchi Indian Cuisine,Chili Baby Corn,$9.99 
+Ruchi Indian Cuisine,Tandoori Chicken Bone-In,$15.99 
+Ruchi Indian Cuisine,Chicken 65,$11.99 
+Ruchi Indian Cuisine,Tandoori Chicken Tikka Kabab Boneless,$16.99 
+Ruchi Indian Cuisine,Chicken Lollipop,$13.99 
+Ruchi Indian Cuisine,Malai Chicken Kabab,$13.99 
+Ruchi Indian Cuisine,Chilli Chicken,$12.99 
+Ruchi Indian Cuisine,Lamb Tikka Kabbab,$16.99 
+Ruchi Indian Cuisine,Lamb Pepper Fry,$15.99 
+Ruchi Indian Cuisine,Fish Pakkora,$14.99 
+Ruchi Indian Cuisine,Pepper Chicken,$13.99 
+Ruchi Indian Cuisine,Tandoori Shrimp,$15.99 
+Ruchi Indian Cuisine,Chicken Nuggets,$11.99 
+Ruchi Indian Cuisine,Chicken Manchurian,$12.99 
+Ruchi Indian Cuisine,Chilli Shrimp,$14.99 
+Ruchi Indian Cuisine,Cashew Chicken,$13.99 
+Ruchi Indian Cuisine,Apollo Fish,$14.99 
+Ruchi Indian Cuisine,Veg Fried Rice,$11.99 
+Ruchi Indian Cuisine,Chicken Manchurian,$13.99 
+Ruchi Indian Cuisine,Chicken Fried Rice,$13.99 
+Ruchi Indian Cuisine,Veg Manchurian,$12.99 
+Ruchi Indian Cuisine,Egg Fried Rice,$12.99 
+Ruchi Indian Cuisine,Chicken Noodles,$12.99 
+Ruchi Indian Cuisine,Veg Noodles,$10.99 
+Ruchi Indian Cuisine,Egg Noodles,$11.99 
+Ruchi Indian Cuisine,Channa Masala,$12.99 
+Ruchi Indian Cuisine,Palak Paneer,$12.99 
+Ruchi Indian Cuisine,Dal Tadka,$11.99 
+Ruchi Indian Cuisine,Shahi Paneer,$12.99 
+Ruchi Indian Cuisine,Dal Makhani,$12.99 
+Ruchi Indian Cuisine,Mutter Paneer,$12.99 
+Ruchi Indian Cuisine,Paneer Butter Masala,$12.99 
+Ruchi Indian Cuisine,Gutthi Vankai Curry,$11.99 
+Raku Sushi,"R9. Rock ""N"" Roll",$11.00 
+Raku Sushi,R14. Spicy Tuna,$14.00 
+Raku Sushi,R51. King's,$12.00 
+Raku Sushi,R57. Bangkok,$11.00 
+Raku Sushi,R60. Salmon Lover,$15.00 
+Raku Sushi,R62. Caterpillar,$13.00 
+Raku Sushi,R63. Salmon Skin (6pcs),$15.00 
+Raku Sushi,R65. Bob's,$14.00 
+Raku Sushi,R66. Chris,$12.00 
+Raku Sushi,R69. Julie's,$15.00 
+Raku Sushi,Phoenix,$13.00 
+Raku Sushi,Miso Tuna,$13.00 
+Raku Sushi,N21. Sake,$13.00 
+Raku Sushi,N22. Maguro,$14.00 
+Raku Sushi,N23. Albacore,$3.50 
+Raku Sushi,N24. Hamachi,$3.50 
+Raku Sushi,N25. Saba,$3.50 
+Raku Sushi,N26. Tako,$3.50 
+Raku Sushi,N27. Ebi,$3.50 
+Raku Sushi,N28. Unagi,$3.50 
+Raku Sushi,N32. Izumi Dai,$3.50 
+Raku Sushi,N33. Masago,$4.50 
+Raku Sushi,N34. Kani,$3.50 
+Raku Sushi,N29. Ika,$3.50 
+Raku Sushi,N30. Tamago,$3.50 
+Raku Sushi,N31. Wakame,$3.50 
+Raku Sushi,N35. Inari,$3.50 
+Quickly Sacramento,Bana Berry Snow Smoothie,$6.49+
+Quickly Sacramento,Blueberry Snow Smoothie,$7.59+
+Quickly Sacramento,Caramel Snow Smoothie,$7.59+
+Quickly Sacramento,Chocolate Snow Smoothie,$7.59+
+Quickly Sacramento,Coffee Caramel Snow Smoothie,$7.59+
+Quickly Sacramento,Green Apple Snow Smoothie,$7.59+
+Quickly Sacramento,Honey Dew Snow Smoothie,$7.59+
+Quickly Sacramento,Kiwi Snow Smoothie,$7.59+
+Quickly Sacramento,Litchi Snow Smoothie,$7.59+
+Quickly Sacramento,Mocha Snow Smoothie,$7.59+
+Quickly Sacramento,Oreo Banana Snow,$6.49+
+Quickly Sacramento,Passion Fruit Snow Smoothie,$7.59+
+Quickly Sacramento,Red Bean Snow Smoothie,$6.49+
+Quickly Sacramento,Strawberry Snow Smoothie,$7.59+
+Quickly Sacramento,Tiger Milk Tea Snow Smoothie,$7.59+
+Quickly Sacramento,Hazelnut Sesame Snow Smoothie,$7.59+
+Quickly Sacramento,Taro Coconut Snow Smoothie,$7.59+
+Quickly Sacramento,Avocado Snow Smoothie,$6.49+
+Quickly Sacramento,Banana Snow Smoothie,$6.49+
+Quickly Sacramento,Cantaloupe Snow Smoothie,$7.59+
+Quickly Sacramento,Chocolate Banana Snow Smoothie,$6.49+
+Quickly Sacramento,Coconut Snow Smoothie,$7.59+
+Quickly Sacramento,Green Tea Snow Smoothie,$7.59+
+Quickly Sacramento,Horchata Snow Smoothie,$7.59+
+Quickly Sacramento,Lavender Snow Smoothie,$7.59+
+Quickly Sacramento,Mango Snow Smoothie,$7.59+
+Quickly Sacramento,Oreo Snow Smoothie,$6.49+
+Quickly Sacramento,Papaya Snow Smoothie,$7.59+
+Quickly Sacramento,Peach Snow Smoothie,$7.59+
+Quickly Sacramento,Reese's Snow Smoothie,$6.49+
+Quickly Sacramento,Thai Tea Snow Smoothie,$7.59+
+Quickly Sacramento,Vanilla Snow Smoothie,$7.59+
+Quickly Sacramento,White Chocolate Snow Smoothie,$7.59+
+Cafeteria15L,Grilled Ham and Cheese Sandwich with Tomato Soup,$19.25 
+Cafeteria15L,Fish and Chips,$26.75 
+Cafeteria15L,Grilled Hawaiian Rib Eye Steak,$41.50 
+Cafeteria15L,Grilled Atlantic Salmon,$34.50 
+Cafeteria15L,Slow Braised Beef Shortrib,$35.75 
+Cafeteria15L,Roasted Half Chicken,$33.00 
+Cafeteria15L,Rigatoni Bolognese,$20.25 
+Cafeteria15L,Lump Crab Crusted California Seabass,$38.75 
+Cafeteria15L,Chocolate Bombe,$10.25 
+Cafeteria15L,Mint Chip Mud Pie,$10.25 
+Cafeteria15L,Milkshakes,$9.00 
+Cafeteria15L,Pie Scream,$11.50 
+Chevy's Fresh Mex,CHEVYS SUPER CINCO,$25.50 
+Chevy's Fresh Mex,THREE AMIGOS COMBO,$27.75+
+Chevy's Fresh Mex,SURF N' TURF COMBO,$28.50+
+Chevy's Fresh Mex,Secret Sauce Burger,$17.00 
+Chevy's Fresh Mex,CARNE ASADA AND CHEESE ENCHILADA,$27.25 
+Chevy's Fresh Mex,GRILLED SALMON,$26.25 
+Chevy's Fresh Mex,STEAK & SHRIMP,$28.50 
+Chevy's Fresh Mex,STEAK & SHRIMP,$28.50 
+Chevy's Fresh Mex,GREEN ENCHILADAS,$9.99 
+Chevy's Fresh Mex,CHIPOTLE CHICKEN ENCHILADAS,$19.75 
+Chevy's Fresh Mex,SHRIMP & CRAB ENCHILADAS,$22.00 
+Chevy's Fresh Mex,FARMERS' MARKET ENCHILADAS,$18.50 
+Chevy's Fresh Mex,FAJITA CHICKEN BURRITO,$18.50 
+Chevy's Fresh Mex,FAJITA CARNITAS BURRITO,$18.50 
+Chevy's Fresh Mex,FAJITA STEAK BURRITO,$21.75 
+Chevy's Fresh Mex,MESQUITE-GRILLED VEGGIE BURRITO,$17.25 
+Chevy's Fresh Mex,CHICKEN SMOTHERED BURRITO,$19.00 
+Chevy's Fresh Mex,BEEF SMOTHERED BURRITO,$19.00 
+Chitas Taqueria,Fish Burrito,$3.80+
+Chitas Taqueria,Chita’s Fries,$13.25+
+Chitas Taqueria,Super Nachos,$3.95+
+Chitas Taqueria,Regular Nachos,$13.50 
+Chitas Taqueria,Side of French Fries,$13.25+
+Chitas Taqueria,Super Quesadilla,$12.50+
+Chitas Taqueria,Regular Quesadilla,$11.25 
+Chitas Taqueria,Cheese Quesadilla,$4.95 
+Chitas Taqueria,Flautas de Pollo,$12.50+
+Chitas Taqueria,Tamale Cheese & Jalapeño,$11.50+
+Chitas Taqueria,Tamale Pork,$7.00 
+Chitas Taqueria,Enchilada with Meat,$10.50 
+Chitas Taqueria,Enchilada Cheese,$3.95 
+Chitas Taqueria,Meat Sope,$4.00 
+Chitas Taqueria,Veggie Burrito,$4.50 
+Chitas Taqueria,Bean Deluxe Burrito,$4.00 
+Chitas Taqueria,Veggie Quesadilla,$6.00+
+Chitas Taqueria,Crispy Taco de Papa,$10.95 
+Chitas Taqueria,Bean Tostada,$9.00 
+Chitas Taqueria,Veggie Fries (Does not contain veggies),$12.00 
+Chitas Taqueria,Bean Sope,$3.95 
+Chitas Taqueria,Bean Taco,$5.50 
+Chitas Taqueria,12 oz. Salsa,$11.95 
+Chitas Taqueria,Individual 1 oz. Salsa,$5.00 
+Chitas Taqueria,1 oz. Avocado Salsa,$3.75 
+Chitas Taqueria,Large Bag Chips,$5.95 
+Chitas Taqueria,small chips,$0.50 
+Chitas Taqueria,Medium Chips,$0.50 
+Chitas Taqueria,2. Churros,$4.95 
+Chitas Taqueria,choco flan slice,$2.50 
+Chando's Tacos,NorCal - Asada,$13.79 
+Chando's Tacos,NorCal - Chicken,$13.79 
+Chando's Tacos,NorCal - Carnitas,$13.79 
+Chando's Tacos,NorCal - Adobada,$13.79 
+Chando's Tacos,NorCal - Chorizo,$13.79 
+Chando's Tacos,NorCal - Cochinita,$13.79 
+Chando's Tacos,NorCal - Fish,$13.79 
+Chando's Tacos,NorCal - Shrimp,$13.79 
+Chando's Tacos,NorCal - Fried Fish,$13.79 
+Chando's Tacos,NorCal - Veggie,$13.79 
+Chando's Tacos,NorCal - Birria,$13.79 
+Chando's Tacos,Burrito Bowl - Asada,$12.49 
+Chando's Tacos,Burrito Bowl - Chicken,$12.49 
+Chando's Tacos,Burrito Bowl - Carnitas,$12.49 
+Chando's Tacos,Burrito Bowl - Adobada,$12.49 
+Chando's Tacos,Burrito Bowl - Chorizo,$12.49 
+Chando's Tacos,Burrito Bowl - Cochinita,$12.49 
+Chando's Tacos,Burrito Bowl - Fish,$12.49 
+Chando's Tacos,Burrito Bowl - Shrimp,$12.49 
+Chando's Tacos,Burrito Bowl - Fried Fish,$12.49 
+Chando's Tacos,Burrito Bowl - Veggie,$12.49 
+Chando's Tacos,Burrito Bowl - Birria,$12.49 
+Cenarios Pizza Davis,Superrrific Pizza,$19.99+
+Il Fornaio- Sacramento,Grigliata di Pesce Misto*,$49.20 
+Il Fornaio- Sacramento,Scaloppine al Limone*,$50.40 
+Il Fornaio- Sacramento,Pollo alla Parmigiana,$42.00 
+Il Fornaio- Sacramento,Tiramisù,$16.80 
+Il Fornaio- Sacramento,Torta di Formaggio,$18.00 
+Il Fornaio- Sacramento,Famiglia Feast Pizza Pronta (serves 4),$102.00 
+Il Fornaio- Sacramento,Famiglia Feast Contadina (serves 4),$102.00 
+Il Fornaio- Sacramento,Famiglia Feast Pescatora (serves 4),$114.00 
+Il Fornaio- Sacramento,Cavolfiori (Serves 6),$66.00 
+Il Fornaio- Sacramento,Polpettine (Serves 6),$78.00 
+Il Fornaio- Sacramento,Bruschette Assortite,$66.00 
+Il Fornaio- Sacramento,Arancini con Crema di Pistacchio,$66.00 
+Il Fornaio- Sacramento,Cavoletti Arrostiti,$66.00 
+TOMO Tea House,Okumidori Matcha Latte,$6.40 
+TOMO Tea House,Kung Fu Black Tea,$4.90 
+TOMO Tea House,Jasmine Green Tea,$4.90 
+TOMO Tea House,Honey Jasmine Green Tea,$5.40 
+Nenas Mexican Cuisine,rice,$5.99+
+Nenas Mexican Cuisine,special salsa extra,$3.99+
+Nenas Mexican Cuisine,chips and salsa,$5.99 
+Nenas Mexican Cuisine,pico de gallo,$3.99 
+Nenas Mexican Cuisine,beans,$5.99+
+Nenas Mexican Cuisine,guacamole,$9.99 
+Nenas Mexican Cuisine,fajitas,$21.99 
+Nenas Mexican Cuisine,molcajete,$49.99 
+Nenas Mexican Cuisine,chicana,$17.99 
+Nenas Mexican Cuisine,chile verde,$15.99 
+Nenas Mexican Cuisine,tampiqueña,$19.25 
+Nenas Mexican Cuisine,platillo toluqueño,$19.25 
+Nenas Mexican Cuisine,birria,$16.50 
+Nenas Mexican Cuisine,milanesa con salsa verde with breaded beef steak,$18.99 
+Nenas Mexican Cuisine,carne asada,$18.99 
+Nenas Mexican Cuisine,chile colorado,$15.99 
+Nenas Mexican Cuisine,pollo a la parrilla,$17.99 
+Nenas Mexican Cuisine,bistec ranchero,$17.99 
+Nenas Mexican Cuisine,nenas cheese quesadilla,$13.99 
+SS CURREY EXPRESS Indian Cuisine,43. Fish Biryani,$18.99 
+SS CURREY EXPRESS Indian Cuisine,44. Basmati Rice,$6.99 
+SS CURREY EXPRESS Indian Cuisine,45. Biryani Rice,$9.99 
+SS CURREY EXPRESS Indian Cuisine,2 Piece Garlic Naan,$5.99 
+SS CURREY EXPRESS Indian Cuisine,2 Piece Chapathi,$6.99 
+SS CURREY EXPRESS Indian Cuisine,2 Piece Roti,$6.99 
+SS CURREY EXPRESS Indian Cuisine,Batura,$7.99 
+SS CURREY EXPRESS Indian Cuisine,46. Plain Dahi,$4.99 
+SS CURREY EXPRESS Indian Cuisine,47. Raitha,$6.99 
+SS CURREY EXPRESS Indian Cuisine,48. Indian Salad,$7.99 
+SS CURREY EXPRESS Indian Cuisine,Carrot Halwa,$5.99 
+SS CURREY EXPRESS Indian Cuisine,8 oz. Rice Pudding,$5.99 
+SS CURREY EXPRESS Indian Cuisine,8 oz. Kheer,$5.99 
+SS CURREY EXPRESS Indian Cuisine,54. Gulab Jamun,$5.99 
+SS CURREY EXPRESS Indian Cuisine,56. Mango Ice Cream,$5.99 
+IHOP,Split Decision Breakfast,$19.19+
+IHOP,Country Fried Steak & Eggs,$21.59+
+IHOP,T-Bone Steak & Eggs,$25.19+
+IHOP,Chicken & Pancakes,$19.19 
+IHOP,Quick 2-Egg Breakfast,$16.79+
+IHOP,Impossible™ Plant-Based Sausage Power Combo,$17.99 
+IHOP,Avocado Toast,$13.19+
+IHOP,Spicy Poblano Omelette,$21.59+
+IHOP,Big Steak Omelette,$22.79+
+IHOP,Chicken Fajita Omelette,$21.59+
+IHOP,Colorado Omelette,$22.79+
+IHOP,Bacon Temptation Omelette,$21.59+
+IHOP,Spinach & Mushroom Omelette,$20.39+
+IHOP,Veggie Egg White Omelette,$20.39 
+IHOP,Build Your Own Omelette+,$15.59+
+Joe's Crab Shack,Captain's Plate,$40.69 
+Joe's Crab Shack,Crab & Shrimp Pasta,$30.79 
+Joe's Crab Shack,East Coast Platter,$30.79 
+Joe's Crab Shack,Crab Cakes,$31.89 
+Joe's Crab Shack,Pasta Alfredo with Shrimp,$26.39 
+Joe's Crab Shack,Chicken Tenders,$20.89 
+Joe's Crab Shack,Not Joe Mama’s Chicken,$27.49 
+Joe's Crab Shack,Pasta Alfredo,$23.09 
+Joe's Crab Shack,Joe’s Top Sirloin*,$29.69 
+Joe's Crab Shack,Land & Sea,$31.89 
+Joe's Crab Shack,Skipper’s NY Strip*,$35.19 
+Joe's Crab Shack,Chicken Sandwich,$19.79 
+Joe's Crab Shack,Blackened Shrimp  Tacos,$21.99 
+Joe's Crab Shack,All-American Cheeseburger,$20.89 
+Joe's Crab Shack,Blackened  Fish Tacos,$21.99 
+Joe's Crab Shack,Crispy Shrimp Po’Boy,$18.69 
+Pizza Guys,Cheezee Jalapeño Bread,$9.99+
+Pizza Guys,Cheezee Bacon Bread,$9.99+
+Pizza Guys,Cheezee Pesto Bread,$9.99+
+Pizza Guys,Muncheez,$7.99+
+Pizza Guys,Calzone,$11.99+
+Pizza Guys,Cheezee Garlic Rolls,$9.99+
+Pizza Guys,Cheezee Pepperoni Rolls,$9.99+
+Pizza Guys,Cheezee Pepperoni Bread,$9.99+
+Pizza Guys,Penne Pollo Rustico Pasta,$9.99+
+Pizza Guys,Creamy Pesto Chicken Pasta,$9.99+
+Pizza Guys,Penne Cheese Marinara Pasta,$9.99+
+Pizza Guys,Penne Sausage Marinara Pasta,$9.99+
+Pizza Guys,Garden Salad,$8.99+
+Pizza Guys,Antipasto Salad,$10.99+
+Pizza Guys,Spinach Tomato Salad,$10.99+
+Pizza Guys,Chicken Bacon Ranch Salad,$10.99+
+Pizza Guys,Crispy Chicken Salad,$10.99+
+Pizza Guys,Mediterranean Salad,$8.99+
+Manchurian Indian & Nepalese Cuisine ,Chicken Breast Tikka Sizzler,$15.99 
+Manchurian Indian & Nepalese Cuisine ,Chicken Mo Mo,$13.99 
+Manchurian Indian & Nepalese Cuisine ,Vegetable Chow Mein,$12.99 
+Manchurian Indian & Nepalese Cuisine ,Paneer Wrap,$11.99 
+Manchurian Indian & Nepalese Cuisine ,Chicken Chow Mein,$13.99 
+Manchurian Indian & Nepalese Cuisine ,Himalayan Chicken Wrap,$12.99 
+Manchurian Indian & Nepalese Cuisine ,Chicken Hakka Noodles,$13.99 
+Manchurian Indian & Nepalese Cuisine ,Veg Hakka Noodles,$12.99 
+Manchurian Indian & Nepalese Cuisine ,Punjab Chana Masala,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Baingan Barta,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Aloo Gobi Masala,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Paneer Makhani,$15.99 
+Manchurian Indian & Nepalese Cuisine ,Palak Paneer,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Paneer Tikka Masala,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Mattar Paneer,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Mushroom Mattar,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Paneer Bhurji,$15.99 
+Manchurian Indian & Nepalese Cuisine ,Gobi Manchurian,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Dal Tadka,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Dal Makhani,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Farm Fresh Vegetable,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Aloo Palak,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Palak Chana,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Kadai Paneer,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Shahi Paneer,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Malai Kofta,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Cholle Bhature,$11.99 
+Manchurian Indian & Nepalese Cuisine ,Veg Manchurian,$14.99 
+Manchurian Indian & Nepalese Cuisine ,Butter Chicken,$15.99 
+Manchurian Indian & Nepalese Cuisine ,Chicken Kadai,$15.99 
+Manchurian Indian & Nepalese Cuisine ,Chicken Coconut,$15.99 
+Manchurian Indian & Nepalese Cuisine ,Chicken Korma,$15.99 
+Manchurian Indian & Nepalese Cuisine ,Goat Korma,$16.99 
+Manchurian Indian & Nepalese Cuisine ,Fish Korma,$16.99 
+Manchurian Indian & Nepalese Cuisine ,Lamb Korma,$16.99 
+Manchurian Indian & Nepalese Cuisine ,Shrimp Korma,$16.99 
+Manchurian Indian & Nepalese Cuisine ,Lamb Saag,$16.99 
+Manchurian Indian & Nepalese Cuisine ,Lamb Rogan Josh,$16.99 
+Papa Johns,Garlic Epic Stuffed Crust Pizza,$24.98+
+Papa Johns,BBQ Chicken Bacon Pizza,$15.39+
+Papa Johns,Fiery Buffalo Chicken Pizza,$15.39+
+Papa Johns,Philly Cheesesteak Pizza,$17.59+
+Papa Johns,Fresh Spinach & Tomato Alfredo Pizza,$17.59+
+Papa Johns,Garden Fresh Pizza,$15.39+
+Papa Johns,Tuscan Six Cheese Pizza,$15.39+
+Papa Johns,Hawaiian BBQ Chicken Pizza,$15.39+
+Papa Johns,Chicken Bacon Ranch Pizza,$17.59+
+Papa Johns,Spicy Italian Pizza,$15.39+
+Papa Johns,Hawaiian Pizza,$13.99+
+Papa Johns,Double Bacon Six Cheese Pizza,$17.59+
+Papa Johns,Tuscan Garden Pizza,$15.39+
+Papa Johns,Garlic Chicken Pizza,$15.39+
+Papa Johns,Chicken and Veggie Pizza,$17.59+
+Papa Johns,Create Your Own Papadia,$9.89+
+Papa Johns,Philly Cheesesteak Papadia,$9.89+
+Papa Johns,BBQ Chicken & Bacon Papadia,$9.89+
+Papa Johns,Grilled Buffalo Chicken Papadia,$9.89+
+Papa Johns,Parmesan Crusted Create Your Own Papadia,$10.99+
+Papa Johns,Parmesan Crusted Philly Cheesesteak Papadia,$10.99+
+Papa Johns,Parmesan Crusted BBQ Chicken & Bacon Papadia,$10.99+
+Papa Johns,Parmesan Crusted Grilled Buffalo Chicken Papadia,$10.99+
+Papa Johns,OREO® Cookie Papa Bites,$9.89+
+Papa Johns,Chicken Parmesan Papa Bites,$9.89+
+Papa Johns,Jalapeño Papa Bites,$7.69+
+Papa Johns,Unsauced Roasted Wings,$8.79+
+Papa Johns,Garlic Parmesan Wings,$9.89+
+Papa Johns,Hot Lemon Pepper Wings,$9.89+
+Papa Johns,Buffalo Wings,$9.89+
+Papa Johns,BBQ Wings,$9.89+
+Papa Johns,Honey Chipotle Wings,$9.89+
+Papa Johns,Unsauced Boneless Wings,$9.89+
+Papa Johns,Garlic Parmesan Boneless Wings,$9.89+
+Chicken N Waffles,Alma's Select,$18.89 
+Chicken N Waffles,Samson's Magic,$19.94 
+Chicken N Waffles,Brother's George,$15.74 
+Chicken N Waffles,Mark's Special,$15.74 
+Chicken N Waffles,Fred's Choice,$12.59 
+Chicken N Waffles,Joseph's Pick,$24.14 
+Chicken N Waffles,Baby Girl,$16.79 
+Chicken N Waffles,Bubba's Best,$17.84 
+Chicken N Waffles,Tina's Sweet and Savory,$18.89 
+Chicken N Waffles,Korean BBQ Wings,$15.74 
+Chicken N Waffles,BBQ Sweet and Savory Wings,$15.74 
+Chicken N Waffles,Mango Habenaro Wings,$15.74 
+Chicken N Waffles,Lemon Pepper Wings,$15.74 
+Chicken N Waffles,Garlic Parmasean Wings,$15.74 
+Chicken N Waffles,Louisiana Hot Wings,$15.74 
+Chicken N Waffles,Original Buffalo Wings,$15.74 
+Cocina Dona Chuyita,Chilaquiles Red,$14.99 
+Cocina Dona Chuyita,"(3) 3 Enchiladas R,B",$16.99 
+Cocina Dona Chuyita,(4) Meat Combo plate,$17.99 
+Cocina Dona Chuyita,(4)Barbacoa en caldo,$18.99 
+Cocina Dona Chuyita,(5) One Chile Relleno R&B,$13.99 
+Cocina Dona Chuyita,birria plate,$17.99 
+Cocina Dona Chuyita,(7)Fajitas,$17.99 
+Cocina Dona Chuyita,(8)BISTECK RANCHERO,$17.99 
+Cocina Dona Chuyita,(9)Chile Colorado,$17.99 
+Cocina Dona Chuyita,"(3) 2 Enchiladas R,B",$12.99 
+Cocina Dona Chuyita,(10) Chile Verde,$16.99 
+Cocina Dona Chuyita,CHILES ASADOS,$0.00 
+Cocina Dona Chuyita,Vaso De Barbacoa 32oz,$25.99 
+Cocina Dona Chuyita,Vaso De Barbacoa 24oz,$20.99 
+Cocina Dona Chuyita,Ceviche Pescado,$5.99 
+Cocina Dona Chuyita,Ceviche Camaron,$5.99 
+Cocina Dona Chuyita,Aguachile tostada,$5.99 
+Cocina Dona Chuyita,Aguachile plato,$18.99 
+Capitol Garage Coffee,12oz Latte,$4.00 
+Capitol Garage Coffee,12oz Mocha,$4.75 
+Capitol Garage Coffee,12oz White Mocha,$4.75 
+Capitol Garage Coffee,12oz Mex Mocha,$4.75 
+Capitol Garage Coffee,12oz Tea,$3.00 
+Capitol Garage Coffee,12oz Chai,$4.25 
+Capitol Garage Coffee,12oz Hot choc,$4.00 
+Capitol Garage Coffee,12oz Hot White choc,$4.25 
+Capitol Garage Coffee,12oz Hot Mex Choc,$4.25 
+Capitol Garage Coffee,20oz Capp,$5.25 
+Capitol Garage Coffee,20oz Chai,$6.00 
+Capitol Garage Coffee,20oz Coffee,$3.75 
+Capitol Garage Coffee,20oz Hot choc,$4.50 
+Capitol Garage Coffee,20oz Hot Mex Choc,$4.73 
+Capitol Garage Coffee,20oz Hot White choc,$4.73 
+Capitol Garage Coffee,20oz Latte,$5.25 
+Capitol Garage Coffee,20oz Mex Mocha,$5.75 
+Capitol Garage Coffee,20oz Mocha,$5.75 
+Capitol Garage Coffee,20oz Tea,$3.25 
+Capitol Garage Coffee,20oz White Mocha,$5.75 
+Pizza Guys,Cheezee Jalapeño Bread,$9.99+
+Pizza Guys,Cheezee Bacon Bread,$9.99+
+Pizza Guys,Cheezee Pesto Bread,$9.99+
+Pizza Guys,Muncheez,$7.99+
+Pizza Guys,Calzone,$11.99+
+Pizza Guys,Cheezee Garlic Rolls,$9.99+
+Pizza Guys,Cheezee Pepperoni Rolls,$9.99+
+Pizza Guys,Cheezee Pepperoni Bread,$9.99+
+Pizza Guys,Penne Pollo Rustico Pasta,$9.99+
+Pizza Guys,Creamy Pesto Chicken Pasta,$9.99+
+Pizza Guys,Penne Cheese Marinara Pasta,$9.99+
+Pizza Guys,Penne Sausage Marinara Pasta,$9.99+
+Pizza Guys,Garden Salad,$8.99+
+Pizza Guys,Antipasto Salad,$10.99+
+Pizza Guys,Spinach Tomato Salad,$10.99+
+Pizza Guys,Chicken Bacon Ranch Salad,$10.99+
+Pizza Guys,Crispy Chicken Salad,$10.99+
+Pizza Guys,Mediterranean Salad,$8.99+
+Naan Twist,Limca,$3.99 
+Naan Twist,Thumbs Up,$3.99 
+Naan Twist,Goli Wala Soda,$4.99 
+Naan Twist,Lassi Salt,$3.99 
+Naan Twist,Lassi Mango,$4.99 
+Naan Twist,Water,$2.99 
+Naan Twist,TANDOORI CHICKEN TIKKA PLATE,$14.99 
+Naan Twist,SOYA CHAAP PLATE TWIST (COOKED),$16.99 
+Naan Twist,Merinated Soya chaap (veg) 1 lb (RAW),$12.99 
+Naan Twist,Marinated Boneless Chicken Thighs (2lbs) (RAW),$16.99 
+Naan Twist,Tea 'n Coffee,$3.99 
+Naan Twist,Shakes,$0.00+
+Naan Twist,CAKE ROUND 2LBS EGG LESS,$65.00 
+Naan Twist,INDIAN Fresh  COOKIE GUR WALI,$12.99 
+Naan Twist,MIX INDIAN  SWEET BOX (SMALL),$14.99 
+Naan Twist,MIX INDIAN SWEET BOX (LARGE),$23.99 
+Naan Twist,Pastries Eggless,$5.99 
+Naan Twist,Pastry Regular,$5.99 
+Burger Den,Ketchup,$0.00 
+Burger Den,Salt,$0.00 
+Burger Den,Pepper,$0.00 
+Burger Den,Mustard,$0.00 
+Burger Den,Straw,$0.00 
+Burger Den,Stir Stick,$0.00 
+Burger Den,Half & Half,$0.00 
+Burger Den,Vanilla Creamer,$0.00 
+Burger Den,Sugar,$0.00 
+Burger Den,Yellow Packet Sweetener,$0.00 
+Burger Den,Blue Packet Sweetener,$0.00 
+Burger Den,Pink Packet Sweetener,$0.00 
+Star KTV Lounge & Tea Hub,Fried Squab 乳鴿,$19.95 
+Star KTV Lounge & Tea Hub,General Chicken 左宗棠雞,$15.95 
+Star KTV Lounge & Tea Hub,Ginger Sizzling Chicken 沙姜生炒黄毛鸡,$18.95 
+Star KTV Lounge & Tea Hub,House Fried Chicken 1/2 招牌炸子雞 1/2,$16.95 
+Star KTV Lounge & Tea Hub,House Fried Chicken 招牌炸子雞,$28.95 
+Star KTV Lounge & Tea Hub,House Soy Sauce Chicken 1/2 金牌豉油雞 1/2,$16.95 
+Star KTV Lounge & Tea Hub,House Soy Sauce Chicken 金牌豉油雞,$28.95 
+Star KTV Lounge & Tea Hub,Kung Pao Chicken 宮保雞,$15.95 
+Star KTV Lounge & Tea Hub,MAGGIE DUCK CHIN 美極鴨下巴(8),$17.95 
+Star KTV Lounge & Tea Hub,Orange Chicken 香橙雞,$15.95 
+Star KTV Lounge & Tea Hub,Poached Chicken Half 白切雞半只,$16.95 
+Star KTV Lounge & Tea Hub,Poached Chicken Whole 白切雞一隻,$28.95 
+Star KTV Lounge & Tea Hub,Roasted Duck 1/2 明爐燒鴨 1/2,$18.95 
+Star KTV Lounge & Tea Hub,Roasted Duck 明爐燒鴨,$32.95 
+Star KTV Lounge & Tea Hub,Sichuan Style Chicken 川椒雞,$15.95 
+Star KTV Lounge & Tea Hub,Sweet Sour Chicken 甜酸雞,$15.95 
+Star KTV Lounge & Tea Hub,ASPARAGUS SHRIMPS IN BLK BEANS 鼓汁蘆筍蝦,$17.95 
+Star KTV Lounge & Tea Hub,BRAISED TOFU COD FILLET 紅燒豆腐班腩煲,$18.95 
+Star KTV Lounge & Tea Hub,CLAMS IN BLACK BEAN SAUCE 豉汁炒蜆,$18.95 
+Star KTV Lounge & Tea Hub,COD FILLED IN BLACK BEAN SAUCE 豉汁班球,$17.95 
+Star KTV Lounge & Tea Hub,FILLET EGGPLANT POT 鱈魚茄子煲,$17.95 
+Star KTV Lounge & Tea Hub,FRIED LONGLEY FISH 干煎龍利魚,$24.95 
+Star KTV Lounge & Tea Hub,GARLIC SHRIMP VERMICELLI POT 蒜蓉粉絲蝦,$17.95 
+Star KTV Lounge & Tea Hub,GOLDEN SHRIMP 金沙蝦,$18.95 
+Star KTV Lounge & Tea Hub,PAN FRIED LONGLEY FISH FILLET 骨香龍利球,$32.95 
+Star KTV Lounge & Tea Hub,SALT PEPPER ASPARAGUS SHRIMP 椒鹽蘆筍蝦,$18.95 
+Star KTV Lounge & Tea Hub,SALT PEPPER COD FILLET 椒鹽班球,$17.95 
+Star KTV Lounge & Tea Hub,SALT PEPPER SHRIMP 椒鹽大蝦,$17.95 
+Star KTV Lounge & Tea Hub,SALTY FISH CHICKEN TOFU POT 咸魚雞粒豆腐煲,$17.95 
+Star KTV Lounge & Tea Hub,SEAFOOD TOFU POT 海鮮豆腐煲,$17.95 
+Star KTV Lounge & Tea Hub,SHRIMP IN LOBSTER SAUCE 蝦龍糊,$17.95 
+Star KTV Lounge & Tea Hub,SHRIMP IN MAGGIE SAUCE 美極皇蝦,$17.95 
+Star KTV Lounge & Tea Hub,SPICY HOT SHRIMP 香辣蝦,$17.95 
+Star KTV Lounge & Tea Hub,STIR FRY SEAFOOD IN XO SAUCE XO炒三鮮,$18.95 
+Star KTV Lounge & Tea Hub,WALNUT SHRIMP 核桃蝦,$18.95 
+Denny's,Bacon,$5.99+
+Denny's,Grilled Ham Slice,$5.39 
+Denny's,Egg,$5.09+
+Denny's,Biscuit and Gravy,$4.49 
+Denny's,Slices of Toast,$5.09+
+Denny's,Buttermilk Biscuits,$4.79 
+Denny's,English Muffin,$4.79+
+Denny's,Seasoned Red-Skinned Potatoes,$4.59 
+Denny's,Fresh Seasonal Fruit,$5.39 
+Denny's,Sausage Gravy,$1.19 
+Denny's,Classic Sampler,$17.19 
+Denny's,Boneless Chicken Wings,$14.39+
+Denny's,Mozzarella Cheese Sticks,$14.09 
+Denny's,Premium Chicken Tenders,$12.99 
+Denny's,Zesty Nachos,$16.59 
+Teaspoon,White Grape Oolong Tea,$6.90 
+Teaspoon,Rose Petal Oolong Tea,$6.90 
+Teaspoon,Osmanthus Oolong Tea,$6.90 
+Teaspoon,Jasmine Green Tea,$6.90 
+Teaspoon,Hojicha Green Tea,$6.90 
+Teaspoon,Genmaicha Green Tea,$6.90 
+Teaspoon,Rooibos Herbal Tea,$6.90 
+Teaspoon,House Milk Tea (includes 5 Drinks),$33.00 
+Teaspoon,Liquid Gold (includes 5 Drinks),$33.00 
+Teaspoon,Creamy Jasmine (includes 5 Drinks),$33.00 
+Teaspoon,Taro Lover (includes 5 Drinks),$33.00 
+Teaspoon,Black Sugar Assam (includes 5 Drinks),$33.00 
+Teaspoon,"Option A - 5 Drinks, 6 Macarons",$48.00 
+Teaspoon,"Option B - 5 Drinks, 2 Lemon Bar, 2 Macarons, 2 Chocolate Brownie",$55.00 
+Teaspoon,Chocolate Brownie 10 pc,$40.00 
+Teaspoon,Marshmallow Bar 10 pc,$33.00 
+Teaspoon,Uglies Chips 10 pc,$28.00 
+Kabab Corner,Chicken Haleem,$11.99 
+Kabab Corner,Chicken Keema Masala,$13.99 
+Kabab Corner,Chicken Palak,$11.99 
+Kabab Corner,Chicken Kofta Curry,$13.99 
+Kabab Corner,Chicken Shashlik,$15.99 
+Kabab Corner,Chicken Chili,$12.99 
+Kabab Corner,Goat Curry,$14.99 
+Kabab Corner,Goat Karahi,$15.99 
+Kabab Corner,Mutton Curry,$13.99 
+Kabab Corner,Mutton Karahi,$13.99 
+Kabab Corner,Mutton Korma,$13.99 
+Kabab Corner,Mutton Achari,$13.99 
+Kabab Corner,Mutton Palak,$13.99 
+Kabab Corner,Fish Tandoori,$11.99 
+Kabab Corner,Fish Pakora,$11.99 
+Kabab Corner,Shrimp Masala,$13.99 
+Kabab Corner,Fish Masala,$13.99 
+Kabab Corner,Veggie Chow Mein,$8.99 
+Papa Murphy's,Dairy-Free Cheese Herb Chicken Mediterranean - Baking Required,$19.00+
+Papa Murphy's,Dairy-Free Cheese Garden Veggie - Baking Required,$17.00+
+Papa Murphy's,Dairy-Free Greek Pepperoni - Baking Required,$18.99+
+Papa Murphy's,Dairy-Free Tuscan Chicken & Sausage - Baking Required,$18.99+
+Papa Murphy's,Dairy-Free Cheese Mini Murph® Pepperoni - Baking Required,$6.99 
+Papa Murphy's,Dairy-Free Cheese Mini Murph® Cheese - Baking Required,$6.99 
+Papa Murphy's,Dairy-Free Cheese Big Murphy's Stuffed - Baking Required,$26.99+
+Papa Murphy's,Dairy-Free Cheese Chicago-Style Stuffed- Baking Required,$26.99+
+Papa Murphy's,Dairy-Free Cheese 5-Meat Stuffed - Baking Required,$26.99+
+Papa Murphy's,Dairy-Free Cheese Chicken Bacon Stuffed- Baking Required,$26.99+
+Papa Murphy's,Create Your Own Stuffed - Baking Required,$23.99+
+Papa Murphy's,Big Murphy's Stuffed - Baking Required,$23.99+
+Papa Murphy's,Chicago-Style Stuffed - Baking Required,$23.99+
+Papa Murphy's,5-Meat Stuffed - Baking Required,$23.99+
+Papa Murphy's,Chicken Bacon Stuffed - Baking Required,$23.99+
+Taqueria La Garita Mexican Food ,Chips & Salsa,$10.00 
+Taqueria La Garita Mexican Food ,Camarones A La Cora,$18.99 
+Taqueria La Garita Mexican Food ,Camarones A La Diabla,$18.99 
+Taqueria La Garita Mexican Food ,Camarones Al Mojo De Ajo,$17.99 
+Insomnia Cookies,Oatly,$6.00 
+Insomnia Cookies,Coca-Cola ®️,$5.50 
+Insomnia Cookies,Coca-Cola Zero Sugar ®️,$5.50 
+Insomnia Cookies,Powerade ®️,$5.50 
+Casa Jalisco,Asada Fries.,$11.49 
+Casa Jalisco,Nachos,$11.49 
+ShareTea Davis,Pearl Ice Cream (OREO),$6.61 
+ShareTea Davis,Pearl Ice Cream (STRAWBERRY),$6.04 
+ShareTea Davis,Pearl Ice Cream (MANGO),$6.04 
+ShareTea Davis,Pearl Ice Cream (BROWN SUGAR),$6.04 
+ShareTea Davis,Pearl Ice Cream (HONEY),$6.04 
+ShareTea Davis,Classic Milk Tea,$6.61 
+ShareTea Davis,Honey Milk Tea,$6.89 
+ShareTea Davis,Classic Coffee (Water Base),$6.89 
+ShareTea Davis,Coffee Milk Tea (Tea Base),$6.89 
+ShareTea Davis,Classic Pearl Milk Tea (Boba),$7.48 
+ShareTea Davis,Hokkaido Pearl Milk Tea (Boba),$7.88 
+ShareTea Davis,Okinawa Pearl Milk Tea (Boba),$7.88 
+ShareTea Davis,Taro Pearl Milk Tea (Boba),$7.88 
+ShareTea Davis,Thai Pearl Milk Tea (Boba),$7.88 
+ShareTea Davis,Mango Green Milk Tea,$8.04 
+ShareTea Davis,Matcha Red Bean Milk Tea,$8.04 
+ShareTea Davis,QQ Happy Family Milk Tea,$8.04 
+Pressed Retail,Hilma Functional Tonic | Trust Your Gut,$7.94 
+Pressed Retail,Detox Tonic,$7.94 
+Pressed Retail,Immunity Tonic,$7.94 
+Pressed Retail,Cold Pressed Celery Juice,$7.94 
+Pressed Retail,Greens 1 | Cucumber Celery Juice,$7.94 
+Pressed Retail,Greens 1.5 | Spinach Kale Juice,$7.94 
+Pressed Retail,Greens 2 | Apple Lemon Kale Juice,$7.94 
+Pressed Retail,Greens 3 | Spinach Ginger Juice,$7.94 
+Pressed Retail,Greens 4 | Celery Lemon Cayenne Juice,$7.94 
+Pressed Retail,Roots 1,$7.94 
+Pressed Retail,Roots 2,$7.94 
+Pressed Retail,Roots 3,$7.94 
+Jamba Juice,Purely Carrot™,$16.50+
+Jamba Juice,Ginger Lemon Cayenne,$6.25 
+Jamba Juice,Ginger Orange Cayenne,$6.25 
+T4 Davis ,Online_Strawberry Banana Smoothie,$7.25 
+T4 Davis ,Online_Winter Melon,$6.25 
+T4 Davis ,Online_Winter Melon Lemon,$6.25 
+T4 Davis ,Online_Honey Aloe,$6.75 
+T4 Davis ,Online_Honey Grass Jelly,$6.75 
+T4 Davis ,Online_Kumquat Lemon,$6.25 
+T4 Davis ,Online_Elegant Rose Aloe,$6.25 
+T4 Davis ,Online_Ginger Milk Tea (Hot Only),$7.25 
+T4 Davis ,Online_Ginger Tea (Hot Only),$7.25 
+Country West Liquor,7UP - 2L Bottle/Single,$4.99 
+Country West Liquor,Canada Dry Club Soda - 1L Bottle/Single,$4.99 
+Country West Liquor,Snapple Peach Tea - 16 oz Bottle/Single,$4.99 
+Country West Liquor,Gatorade Orange - 28 oz Bottle/Single,$3.99 
+Country West Liquor,Monster Energy Ultra Blue - 16 oz Can/Single,$3.99 
+Country West Liquor,Cheetos Flamin Hot - 3.38 oz Bag/Single,$3.99 
+Country West Liquor,Hubba Bubba Bubble Tape Awesome Original - 2 oz/Single,$2.99 
+Country West Liquor,Sour Patch Kids Watermelon - 3.6 oz/Single,$2.99 
+Country West Liquor,5 Gum Peppermint Cobalt - 15 Piece/Single,$3.99 
+Country West Liquor,Fritos Flavor Twists Honey BBQ - 3-4 oz Bag/Single,$3.99 
+Country West Liquor,Pringles Sour Cream & Onion - 5.5 oz/Single,$4.99 
+Country West Liquor,Sour Punch Straws - 4.5 oz/Single,$3.99 
+Country West Liquor,Doritos Dinamita Chile Lemón - 11.25 oz/Single,$3.99 
+Country West Liquor,Eclipse Sugarfree Gum Spearmint - 0.60 OZ Pack/Single,$3.99 
+Country West Liquor,Trident Watermelon Twist - 14 Pieces/Single,$3.99 
+Country West Liquor,Chex Mix Savory Traditional Snack Mix - 3.75 oz Bag/Single,$4.99 
+Country West Liquor,Reese's Peanut Butter Cups - 2.8 oz King Size/Single,$3.99 
+Country West Liquor,Trident Original - 14 Pieces/Single,$3.99 
+Country West Liquor,Oreo's - 2.4 oz/Single,$3.99 
+Country West Liquor,Munchies Cheese Fix - 3 oz/Single,$3.99 
+Country West Liquor,Chester's Hot Fries - 4 oz/Single,$3.99 
+Country West Liquor,Pure Organic Chocolate Brownie  - 20.40 OZ Box/Single,$6.99 
+Country West Liquor,Grandma's Peanut Butter Cookies - 2.5 oz/2 Pack,$2.99 
+Country West Liquor,Wrigley's Orbit Sugarfree Gum Spearmint - 0.95 OZ Box/Single,$3.99 
+Country West Liquor,5 Gum Spearmint Rain - 15 Piece/Single,$3.99 
+Country West Liquor,Cheetos Crunchy - 3.5 oz Bag/Single,$3.99 
+Country West Liquor,Fritos Chili Cheese Flavored Corn Chips - 4.25 oz/Single,$3.99 
+Country West Liquor,Hershey's Candy Bar Cookies'n'Crème - 1.55 OZ Foil Wrapper/Single,$2.99 
+Country West Liquor,5 Gum Watermelon Prism - 15 Piece/Single,$3.99 
+Country West Liquor,Grandma's Chocolate Brownie Cookies - 2.5 oz/2 Pack,$2.99 
+Country West Liquor,Hubba Bubba Max Outrageous Original - 5 Pieces/Single,$2.99 
+Country West Liquor,Pringles Original - 5.2 oz/Single,$4.99 
+Country West Liquor,Cheetos Flamin Hot Limón - 3.38 oz/Single,$3.99 
+Country West Liquor,Tic Tac Wintergreen - 1 oz/Single,$2.99 
+Country West Liquor,5 Gum Wintermint Ascent - 15 Piece/Single,$3.99 
+Loop Neighborhood Market,Skittles Tear N Share  4oz,$3.24 
+Loop Neighborhood Market,Skittles Wild Berry Ks 4oz,$3.24 
+Loop Neighborhood Market,Kind Bar Dk Choc Nuts Sea Salt 1.4oz,$3.49 
+Loop Neighborhood Market,Quest Bar Choc Chip Ckie Dough  2.12oz,$4.69 
+Loop Neighborhood Market,Met Rx Big 100 Supr Cookie Crnch 3.52oz,$5.35 
+Loop Neighborhood Market,David Snflwr Sds Rsod  5.25oz,$3.11 
+Loop Neighborhood Market,David Snflwr Sds Jumbo Orig  5.25oz,$3.11 
+Loop Neighborhood Market,Wonderful Pistachios Swt Chili  4.5oz,$6.24 
+Loop Neighborhood Market,Wonderful Pistachios  5oz,$6.24 
+Loop Neighborhood Market,Snak Club SV Cape Cd Trl Mx 6oz,$7.61 
+Loop Neighborhood Market,Snak Club Energizer Trail Mix Resealable  6.75oz,$5.24 
+Loop Neighborhood Market,Planters Big Bag Salted Peanuts 6oz,$3.49 
+Loop Neighborhood Market,Planters Big Bag Cashews Salt  3oz,$4.24 
+Loop Neighborhood Market,Planters Big Bag  H R Cashews  3oz,$4.24 
+Loop Neighborhood Market,Old Trapper Jerky Trad Peppered 10oz,$27.24 
+Loop Neighborhood Market,Cheetos Crunchy Flamin' Hot Small Bag,$2.89 
+Loop Neighborhood Market,Cheetos Crunchy Flamin' Hot Limon 8.5oz,$6.49 
+Loop Neighborhood Market,Keebler Club Crackers 5.25oz,$3.69 
+Loop Neighborhood Market,Cheez-It White Cheddar 7oz,$3.69 
+Loop Neighborhood Market,Cheez-It Orig  7oz,$5.49 
+Loop Neighborhood Market,Snyders Peanut Butter Filled Pieces 5oz,$4.69 
+Loop Neighborhood Market,Snyders Honey Mustard Onion Pretzel 5oz,$3.49 
+Loop Neighborhood Market,KrackCorn Popcorn 4oz,$4.39 
+Loop Neighborhood Market,Bugles Ranch  3oz,$3.39 
+Loop Neighborhood Market,Bugles Original  3oz,$3.39 
+Starbucks,Iced Black Tea,$4.15+
+Starbucks,Iced Black Tea Lemonade,$4.75+
+Starbucks,Iced Green Tea,$4.15+
+Starbucks,Iced Green Tea Lemonade,$4.75+
+Starbucks,Iced Peach Green Tea,$4.75+
+Starbucks,Iced Peach Green Tea Lemonade,$5.15+
+Starbucks,Iced Passion Tango® Tea,$4.15+
+Starbucks,Iced Passion Tango® Tea Lemonade,$4.75+
+Starbucks,Matcha Crème Frappuccino® Blended Beverage,$7.15+
+Starbucks,Strawberry Açaí Lemonade Refresher,$6.55+
+Starbucks,Mango Dragonfruit Lemonade Refresher,$6.55+
+Starbucks,Blackberry Sage Lemonade Refresher,$7.15+
+Starbucks,Pink Drink,$6.55+
+Starbucks,Dragon Drink®,$6.55+
+Starbucks,Midnight Drink,$7.15+
+Starbucks,Strawberry Açaí Refresher,$5.75+
+Starbucks,Mango Dragonfruit Refresher,$5.75+
+Starbucks,Blackberry Sage Refresher,$6.55+
+Loop Neighborhood Market,KrackCorn Popcorn 4oz,$4.39 
+Loop Neighborhood Market,Snyders Honey Mustard Onion Pretzel 5oz,$3.49 
+Loop Neighborhood Market,Snyders Peanut Butter Filled Pieces 5oz,$4.69 
+Loop Neighborhood Market,Cheez-It Orig  7oz,$5.49 
+Loop Neighborhood Market,Cheez-It White Cheddar 7oz,$3.69 
+Loop Neighborhood Market,Keebler Club Crackers 5.25oz,$3.69 
+Loop Neighborhood Market,Hot Pocket Pizza Pepperoni Super 8 oz.,$3.99 
+Loop Neighborhood Market,Hillshire Genoa Salame Small Plate 2.76 oz.,$4.99 
+Loop Neighborhood Market,Hillshire Ids Cheese Small Plate 2.76 oz.,$4.99 
+Loop Neighborhood Market,Om Lunchable Turkey Cheddar Cracker 3.2 oz/,$5.49 
+Loop Neighborhood Market,Om Lunchable Ham Cheddar 3.2 oz.,$5.49 
+Loop Neighborhood Market,Volpi Roltini Mozzarella Prsc 1.5 oz.,$2.69 
+Loop Neighborhood Market,Volpi Mozzarella Spicy Salami 1.5 oz.,$2.69 
+Loop Neighborhood Market,Volpi Roltini Moz Pep 1.5 oz.,$2.69 
+Loop Neighborhood Market,Hillshire Small Plates Prosciutto 2.4oz,$4.99 
+Loop Neighborhood Market,Don Miguel Bomb Beef Bean Cheese  14oz,$4.74 
+Loop Neighborhood Market,Don Miguel Bomb Beef Bean Cheese Green Chili  14oz,$4.74 
+Loop Neighborhood Market,Don Miguel Bomb Spicy Red Hot Beef Bean  14oz,$4.49 
+Loop Neighborhood Market,Loop Chicken Caesar Wrap,$7.49 
+Loop Neighborhood Market,Loop Greek Style Veggie Wrap,$7.49 
+Loop Neighborhood Market,Loop Southwest Style Chicken Wrap,$7.49 
+Loop Neighborhood Market,Loop Cheeseburger,$7.49 
+Loop Neighborhood Market,Loop Beef Tamale,$3.79 
+Loop Neighborhood Market,Loop Chicken Tamale,$3.79 
+Loop Neighborhood Market,Loop Chorizo Tamale,$3.79 
+Loop Neighborhood Market,Loop Chunky Burrito,$4.99 
+Loop Neighborhood Market,Loop Chupa Cabra Burrito,$4.99 
+Loop Neighborhood Market,Loop El Moro Burrito,$4.99 
+Loop Neighborhood Market,Loop Fuego Burritos,$4.99 
+Loop Neighborhood Market,Loop Gorda Burrito,$4.99 
+Loop Neighborhood Market,Loop Chef Salad,$7.86 
+Loop Neighborhood Market,Loop Chicken Caesar Salad,$7.86 
+Loop Neighborhood Market,Loop 3 Meat Italian Sandwiches,$9.99 
+Loop Neighborhood Market,Loop Chicken Salad Sandwiches,$6.29 
+Loop Neighborhood Market,Loop Egg Salad Sandwiches,$6.29 
+Loop Neighborhood Market,Loop Ham Swiss Sandwiches,$7.49 
+Loop Neighborhood Market,Loop The Supreme Sandwiches,$9.99 
+Loop Neighborhood Market,Loop Tuna Salad Sandwiches,$6.29 
+Loop Neighborhood Market,Loop Turkey Cheddar Sandwiches,$7.49 
+Loop Neighborhood Market,Loop Canadian Bacon English Muffin,$5.69 
+Loop Neighborhood Market,Loop Sausage Biscuit,$5.69 
+Loop Neighborhood Market,Loop Turkey Cheddar Croissant,$8.19 
+Loop Neighborhood Market,Loop Sausage Croissant,$6.69 
+Loop Neighborhood Market,"Breakfast Sandwich (Sausage, Egg, Cheese)",$4.99 
+Power Market 3027,Crushed Ice,$3.67+
+Power Market 3027,Lucky Charms Cup,$2.06 
+Power Market 3027,Cinnamon Toast Crunch Cup,$2.06 
+Power Market 3027,Honey Nut Cheerios Cup,$2.06 
+Power Market 3027,Captain Crunch Cup,$2.06 
+Power Market 3027,Digiorno's Pizza Thin Crust,$8.73 
+Power Market 3027,Digiorno Pepperoni Personal,$4.93 
+Power Market 3027,Starbucks Frappuccino,$4.24 
+Power Market 3027,Yerba Mate,$3.44 
+Power Market 3027,Pedialyte Fruit Flavored,$10.34 
+Power Market 3027,Gatorade Cool Blue,$2.06 
+Power Market 3027,Gatorade Glacier Freeze,$2.06 
+Power Market 3027,Gatorade Orange,$2.06 
+Power Market 3027,Aquafina 1.5l,$2.52 
+Power Market 3027,Nestle Pure Life,$6.89 
+Power Market 3027,Power-C Dragonfruit Vitamin Water 32oz,$2.86 
+Power Market 3027,Core Hydration,$2.98 
+Power Market 3027,Refresh Tropical Mango Vitamin Water 32oz,$2.86 
+Power Market 3027,Fiji Water 1.5 liter,$3.78 
+Loop Neighborhood Market,Trolli Bite Crawler Eggs 4 oz.,$2.74 
+Loop Neighborhood Market,Sour Patch soft and Chewy 5 oz.,$2.74 
+Loop Neighborhood Market,Kind Bar Dk Choc Nuts Sea Salt 1.4oz,$3.49 
+Loop Neighborhood Market,Quest Bar Choc Chip Ckie Dough  2.12oz,$4.69 
+Loop Neighborhood Market,Met Rx Big 100 Supr Cookie Crnch 3.52oz,$5.35 
+Loop Neighborhood Market,Old Trapper Jerky Trad Peppered 10oz,$27.24 
+Loop Neighborhood Market,Planters Big Bag  H R Cashews  3oz,$4.24 
+Loop Neighborhood Market,Planters Big Bag Cashews Salt  3oz,$4.24 
+Loop Neighborhood Market,Planters Big Bag Salted Peanuts 6oz,$3.49 
+Loop Neighborhood Market,Snak Club Energizer Trail Mix Resealable  6.75oz,$5.24 
+Loop Neighborhood Market,Snak Club SV Cape Cd Trl Mx 6oz,$7.61 
+Loop Neighborhood Market,Wonderful Pistachios  5oz,$6.24 
+Loop Neighborhood Market,Wonderful Pistachios Swt Chili  4.5oz,$6.24 
+Loop Neighborhood Market,David Snflwr Sds Jumbo Orig  5.25oz,$3.11 
+Loop Neighborhood Market,David Snflwr Sds Rsod  5.25oz,$3.11 
+Loop Neighborhood Market,Mike Ike  5oz,$2.24 
+Loop Neighborhood Market,Milk Duds  5oz,$2.99 
+Loop Neighborhood Market,Redvines  5oz,$3.24 
+Loop Neighborhood Market,Skittles Tear N Share  4oz,$3.24 
+Loop Neighborhood Market,Skittles Wild Berry Ks 4oz,$3.24 
+Loop Neighborhood Market,Kinder Joy .7oz,$3.24 
+Loop Neighborhood Market,Keebler Club Crackers 5.25oz,$3.69 
+Loop Neighborhood Market,Cheez-It White Cheddar 7oz,$3.69 
+Loop Neighborhood Market,Cheez-It Orig  7oz,$5.49 
+Loop Neighborhood Market,Snyders Peanut Butter Filled Pieces 5oz,$4.69 
+Loop Neighborhood Market,Snyders Honey Mustard Onion Pretzel 5oz,$3.49 
+Loop Neighborhood Market,KrackCorn Popcorn 4oz,$4.39 
+Loop Neighborhood Market,Bugles Ranch  3oz,$3.39 
+Loop Neighborhood Market,Bugles Original  3oz,$3.39 
+Loop Neighborhood Market,Cheetos Crunchy Flamin' Hot Limon 8.5oz,$6.49 
+Loop Neighborhood Market,Southern Recipe Pine Chile Ancho Pork Rinds  2oz,$2.89 
+Loop Neighborhood Market,Southern Recipe Kimichi Bbq Pork Rind 2oz,$2.89 
+Loop Neighborhood Market,Cheetos Crunchy Flamin' Hot Small Bag,$2.89 
