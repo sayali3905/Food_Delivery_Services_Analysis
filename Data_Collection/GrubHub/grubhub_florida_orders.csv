@@ -1,0 +1,40 @@
+Restaurant Name,Item Name,Quantity,Price,Subtotal,Delivery Fee,Taxes & Other Fees,Total
+Burger King,Original Chicken Sandwich,1,$6.09,$21.16,$2.49,$4.76,$28.41
+Burger King,French Fries,1,$3.99,$21.16,$2.49,$4.76,$28.41
+Burger King,Whopper,1,$7.29,$21.16,$2.49,$4.76,$28.41
+Burger King,Coca-Cola,1,$3.79,$21.16,$2.49,$4.76,$28.41
+IHOP,Cinnamon Dippers,1,$8.39,$27.81,$2.99,$6.26,$37.06
+IHOP,New Caramel Apple Lemonade,1,$5.63,$27.81,$2.99,$6.26,$37.06
+IHOP,Original Buttermilk Pancakes - (Full Stack),1,$13.79,$27.81,$2.99,$6.26,$37.06
+Insomnia Cookies,Deluxe 4-pack,1,$19.75,$27.00,$3.99,$5.20,$36.19
+Insomnia Cookies,Ice Cream in a Cup,1,$7.25,$27.00,$3.99,$5.20,$36.19
+KFC,8 pc. Chicken Only,1,$23.99,$34.41,$2.49,$6.88,$43.78
+KFC,Spicy Chicken Sandwich,1,$7.19,$34.41,$2.49,$6.88,$43.78
+KFC,Pepsi,1,$3.23,$34.41,$2.49,$6.88,$43.78
+McDonald's,French Fries,1,$4.79,$20.16,$0.99,$4.81,$25.96
+McDonald's,10 pc. Chicken McNuggets®,1,$6.29,$20.16,$0.99,$4.81,$25.96
+McDonald's,Iced Coffee,1,$2.89,$20.16,$0.99,$4.81,$25.96
+McDonald's,Big Mac®,1,$6.19,$20.16,$0.99,$4.81,$25.96
+Panda Express,Plate,1,$16.30,$43.85,$3.49,$9.87,$57.21
+Panda Express,Bowl,1,$12.55,$43.85,$3.49,$9.87,$57.21
+Panda Express,Honey Sesame Chicken Breast,1,$6.75,$43.85,$3.49,$9.87,$57.21
+Panda Express,Super Greens,1,$5.75,$43.85,$3.49,$9.87,$57.21
+Panda Express,Veggie Spring Roll,1,$2.50,$43.85,$3.49,$9.87,$57.21
+Starbucks,Caffè Latte,1,$5.25,$28.10,$2.49,$6.84,$37.43
+Starbucks,Cappuccino,1,$5.25,$28.10,$2.49,$6.84,$37.43
+Starbucks,Caramel Macchiato,1,$6.15,$28.10,$2.49,$6.84,$37.43
+Starbucks,Chocolate Cake Pop,1,$3.95,$28.10,$2.49,$6.84,$37.43
+Starbucks,Double Chocolate Brownie,1,$4.55,$28.10,$2.49,$6.84,$37.43
+Starbucks,Hot Chocolate,1,$2.95,$28.10,$2.49,$6.84,$37.43
+SUBWAY®,Pepsi®,1,$3.49,$22.66,$2.49,$5.10,$30.25
+SUBWAY®,Double Chocolate,1,$0.99,$22.66,$2.49,$5.10,$30.25
+SUBWAY®,Steak & Cheese,1,$8.79,$22.66,$2.49,$5.10,$30.25
+SUBWAY®,Grilled Chicken,1,$9.39,$22.66,$2.49,$5.10,$30.25
+Taco Bell,Crunchwrap Supreme®,1,$7.30,$20.17,$1.49,$4.03,$25.69
+Taco Bell,Grilled Cheese Burrito,1,$6.81,$20.17,$1.49,$4.03,$25.69
+Taco Bell,MTN DEW® Baja Blast®,1,$3.03,$20.17,$1.49,$4.03,$25.69
+Taco Bell,Cinnabon Delights® 2 Pack,1,$3.03,$20.17,$1.49,$4.03,$25.69
+Wendy's,Parmesan Caesar Salad,1,$10.29,$25.66,$2.99,$5.65,$34.30
+Wendy's,French Fries,1,$3.29,$25.66,$2.99,$5.65,$34.30
+Wendy's,Dave's Double®,1,$8.39,$25.66,$2.99,$5.65,$34.30
+Wendy's,6 PC. Spicy Chicken Nuggets,1,$3.69,$25.66,$2.99,$5.65,$34.30
